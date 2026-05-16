@@ -2,6 +2,7 @@
 """
 Monitor de elrobleperfumado.com
 Usa Playwright para evadir el bloqueo 403
+Sin límites de avisos y con protección anti-crash
 """
 
 import json
@@ -31,8 +32,12 @@ STATE_FILE = "estado_productos_roble.json"
 
 def cargar_estado():
     if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except json.JSONDecodeError as e:
+            print(f"  ⚠️ Archivo de estado corrupto ignorado ({e}). Empezando de cero.")
+            return {}
     return {}
 
 
@@ -45,7 +50,8 @@ def parsear_productos(html):
     soup = BeautifulSoup(html, "html.parser")
     productos = {}
 
-    for art in product_list.select("li.ajax_block_product"):
+    # CORREGIDO: Cambiamos product_list.select por soup.select
+    for art in soup.select("li.ajax_block_product"):
         link = art.select_one("a.product-name")
         if not link:
             continue
@@ -125,7 +131,8 @@ def scrape_categoria(page, url):
         pagina += 1
         time.sleep(1)
 
-        if pagina > total or pagina > 50:
+        # Aumentamos el límite de seguridad de 50 a 1000 por si hay muchas páginas
+        if pagina > total or pagina > 1000:
             break
 
     return productos
@@ -134,40 +141,42 @@ def scrape_categoria(page, url):
 def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
     mensajes = []
 
+    # 1. Productos NUEVOS (Sin límites)
     nuevos = {k: v for k, v in productos_nuevos.items() if k not in productos_anteriores}
     if nuevos:
         lista = "\n".join(
             f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
-            for p in list(nuevos.values())[:10]
+            for p in nuevos.values()
         )
-        extra = f"\n  <i>...y {len(nuevos)-10} más</i>" if len(nuevos) > 10 else ""
-        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}{extra}")
+        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
 
+    # 2. Productos ELIMINADOS (Sin límites)
     eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
-    if 0 < len(eliminados) < 20:
-        lista = "\n".join(f"  • {p['nombre']}" for p in list(eliminados.values())[:5])
-        extra = f"\n  <i>...y {len(eliminados)-5} más</i>" if len(eliminados) > 5 else ""
-        mensajes.append(f"❌ <b>Eliminados en {nombre_cat}</b>\n{lista}{extra}")
+    if eliminados:
+        lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
+        mensajes.append(f"❌ <b>Eliminados en {nombre_cat}</b>\n{lista}")
 
+    # 3. Cambios de PRECIO y STOCK (Sin límites)
     cambios = []
     for k, prod_nuevo in productos_nuevos.items():
         if k in productos_anteriores:
             prod_ant = productos_anteriores[k]
 
+            # Stock
             if not prod_ant.get("en_stock", True) and prod_nuevo["en_stock"]:
                 cambios.append(f"  🟢 <b>¡VUELVE A HABER STOCK!</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>")
             elif prod_ant.get("en_stock", True) and not prod_nuevo["en_stock"]:
                 cambios.append(f"  🔴 <b>AGOTADO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>")
 
+            # Precio
             p_ant = prod_ant.get("precio", "")
             p_nue = prod_nuevo.get("precio", "")
             if p_ant and p_nue and p_ant != p_nue:
                 cambios.append(f"  💸 <b>CAMBIO PRECIO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>\n  {p_ant} → <b>{p_nue}</b>")
 
     if cambios:
-        lista = "\n\n".join(cambios[:10])
-        extra = f"\n\n  <i>...y {len(cambios)-10} más</i>" if len(cambios) > 10 else ""
-        mensajes.append(f"⚡ <b>Actualizaciones en {nombre_cat}</b>\n\n{lista}{extra}")
+        lista = "\n\n".join(cambios)
+        mensajes.append(f"⚡ <b>Actualizaciones en {nombre_cat}</b>\n\n{lista}")
 
     return mensajes
 
@@ -176,24 +185,49 @@ def enviar_telegram(mensaje):
     import requests as req
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         print("⚠️  Sin credenciales Telegram")
-        print(mensaje)
         return
+        
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": mensaje,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False,
-    }
-    if TELEGRAM_THREAD_ID:
-        payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+    
+    # Límite seguro de Telegram
+    limite_caracteres = 4000
+    mensajes_cortados = []
+    
+    # Lógica para dividir mensajes largos sin romper HTML
+    if len(mensaje) <= limite_caracteres:
+        mensajes_cortados.append(mensaje)
+    else:
+        lineas = mensaje.split('\n')
+        bloque_actual = ""
+        for linea in lineas:
+            if len(bloque_actual) + len(linea) + 1 > limite_caracteres:
+                mensajes_cortados.append(bloque_actual.strip())
+                bloque_actual = linea + "\n"
+            else:
+                bloque_actual += linea + "\n"
+        if bloque_actual:
+            mensajes_cortados.append(bloque_actual.strip())
 
-    try:
-        r = req.post(url, json=payload, timeout=10)
-        r.raise_for_status()
-        print("  ✅ Enviado a Telegram")
-    except Exception as e:
-        print(f"  ❌ Error Telegram: {e}")
+    # Enviar cada bloque
+    for i, msg in enumerate(mensajes_cortados):
+        payload = {
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": msg,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False,
+        }
+        if TELEGRAM_THREAD_ID:
+            payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+
+        try:
+            r = req.post(url, json=payload, timeout=10)
+            r.raise_for_status()
+            print(f"  ✅ Enviado bloque {i+1}/{len(mensajes_cortados)} a Telegram")
+        except Exception as e:
+            print(f"  ❌ Error Telegram: {e}")
+        
+        # Pausa de 1 segundo entre bloques
+        time.sleep(1)
 
 
 def main():
