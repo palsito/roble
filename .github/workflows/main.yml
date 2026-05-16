@@ -1,7 +1,6 @@
 name: 🌳 Monitor El Roble Perfumado
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Cada 15 minutos
   workflow_dispatch:
 
 permissions:
@@ -20,10 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: 📦 Instalar dependencias
-        run: |
-          pip install requests playwright
-          playwright install chromium
-          playwright install-deps chromium
+        run: pip install requests beautifulsoup4
 
       - name: 🌳 Ejecutar monitor
         env:
