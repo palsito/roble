@@ -1,5 +1,7 @@
 name: 🌳 Monitor El Roble Perfumado
 on:
+  schedule:
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -18,7 +20,10 @@ jobs:
           python-version: '3.11'
 
       - name: 📦 Instalar dependencias
-        run: pip install requests beautifulsoup4
+        run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium
+          playwright install-deps chromium
 
       - name: 🌳 Ejecutar monitor
         env:
@@ -31,7 +36,9 @@ jobs:
         run: |
           git config --global user.name "Monitor Bot"
           git config --global user.email "monitor@bot.com"
+          git stash || true
           git pull --rebase origin master
+          git stash pop || true
           git add estado_productos_roble.json
           git diff --staged --quiet || git commit -m "chore: actualizar estado roble [$(date +'%Y-%m-%d %H:%M')]"
           git push
