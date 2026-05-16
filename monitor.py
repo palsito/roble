@@ -45,7 +45,10 @@ def parsear_productos(html):
     soup = BeautifulSoup(html, "html.parser")
     productos = {}
 
-    for art in soup.select("li.ajax_block_product"):
+    product_list = soup.select_one("ul.product_list")
+    if not product_list:
+        return productos
+    for art in product_list.select("li.ajax_block_product"):
         link = art.select_one("a.product-name")
         if not link:
             continue
