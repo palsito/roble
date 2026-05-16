@@ -95,12 +95,17 @@ def scrape_categoria(page, url):
     pagina = 1
 
     while True:
-        url_pag = url if pagina == 1 else f"{url}#/page-{pagina}"
+        # Truco: Añadimos un timestamp para forzar una RECARGA DURA en el navegador
+        # y evitar que Playwright se salte la carga por culpa de la almohadilla (#)
+        timestamp = int(time.time())
+        url_pag = f"{url}?t={timestamp}" if pagina == 1 else f"{url}?t={timestamp}#/page-{pagina}"
+        
         print(f"    Cargando página {pagina}...")
 
         try:
-            page.goto(url_pag, wait_until="domcontentloaded", timeout=30000)
-            page.wait_for_timeout(2000)  # esperar JS
+            # wait_until="networkidle" obliga al bot a esperar a que la web deje de descargar cosas
+            page.goto(url_pag, wait_until="networkidle", timeout=30000)
+            page.wait_for_timeout(3000)  # Le damos 3 segundos de margen a la web por si va lenta
         except Exception as e:
             print(f"  ⚠️  Error en página {pagina}: {e}")
             break
@@ -129,14 +134,12 @@ def scrape_categoria(page, url):
             break
 
         pagina += 1
-        time.sleep(1)
 
-        # Aumentamos el límite de seguridad de 50 a 1000 por si hay muchas páginas
+        # Límite de seguridad
         if pagina > total or pagina > 1000:
             break
 
     return productos
-
 
 def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
     mensajes = []
