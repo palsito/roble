@@ -1,6 +1,5 @@
 name: 🌳 Monitor El Roble Perfumado
 on:
-  schedule:
   workflow_dispatch:
 
 permissions:
