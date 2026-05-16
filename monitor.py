@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 """
 Monitor de elrobleperfumado.com
-Detecta nuevos productos y cambios de stock/precio
-Notifica por Telegram
+Usa Playwright para evadir el bloqueo 403
 """
 
-import requests
-from bs4 import BeautifulSoup
 import json
 import os
 import time
+import re
 from datetime import datetime
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
-# ─── CONFIGURACIÓN ────────────────────────────────────────────────
 TELEGRAM_TOKEN     = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID", "")
 TELEGRAM_THREAD_ID = os.environ.get("TELEGRAM_THREAD_ID", "")
@@ -28,13 +27,6 @@ CATEGORIAS = [
 ]
 
 STATE_FILE = "estado_productos_roble.json"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-}
-# ──────────────────────────────────────────────────────────────────
-
-session = requests.Session()
-session.headers.update(HEADERS)
 
 
 def cargar_estado():
@@ -81,21 +73,34 @@ def parsear_productos(html):
     return productos
 
 
-def scrape_categoria(url):
+def obtener_total_paginas(html):
+    """Busca el número total de páginas en la paginación."""
+    soup = BeautifulSoup(html, "html.parser")
+    nums = []
+    for a in soup.select("ul.pagination li a"):
+        txt = a.get_text(strip=True)
+        if txt.isdigit():
+            nums.append(int(txt))
+    return max(nums) if nums else 1
+
+
+def scrape_categoria(page, url):
     productos = {}
     pagina = 1
 
     while True:
         url_pag = url if pagina == 1 else f"{url}#/page-{pagina}"
+        print(f"    Cargando página {pagina}...")
 
         try:
-            r = session.get(url_pag, timeout=15)
-            r.raise_for_status()
+            page.goto(url_pag, wait_until="domcontentloaded", timeout=30000)
+            page.wait_for_timeout(2000)  # esperar JS
         except Exception as e:
             print(f"  ⚠️  Error en página {pagina}: {e}")
             break
 
-        nuevos = parsear_productos(r.text)
+        html = page.content()
+        nuevos = parsear_productos(html)
 
         if not nuevos:
             print(f"  ✅ Sin productos en página {pagina}, fin de categoría")
@@ -106,14 +111,21 @@ def scrape_categoria(url):
             print(f"  ⚠️  La web repite productos en página {pagina}, fin")
             break
 
+        # En la primera página obtenemos el total de páginas
+        if pagina == 1:
+            total = obtener_total_paginas(html)
+            print(f"    Total páginas detectadas: {total}")
+
         productos.update(nuevos)
         print(f"    página {pagina}: {len(ids_nuevos)} nuevos (Total: {len(productos)})")
+
+        if pagina == 1 and total == 1:
+            break
 
         pagina += 1
         time.sleep(1)
 
-        if pagina > 50:
-            print("  ⚠️  Límite de 50 páginas alcanzado")
+        if pagina > total or pagina > 50:
             break
 
     return productos
@@ -161,6 +173,7 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
 
 
 def enviar_telegram(mensaje):
+    import requests as req
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         print("⚠️  Sin credenciales Telegram")
         print(mensaje)
@@ -176,7 +189,7 @@ def enviar_telegram(mensaje):
         payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
 
     try:
-        r = requests.post(url, json=payload, timeout=10)
+        r = req.post(url, json=payload, timeout=10)
         r.raise_for_status()
         print("  ✅ Enviado a Telegram")
     except Exception as e:
@@ -189,22 +202,33 @@ def main():
     estado_nuevo = {}
     todos_mensajes = []
 
-    for cat in CATEGORIAS:
-        nombre = cat["nombre"]
-        url = cat["url"]
-        print(f"\n📦 Scrapeando {nombre}...")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            locale="es-ES",
+            viewport={"width": 1280, "height": 800},
+        )
+        page = context.new_page()
 
-        productos = scrape_categoria(url)
-        anteriores = estado_anterior.get(url, {})
-        print(f"  → {len(productos)} productos encontrados")
+        for cat in CATEGORIAS:
+            nombre = cat["nombre"]
+            url = cat["url"]
+            print(f"\n📦 Scrapeando {nombre}...")
 
-        estado_nuevo[url] = productos
+            productos = scrape_categoria(page, url)
+            anteriores = estado_anterior.get(url, {})
+            print(f"  → {len(productos)} productos encontrados")
 
-        if anteriores:
-            msgs = comparar_y_notificar(nombre, productos, anteriores)
-            todos_mensajes.extend(msgs)
-        else:
-            print("  ℹ️  Primera ejecución, guardando estado inicial")
+            estado_nuevo[url] = productos
+
+            if anteriores:
+                msgs = comparar_y_notificar(nombre, productos, anteriores)
+                todos_mensajes.extend(msgs)
+            else:
+                print("  ℹ️  Primera ejecución, guardando estado inicial")
+
+        browser.close()
 
     if todos_mensajes:
         print(f"\n📣 {len(todos_mensajes)} notificaciones")
