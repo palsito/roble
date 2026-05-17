@@ -144,22 +144,47 @@ def scrape_categoria(page, url):
 def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
     mensajes = []
 
-    # 1. Productos NUEVOS (Sin límites)
+    # Límite para agrupar notificaciones (evita spam masivo en Telegram)
+    LIMITE_DETALLE = 20
+
+    # 1. Productos NUEVOS
     nuevos = {k: v for k, v in productos_nuevos.items() if k not in productos_anteriores}
     if nuevos:
-        lista = "\n".join(
-            f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
-            for p in nuevos.values()
-        )
-        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
+        if len(nuevos) <= LIMITE_DETALLE:
+            lista = "\n".join(
+                f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
+                for p in nuevos.values()
+            )
+            mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
+        else:
+            # Demasiados → resumen compacto (probablemente la web se recuperó de un fallo)
+            muestra = list(nuevos.values())[:5]
+            lista_muestra = "\n".join(
+                f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
+                for p in muestra
+            )
+            mensajes.append(
+                f"🆕 <b>{len(nuevos)} nuevos productos en {nombre_cat}</b>\n"
+                f"(Mostrando 5 de {len(nuevos)}):\n{lista_muestra}\n"
+                f"  ...y {len(nuevos) - 5} más"
+            )
 
-    # 2. Productos ELIMINADOS (Sin límites)
+    # 2. Productos DESAPARECIDOS
     eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
     if eliminados:
-        lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
-        mensajes.append(f"❌ <b>Eliminados en {nombre_cat}</b>\n{lista}")
+        if len(eliminados) <= LIMITE_DETALLE:
+            lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
+            mensajes.append(f"❌ <b>Eliminados de la web en {nombre_cat}</b>\n{lista}")
+        else:
+            muestra = list(eliminados.values())[:5]
+            lista_muestra = "\n".join(f"  • {p['nombre']}" for p in muestra)
+            mensajes.append(
+                f"❌ <b>{len(eliminados)} eliminados de {nombre_cat}</b>\n"
+                f"(Mostrando 5 de {len(eliminados)}):\n{lista_muestra}\n"
+                f"  ...y {len(eliminados) - 5} más"
+            )
 
-    # 3. Cambios de PRECIO y STOCK (Sin límites)
+    # 3. Cambios de PRECIO y STOCK
     cambios = []
     for k, prod_nuevo in productos_nuevos.items():
         if k in productos_anteriores:
@@ -178,8 +203,16 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
                 cambios.append(f"  💸 <b>CAMBIO PRECIO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>\n  {p_ant} → <b>{p_nue}</b>")
 
     if cambios:
-        lista = "\n\n".join(cambios)
-        mensajes.append(f"⚡ <b>Actualizaciones en {nombre_cat}</b>\n\n{lista}")
+        if len(cambios) <= LIMITE_DETALLE:
+            lista = "\n\n".join(cambios)
+            mensajes.append(f"⚡ <b>Actualizaciones en {nombre_cat}</b>\n\n{lista}")
+        else:
+            lista = "\n\n".join(cambios[:10])
+            mensajes.append(
+                f"⚡ <b>{len(cambios)} actualizaciones en {nombre_cat}</b>\n"
+                f"(Mostrando 10 de {len(cambios)}):\n\n{lista}\n\n"
+                f"  ...y {len(cambios) - 10} más"
+            )
 
     return mensajes
 
@@ -256,6 +289,17 @@ def main():
             productos = scrape_categoria(page, url)
             anteriores = estado_anterior.get(url, {})
             print(f"  → {len(productos)} productos encontrados")
+
+            # ── PROTECCIÓN ANTI-SCRAPING-FALLIDO ──────────────────────
+            # Si la categoría antes tenía productos y ahora devuelve muy pocos
+            # (menos del 50%), probablemente la web falló o nos bloqueó.
+            # En ese caso, MANTENEMOS el estado anterior para no generar
+            # falsas notificaciones de "eliminados" y luego "nuevos".
+            if anteriores and len(productos) < len(anteriores) * 0.5:
+                print(f"  ⚠️  PROTECCIÓN: Se esperaban ~{len(anteriores)} productos pero solo se obtuvieron {len(productos)}.")
+                print(f"  ⚠️  Esto indica un fallo de la web, NO un cambio real. Se mantiene el estado anterior.")
+                estado_nuevo[url] = anteriores  # Mantener estado anterior
+                continue
 
             estado_nuevo[url] = productos
 
