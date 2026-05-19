@@ -1,5 +1,11 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA SUGAR KISSES ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml.html",
+      "en_stock": true
+    },
     "tst-panouge-perle-rare-le-rouge-edp-100ml": {
       "nombre": "TST PANOUGE PERLE RARE LE ROUGE EDP 100ML",
       "precio": "79,00 €",
@@ -64,12 +70,6 @@
       "nombre": "TST BORNTOSTANDOUT DGAF EDP 50 ML",
       "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-dgaf-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-atelier-de-ors-riviera-lazuli-edp-100-mlss": {
-      "nombre": "TST ATELIER DE ORS RIVIERA LAZULI EDP 100 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-atelier-de-ors-riviera-lazuli-edp-100-mlss.html",
       "en_stock": true
     }
   },
@@ -522,6 +522,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA SUGAR KISSES ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml.html",
+      "en_stock": true
+    },
     "tst-panouge-perle-rare-le-rouge-edp-100ml": {
       "nombre": "TST PANOUGE PERLE RARE LE ROUGE EDP 100ML",
       "precio": "79,00 €",
@@ -960,10 +966,28 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-beyond-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-lorenzo-pazzaglia-van-extasyx-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA VAN EXTASYX ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-van-extasyx-exdp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-dream-sea-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA DREAM SEA ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-dream-sea-exdp-50-ml.html",
+      "en_stock": true
+    },
     "tst-lorenzo-pazzaglia-carbonara-exdp-50-ml": {
       "nombre": "TST LORENZO PAZZAGLIA CARBONARA ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-carbonara-exdp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA BLOODY SMOKE ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml.html",
       "en_stock": true
     },
     "tst-tom-ford-noir-extreme-parfum-100-ml": {
@@ -1506,6 +1530,18 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-adolfo-dominguez-agua-fresca-1993-edt-120-ml.html",
       "en_stock": true
     },
+    "tst-matiere-premiere-radical-rose-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE RADICAL ROSE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-radical-rose-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-parisian-musc-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE PARISIAN MUSC EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-parisian-musc-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-matiere-premiere-cologne-cedrat-edp-100-ml": {
       "nombre": "TST MATIERE PREMIERE COLOGNE CÉDRAT EDP 100 ML",
       "precio": "129,00 €",
@@ -1514,7 +1550,7 @@
     },
     "tst-matiere-premiere-bois-d-ebene-edp-100-ml": {
       "nombre": "TST MATIERE PREMIERE BOIS D'EBÈNE EDP 100 ML",
-      "precio": "144,00 €",
+      "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-bois-d-ebene-edp-100-ml.html",
       "en_stock": true
     },
@@ -3152,6 +3188,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA SUGAR KISSES ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml.html",
+      "en_stock": true
+    },
     "tst-panouge-perle-rare-le-rouge-edp-100ml": {
       "nombre": "TST PANOUGE PERLE RARE LE ROUGE EDP 100ML",
       "precio": "79,00 €",
@@ -3668,6 +3710,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-radical-essence-parfum-90-ml.html",
       "en_stock": true
     },
+    "tst-lorenzo-pazzaglia-van-extasyx-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA VAN EXTASYX ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-van-extasyx-exdp-50-ml.html",
+      "en_stock": true
+    },
     "tst-lorenzo-pazzaglia-dream-sea-exdp-50-ml": {
       "nombre": "TST LORENZO PAZZAGLIA DREAM SEA ExDP 50 ML",
       "precio": "99,00 €",
@@ -3678,6 +3726,12 @@
       "nombre": "TST LORENZO PAZZAGLIA CARBONARA ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-carbonara-exdp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA BLOODY SMOKE ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml.html",
       "en_stock": true
     },
     "tst-tom-ford-noir-extreme-parfum-100-ml": {
