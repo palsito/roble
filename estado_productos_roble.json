@@ -948,12 +948,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tom-ford-grey-vetiver-parfum-100-ml.html",
       "en_stock": true
     },
-    "tst-acqua-di-parma-arancia-di-capri-la-riserva-edp-100-ml": {
-      "nombre": "TST ACQUA DI PARMA ARANCIA DI CAPRI LA RISERVA EDP 100 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-arancia-di-capri-la-riserva-edp-100-ml.html",
-      "en_stock": true
-    },
     "acqua-di-parma-blu-mediterraneo-mirto-di-panarea-la-riserva-edp-100-ml-regular": {
       "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO MIRTO DI PANAREA LA...",
       "precio": "89,00 €",
@@ -1456,6 +1450,12 @@
       "nombre": "TST XERJOFF SOPRANO EDP 100 ML",
       "precio": "134,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-xerjoff-soprano-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-arancia-di-capri-edt-100-ml": {
+      "nombre": "TST ACQUA DI PARMA ARANCIA DI CAPRI EDT 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-arancia-di-capri-edt-100-ml.html",
       "en_stock": true
     },
     "tst-xerjoff-cofee-break-golden-green-edp-50-ml": {
