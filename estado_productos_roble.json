@@ -1238,13 +1238,13 @@
     },
     "tst-bond-no9-park-west-side-edp-100-ml": {
       "nombre": "TST BOND NO.9 PARK WEST SIDE EDP 100 ML",
-      "precio": "99,00 €",
+      "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-park-west-side-edp-100-ml.html",
       "en_stock": true
     },
     "tst-bond-no9-park-avenue-south-edp-100-ml": {
       "nombre": "TST BOND NO.9 PARK AVENUE SOUTH EDP 100 ML",
-      "precio": "99,00 €",
+      "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-park-avenue-south-edp-100-ml.html",
       "en_stock": true
     },
@@ -3095,15 +3095,21 @@
       "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
       "en_stock": true
-    },
-    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
-      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
-      "precio": "44,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
-      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-bond-no9-new-harlem-edp-100-ml": {
+      "nombre": "TST BOND NO.9 NEW HARLEM EDP 100 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-new-harlem-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bond-no9-ny-flowers-edp-100-ml": {
+      "nombre": "TST BOND NO.9 NY FLOWERS EDP 100 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-ny-flowers-edp-100-ml.html",
+      "en_stock": true
+    },
     "xerjoff-kobe-edp-50-ml-regular-s": {
       "nombre": "XERJOFF KOBE EDP 50 ML REGULAR",
       "precio": "159,00 €",
@@ -4000,19 +4006,19 @@
     },
     "tst-bond-no9-park-ny-patchouli-edp-100-ml": {
       "nombre": "TST BOND NO.9 NY PATCHOULI EDP 100 ML",
-      "precio": "99,00 €",
+      "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-park-ny-patchouli-edp-100-ml.html",
       "en_stock": true
     },
     "tst-bond-no9-park-west-side-edp-100-ml": {
       "nombre": "TST BOND NO.9 PARK WEST SIDE EDP 100 ML",
-      "precio": "99,00 €",
+      "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-park-west-side-edp-100-ml.html",
       "en_stock": true
     },
     "tst-bond-no9-park-avenue-south-edp-100-ml": {
       "nombre": "TST BOND NO.9 PARK AVENUE SOUTH EDP 100 ML",
-      "precio": "99,00 €",
+      "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-park-avenue-south-edp-100-ml.html",
       "en_stock": true
     },
