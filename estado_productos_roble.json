@@ -2502,12 +2502,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-m-micallef-osaito-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-mancera-cedrat-boise-edp-120-ml": {
-      "nombre": "TST MANCERA CEDRAT BOISE EDP 120 ML",
-      "precio": "74,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mancera-cedrat-boise-edp-120-ml.html",
-      "en_stock": true
-    },
     "tst-mancera-jardin-exclusif-edp-120-ml": {
       "nombre": "TST MANCERA JARDIN EXCLUSIF EDP 120 ML",
       "precio": "79,00 €",
@@ -5618,12 +5612,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-so-scandal-edp-80-ml.html",
       "en_stock": true
     },
-    "tst-mancera-cedrat-boise-edp-120-ml": {
-      "nombre": "TST MANCERA CEDRAT BOISE EDP 120 ML",
-      "precio": "74,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mancera-cedrat-boise-edp-120-ml.html",
-      "en_stock": true
-    },
     "tst-mancera-jardin-exclusif-edp-120-ml": {
       "nombre": "TST MANCERA JARDIN EXCLUSIF EDP 120 ML",
       "precio": "79,00 €",
@@ -5922,6 +5910,12 @@
       "nombre": "TST KENZO PARFUM D'ETE EDP 75 ML",
       "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-kenzo-parfum-d-ete-edp-75-ml.html",
+      "en_stock": true
+    },
+    "tst-angel-schlesser-te-de-grosella-eau-fraiche-edt-100-ml": {
+      "nombre": "TST ANGEL SCHLESSER TE DE GROSELLA EAU FRAICHE EDT 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-angel-schlesser-te-de-grosella-eau-fraiche-edt-100-ml.html",
       "en_stock": true
     },
     "tst-hermes-un-jardin-sur-la-lagune-edt-100-ml": {
