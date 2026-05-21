@@ -972,12 +972,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-van-extasyx-exdp-50-ml.html",
       "en_stock": true
     },
-    "tst-lorenzo-pazzaglia-dream-sea-exdp-50-ml": {
-      "nombre": "TST LORENZO PAZZAGLIA DREAM SEA ExDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-dream-sea-exdp-50-ml.html",
-      "en_stock": true
-    },
     "tst-lorenzo-pazzaglia-carbonara-exdp-50-ml": {
       "nombre": "TST LORENZO PAZZAGLIA CARBONARA ExDP 50 ML",
       "precio": "99,00 €",
@@ -3000,6 +2994,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-allure-homme-sport-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-paco-rabanne-invictus-edt-100-ml": {
+      "nombre": "TST PACO RABANNE INVICTUS EDT 100 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-invictus-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-angel-schlesser-agua-de-vetiver-edt-100-ml": {
       "nombre": "TST ANGEL SCHLESSER AGUA DE VETIVER EDT 100 ML",
       "precio": "18,00 €",
@@ -3170,6 +3170,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-paco-rabanne-fame-in-love-parfum-elixir-80-ml": {
+      "nombre": "TST PACO RABANNE FAME IN LOVE PARFUM ELIXIR 80 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-fame-in-love-parfum-elixir-80-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml": {
+      "nombre": "TST PACO RABANNE ONE MILLION GOLD FOR HER PARFUM 90 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml.html",
+      "en_stock": true
+    },
     "tst-giorgio-armani-power-of-you-edp-90-ml": {
       "nombre": "TST GIORGIO ARMANI POWER OF YOU EDP 90 ML",
       "precio": "65,00 €",
@@ -3702,12 +3714,6 @@
       "nombre": "TST LORENZO PAZZAGLIA VAN EXTASYX ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-van-extasyx-exdp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-lorenzo-pazzaglia-dream-sea-exdp-50-ml": {
-      "nombre": "TST LORENZO PAZZAGLIA DREAM SEA ExDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-dream-sea-exdp-50-ml.html",
       "en_stock": true
     },
     "tst-lorenzo-pazzaglia-carbonara-exdp-50-ml": {
@@ -6336,6 +6342,12 @@
       "nombre": "TST DOLCE & GABBANA LIGHT BLUE EDT 100 ML",
       "precio": "53,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-light-blue-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-lancome-tresor-edp-100-ml-": {
+      "nombre": "TST LANCOME TRESOR EDP 100 ML",
+      "precio": "58,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-tresor-edp-100-ml-.html",
       "en_stock": true
     },
     "tst-prada-la-femme-intense-edp-100-ml": {
