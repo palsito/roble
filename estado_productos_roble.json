@@ -1,5 +1,35 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-bdk-velvet-tonka-edp-100-ml": {
+      "nombre": "TST BDK VELVET TONKA EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-velvet-tonka-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-tabac-rose-edp-100-ml": {
+      "nombre": "TST BDK TABAC ROSE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tabac-rose-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-tubereuse-imperiale-edp-100-ml": {
+      "nombre": "TST BDK TUBEREUSE IMPERIALE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tubereuse-imperiale-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-sel-d-argent-edp-100-ml": {
+      "nombre": "TST BDK SEL D'ARGENT EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-sel-d-argent-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-pas-ce-soir-edp-100-ml": {
+      "nombre": "TST BDK PAS CE SOIR EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-pas-ce-soir-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml": {
       "nombre": "TST LORENZO PAZZAGLIA SUGAR KISSES ExDP 50 ML",
       "precio": "99,00 €",
@@ -40,36 +70,6 @@
       "nombre": "TST M. MICALLEF DESIRTOXIC L'INTENSE EDP 100 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-m-micallef-desirtoxic-l-intense-edp-100-ml.html",
-      "en_stock": true
-    },
-    "xerjoff-kobe-edp-50-ml-regular-s": {
-      "nombre": "XERJOFF KOBE EDP 50 ML REGULAR",
-      "precio": "159,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/xerjoff-kobe-edp-50-ml-regular-s.html",
-      "en_stock": true
-    },
-    "tst-maison-francis-kurkdijan-kurky-edp-70-ml": {
-      "nombre": "TST MAISON FRANCIS KURKDIJAN KURKY EDP 70 ML",
-      "precio": "169,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-francis-kurkdijan-kurky-edp-70-ml.html",
-      "en_stock": true
-    },
-    "tst-edeniste-vetiver-imaginaire-edp-100-ml": {
-      "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-mud-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT MUD EDP 50 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-mud-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-dgaf-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT DGAF EDP 50 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-dgaf-edp-50-ml.html",
       "en_stock": true
     }
   },
@@ -516,6 +516,42 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-bdk-gris-charnel-edp-100-ml": {
+      "nombre": "TST BDK GRIS CHARNEL EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-gris-charnel-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-velvet-tonka-edp-100-ml": {
+      "nombre": "TST BDK VELVET TONKA EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-velvet-tonka-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-tabac-rose-edp-100-ml": {
+      "nombre": "TST BDK TABAC ROSE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tabac-rose-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-tubereuse-imperiale-edp-100-ml": {
+      "nombre": "TST BDK TUBEREUSE IMPERIALE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tubereuse-imperiale-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-sel-d-argent-edp-100-ml": {
+      "nombre": "TST BDK SEL D'ARGENT EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-sel-d-argent-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-pas-ce-soir-edp-100-ml": {
+      "nombre": "TST BDK PAS CE SOIR EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-pas-ce-soir-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml": {
       "nombre": "TST LORENZO PAZZAGLIA SUGAR KISSES ExDP 50 ML",
       "precio": "99,00 €",
@@ -3095,9 +3131,51 @@
       "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
       "en_stock": true
+    },
+    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
+      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
+      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-bdk-gris-charnel-extrait-exdp-100-ml": {
+      "nombre": "TST BDK GRIS CHARNEL EXTRAIT ExDP 100 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-gris-charnel-extrait-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-gris-charnel-edp-100-ml": {
+      "nombre": "TST BDK GRIS CHARNEL EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-gris-charnel-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-velvet-tonka-edp-100-ml": {
+      "nombre": "TST BDK VELVET TONKA EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-velvet-tonka-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-tabac-rose-edp-100-ml": {
+      "nombre": "TST BDK TABAC ROSE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tabac-rose-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-tubereuse-imperiale-edp-100-ml": {
+      "nombre": "TST BDK TUBEREUSE IMPERIALE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tubereuse-imperiale-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-sel-d-argent-edp-100-ml": {
+      "nombre": "TST BDK SEL D'ARGENT EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-sel-d-argent-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-bdk-pas-ce-soir-edp-100-ml": {
       "nombre": "TST BDK PAS CE SOIR EDP 100 ML",
       "precio": "129,00 €",
