@@ -60,16 +60,16 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jeroboam-vespero-edp-100ml.html",
       "en_stock": true
     },
-    "tst-borntostandout-sin-pleasure-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT SIN & PLEASURE EDP 50 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-sin-pleasure-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-bond-no9-new-harlem-edp-100-ml": {
       "nombre": "TST BOND NO.9 NEW HARLEM EDP 100 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-new-harlem-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bond-no9-ny-flowers-edp-100-ml": {
+      "nombre": "TST BOND NO.9 NY FLOWERS EDP 100 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-ny-flowers-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -586,12 +586,6 @@
       "nombre": "TST JEROBOAM VESPERO EDP 100ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jeroboam-vespero-edp-100ml.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-sin-pleasure-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT SIN & PLEASURE EDP 50 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-sin-pleasure-edp-50-ml.html",
       "en_stock": true
     },
     "tst-bond-no9-new-harlem-edp-100-ml": {
@@ -3218,12 +3212,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jeroboam-vespero-edp-100ml.html",
       "en_stock": true
     },
-    "tst-borntostandout-sin-pleasure-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT SIN & PLEASURE EDP 50 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-sin-pleasure-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-bond-no9-new-harlem-edp-100-ml": {
       "nombre": "TST BOND NO.9 NEW HARLEM EDP 100 ML",
       "precio": "99,00 €",
@@ -4400,12 +4388,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-arancia-di-capri-edt-100-ml.html",
       "en_stock": true
     },
-    "tst-paco-rabanne-one-million-gold-for-her-edp-90-ml": {
-      "nombre": "TST PACO RABANNE ONE MILLION GOLD FOR HER EDP 90 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-edp-90-ml.html",
-      "en_stock": true
-    },
     "tst-xerjoff-cofee-break-golden-green-edp-50-ml": {
       "nombre": "TST XERJOFF COFEE BREAK GOLDEN GREEN EDP 50 ML",
       "precio": "110,00 €",
@@ -4446,12 +4428,6 @@
       "nombre": "TST XERJOFF ERBA PURA EDP 100 ML",
       "precio": "179,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-xerjoff-erba-pura-edp-100-mls.html",
-      "en_stock": true
-    },
-    "tst-dolce-gabbana-devotion-intense-edp-100-ml": {
-      "nombre": "TST DOLCE & GABBANA DEVOTION INTENSE EDP 100 ML",
-      "precio": "73,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-devotion-intense-edp-100-ml.html",
       "en_stock": true
     },
     "tst-escada-chiffon-sorbet-edt-100-ml": {
