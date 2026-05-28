@@ -24,12 +24,6 @@
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-velvet-tonka-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-bdk-tabac-rose-edp-100-ml": {
-      "nombre": "TST BDK TABAC ROSE EDP 100 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tabac-rose-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-bdk-tubereuse-imperiale-edp-100-ml": {
       "nombre": "TST BDK TUBEREUSE IMPERIALE EDP 100 ML",
       "precio": "129,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST BOND NO.9 NEW HARLEM EDP 100 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-new-harlem-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bond-no9-ny-flowers-edp-100-ml": {
+      "nombre": "TST BOND NO.9 NY FLOWERS EDP 100 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-ny-flowers-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -556,12 +556,6 @@
       "nombre": "TST BDK VELVET TONKA EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-velvet-tonka-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-bdk-tabac-rose-edp-100-ml": {
-      "nombre": "TST BDK TABAC ROSE EDP 100 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tabac-rose-edp-100-ml.html",
       "en_stock": true
     },
     "tst-bdk-tubereuse-imperiale-edp-100-ml": {
@@ -3246,12 +3240,6 @@
       "nombre": "TST BDK VELVET TONKA EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-velvet-tonka-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-bdk-tabac-rose-edp-100-ml": {
-      "nombre": "TST BDK TABAC ROSE EDP 100 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tabac-rose-edp-100-ml.html",
       "en_stock": true
     },
     "tst-bdk-tubereuse-imperiale-edp-100-ml": {
