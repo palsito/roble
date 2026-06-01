@@ -6,12 +6,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-9-edp-100-ml.html",
       "en_stock": true
     },
-    "eight-bob-memoires-de-mustique-edp-30-ml-regular": {
-      "nombre": "EIGHT & BOB MEMOIRES DE MUSTIQUE EDP 30 ML REGULAR",
-      "precio": "33,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/eight-bob-memoires-de-mustique-edp-30-ml-regular.html",
-      "en_stock": true
-    },
     "eight-bob-champs-de-provence-edp-30-ml-regular": {
       "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP 30 ML REGULAR",
       "precio": "33,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST MAISON FRANCIS KURKDIJAN KURKY EDP 70 ML",
       "precio": "169,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-francis-kurkdijan-kurky-edp-70-ml.html",
+      "en_stock": true
+    },
+    "tst-edeniste-vetiver-imaginaire-edp-100-ml": {
+      "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -520,12 +520,6 @@
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-9-edp-100-ml.html",
-      "en_stock": true
-    },
-    "eight-bob-memoires-de-mustique-edp-30-ml-regular": {
-      "nombre": "EIGHT & BOB MEMOIRES DE MUSTIQUE EDP 30 ML REGULAR",
-      "precio": "33,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/eight-bob-memoires-de-mustique-edp-30-ml-regular.html",
       "en_stock": true
     },
     "eight-bob-champs-de-provence-edp-30-ml-regular": {
