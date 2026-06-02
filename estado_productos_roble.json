@@ -1,5 +1,11 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-rosendo-mateu-5-elixir-100-ml": {
+      "nombre": "TST ROSENDO MATEU 5 ELIXIR 100 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-5-elixir-100-ml.html",
+      "en_stock": true
+    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -64,12 +70,6 @@
       "nombre": "XERJOFF KOBE EDP 50 ML REGULAR",
       "precio": "159,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/xerjoff-kobe-edp-50-ml-regular-s.html",
-      "en_stock": true
-    },
-    "tst-maison-francis-kurkdijan-kurky-edp-70-ml": {
-      "nombre": "TST MAISON FRANCIS KURKDIJAN KURKY EDP 70 ML",
-      "precio": "169,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-francis-kurkdijan-kurky-edp-70-ml.html",
       "en_stock": true
     }
   },
@@ -516,6 +516,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-rosendo-mateu-5-elixir-100-ml": {
+      "nombre": "TST ROSENDO MATEU 5 ELIXIR 100 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-5-elixir-100-ml.html",
+      "en_stock": true
+    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -2522,7 +2528,7 @@
     },
     "tst-rosendo-mateu-5-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 5 EDP 100 ML",
-      "precio": "99,00 €",
+      "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-5-edp-100-ml.html",
       "en_stock": true
     },
@@ -3140,6 +3146,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-rosendo-mateu-5-elixir-100-ml": {
+      "nombre": "TST ROSENDO MATEU 5 ELIXIR 100 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-5-elixir-100-ml.html",
+      "en_stock": true
+    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
