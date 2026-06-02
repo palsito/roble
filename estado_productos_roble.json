@@ -12,6 +12,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/eight-bob-champs-de-provence-edp-30-ml-regular.html",
       "en_stock": true
     },
+    "tst-bdk-gris-charnel-edp-100-ml": {
+      "nombre": "TST BDK GRIS CHARNEL EDP 100 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-gris-charnel-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-bdk-tubereuse-imperiale-edp-100-ml": {
       "nombre": "TST BDK TUBEREUSE IMPERIALE EDP 100 ML",
       "precio": "129,00 €",
@@ -64,12 +70,6 @@
       "nombre": "TST MAISON FRANCIS KURKDIJAN KURKY EDP 70 ML",
       "precio": "169,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-francis-kurkdijan-kurky-edp-70-ml.html",
-      "en_stock": true
-    },
-    "tst-edeniste-vetiver-imaginaire-edp-100-ml": {
-      "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -538,6 +538,12 @@
       "nombre": "TST CARON POUR UN HOMME LE SOIR EDP 125 ML",
       "precio": "52,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-le-soir-edp-125-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-gris-charnel-edp-100-ml": {
+      "nombre": "TST BDK GRIS CHARNEL EDP 100 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-gris-charnel-edp-100-ml.html",
       "en_stock": true
     },
     "tst-bdk-tubereuse-imperiale-edp-100-ml": {
@@ -3156,6 +3162,12 @@
       "nombre": "TST JPG DIVINE EDP 50 ML",
       "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-divine-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-bdk-gris-charnel-edp-100-ml": {
+      "nombre": "TST BDK GRIS CHARNEL EDP 100 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-gris-charnel-edp-100-ml.html",
       "en_stock": true
     },
     "tst-bdk-tubereuse-imperiale-edp-100-ml": {
