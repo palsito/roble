@@ -18,12 +18,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/eight-bob-champs-de-provence-edp-30-ml-regular.html",
       "en_stock": true
     },
-    "tst-bdk-gris-charnel-edp-100-ml": {
-      "nombre": "TST BDK GRIS CHARNEL EDP 100 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-gris-charnel-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-bdk-tubereuse-imperiale-edp-100-ml": {
       "nombre": "TST BDK TUBEREUSE IMPERIALE EDP 100 ML",
       "precio": "129,00 €",
@@ -70,6 +64,12 @@
       "nombre": "XERJOFF KOBE EDP 50 ML REGULAR",
       "precio": "159,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/xerjoff-kobe-edp-50-ml-regular-s.html",
+      "en_stock": true
+    },
+    "tst-maison-francis-kurkdijan-kurky-edp-70-ml": {
+      "nombre": "TST MAISON FRANCIS KURKDIJAN KURKY EDP 70 ML",
+      "precio": "169,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-francis-kurkdijan-kurky-edp-70-ml.html",
       "en_stock": true
     }
   },
@@ -544,12 +544,6 @@
       "nombre": "TST CARON POUR UN HOMME LE SOIR EDP 125 ML",
       "precio": "52,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-le-soir-edp-125-ml.html",
-      "en_stock": true
-    },
-    "tst-bdk-gris-charnel-edp-100-ml": {
-      "nombre": "TST BDK GRIS CHARNEL EDP 100 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-gris-charnel-edp-100-ml.html",
       "en_stock": true
     },
     "tst-bdk-tubereuse-imperiale-edp-100-ml": {
@@ -1522,6 +1516,12 @@
       "nombre": "TST ACQUA DI PARMA ARANCIA DI CAPRI EDT 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-arancia-di-capri-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-xerjoff-cofee-break-golden-green-edp-50-ml": {
+      "nombre": "TST XERJOFF COFEE BREAK GOLDEN GREEN EDP 50 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-xerjoff-cofee-break-golden-green-edp-50-ml.html",
       "en_stock": true
     },
     "tst-adolfo-dominguez-agua-fresca-1993-edt-120-ml": {
