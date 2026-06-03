@@ -1404,12 +1404,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-pura-edc-180-ml.html",
       "en_stock": true
     },
-    "tst-acqua-di-parma-arancia-di-capri-edt-180-ml": {
-      "nombre": "TST ACQUA DI PARMA ARANCIA DI CAPRI EDT 180 ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-arancia-di-capri-edt-180-ml.html",
-      "en_stock": true
-    },
     "tst-acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-edt-180-ml": {
       "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO BERGAMOTTO DI CALABRIA EDT...",
       "precio": "79,00 €",
@@ -1882,6 +1876,12 @@
       "nombre": "TST ANGEL SCHLESSER AROMATIC SAGE EDT 100 ML",
       "precio": "13,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-aromatic-sage-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-issey-miyake-l-eau-d-issey-pour-homme-solar-lavender-edt-intense-100-ml": {
+      "nombre": "TST ISSEY MIYAKE L'EAU D'ISSEY POUR HOMME SOLAR LAVENDER EDT...",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-issey-miyake-l-eau-d-issey-pour-homme-solar-lavender-edt-intense-100-ml.html",
       "en_stock": true
     },
     "tst-hugo-boss-the-scent-for-him-pure-accord-edt-100-ml": {
