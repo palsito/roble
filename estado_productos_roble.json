@@ -1,11 +1,5 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
-    "tst-rosendo-mateu-5-elixir-100-ml": {
-      "nombre": "TST ROSENDO MATEU 5 ELIXIR 100 ML",
-      "precio": "110,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-5-elixir-100-ml.html",
-      "en_stock": true
-    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST MAISON FRANCIS KURKDIJAN KURKY EDP 70 ML",
       "precio": "169,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-francis-kurkdijan-kurky-edp-70-ml.html",
+      "en_stock": true
+    },
+    "tst-edeniste-vetiver-imaginaire-edp-100-ml": {
+      "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -516,12 +516,6 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
-    "tst-rosendo-mateu-5-elixir-100-ml": {
-      "nombre": "TST ROSENDO MATEU 5 ELIXIR 100 ML",
-      "precio": "110,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-5-elixir-100-ml.html",
-      "en_stock": true
-    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -3122,12 +3116,6 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
-    "tst-rosendo-mateu-5-elixir-100-ml": {
-      "nombre": "TST ROSENDO MATEU 5 ELIXIR 100 ML",
-      "precio": "110,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-5-elixir-100-ml.html",
-      "en_stock": true
-    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -6576,6 +6564,12 @@
       "nombre": "TST HERMES L'AMBRE DES MERVEILLES EDP 100 ML",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-l-ambre-des-merveilles-edp-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-un-jardin-en-mediterranee-edt-100-ml-tst": {
+      "nombre": "TST HERMES UN JARDIN EN MEDITERRANEE EDT 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-un-jardin-en-mediterranee-edt-100-ml-tst.html",
       "en_stock": true
     },
     "tst-hermes-un-jardin-sur-le-toit-edt-100-ml-tst": {
