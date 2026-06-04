@@ -1530,6 +1530,24 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-adolfo-dominguez-agua-fresca-1993-edt-120-ml.html",
       "en_stock": true
     },
+    "tst-matiere-premiere-radical-rose-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE RADICAL ROSE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-radical-rose-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-parisian-musc-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE PARISIAN MUSC EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-parisian-musc-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-cologne-cedrat-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE COLOGNE CÉDRAT EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-cologne-cedrat-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-matiere-premiere-bois-d-ebene-edp-100-ml": {
       "nombre": "TST MATIERE PREMIERE BOIS D'EBÈNE EDP 100 ML",
       "precio": "129,00 €",
@@ -2164,6 +2182,12 @@
       "nombre": "TST HUGO BOSS BOSS BOTTLED MEN PARFUM 100 ML",
       "precio": "52,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-men-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-villoresi-teint-de-neige-edp-100-ml": {
+      "nombre": "TST LORENZO VILLORESI TEINT DE NEIGE EDP 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-villoresi-teint-de-neige-edp-100-ml.html",
       "en_stock": true
     },
     "tst-adolfo-dominguez-ebano-salvia-edp-120-ml": {
@@ -3134,6 +3158,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-pepe-jeans-for-her-london-calling-edp-80-ml": {
+      "nombre": "TST PEPE JEANS FOR HER LONDON CALLING EDP 80 ML",
+      "precio": "15,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-pepe-jeans-for-her-london-calling-edp-80-ml.html",
+      "en_stock": true
+    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -4380,6 +4410,24 @@
       "nombre": "TST TOUS ELECTROTOUCH EDP 100 ML",
       "precio": "32,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-electrotouch-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-radical-rose-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE RADICAL ROSE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-radical-rose-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-parisian-musc-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE PARISIAN MUSC EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-parisian-musc-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-cologne-cedrat-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE COLOGNE CÉDRAT EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-cologne-cedrat-edp-100-ml.html",
       "en_stock": true
     },
     "tst-matiere-premiere-bois-d-ebene-edp-100-ml": {
