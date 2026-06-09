@@ -966,12 +966,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml.html",
       "en_stock": true
     },
-    "tst-tom-ford-noir-extreme-parfum-100-ml": {
-      "nombre": "TST TOM FORD NOIR EXTREME PARFUM 100 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-noir-extreme-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-tom-ford-grey-vetiver-parfum-100-ml": {
       "nombre": "TST TOM FORD GREY VETIVER PARFUM 100 ML",
       "precio": "135,00 €",
@@ -3614,12 +3608,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml.html",
       "en_stock": true
     },
-    "tst-tom-ford-noir-extreme-parfum-100-ml": {
-      "nombre": "TST TOM FORD NOIR EXTREME PARFUM 100 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-noir-extreme-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-tom-ford-grey-vetiver-parfum-100-ml": {
       "nombre": "TST TOM FORD GREY VETIVER PARFUM 100 ML",
       "precio": "135,00 €",
@@ -6162,6 +6150,12 @@
       "nombre": "TST PRADA LA FEMME INTENSE EDP 100 ML",
       "precio": "73,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-la-femme-intense-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-calvin-klein-obsessed-edp-100-ml": {
+      "nombre": "TST CALVIN KLEIN OBSESSED EDP 100 ML",
+      "precio": "25,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-obsessed-edp-100-ml.html",
       "en_stock": true
     },
     "tst-guerlain-le-petite-robe-noire-edt-100-ml": {
