@@ -504,12 +504,6 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
-    "tst-bvlgari-man-in-black-parfum-100-ml": {
-      "nombre": "TST BVLGARI MAN IN BLACK PARFUM 100 ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-in-black-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -628,12 +622,6 @@
       "nombre": "TST BORNTOSTANDOUT DGAF EDP 50 ML",
       "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-dgaf-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-atelier-de-ors-riviera-lazuli-edp-100-mlss": {
-      "nombre": "TST ATELIER DE ORS RIVIERA LAZULI EDP 100 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-atelier-de-ors-riviera-lazuli-edp-100-mlss.html",
       "en_stock": true
     },
     "tst-giorgio-armani-acqua-di-gio-profondo-edt-100-ml": {
@@ -3206,12 +3194,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-dgaf-edp-50-ml.html",
       "en_stock": true
     },
-    "tst-atelier-de-ors-riviera-lazuli-edp-100-mlss": {
-      "nombre": "TST ATELIER DE ORS RIVIERA LAZULI EDP 100 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-atelier-de-ors-riviera-lazuli-edp-100-mlss.html",
-      "en_stock": true
-    },
     "tst-jimmy-choo-i-want-choo-with-love-edp-125-ml": {
       "nombre": "TST JIMMY CHOO I WANT CHOO WITH LOVE EDP 125 ML",
       "precio": "49,00 €",
@@ -3864,6 +3846,12 @@
       "nombre": "TST CALVIN KLEIN ETERNITY WOMAN AMBER ESSENCE EDP 100 ML",
       "precio": "35,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-eternity-woman-amber-essence-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-calvin-klein-eternity-woman-intense-edp-100-ml": {
+      "nombre": "TST CALVIN KLEIN ETERNITY WOMAN INTENSE EDP 100 ML",
+      "precio": "35,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-eternity-woman-intense-edp-100-ml.html",
       "en_stock": true
     },
     "tst-armani-prive-magenta-tanzanite-edp-100-ml": {
