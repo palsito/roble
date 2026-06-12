@@ -1944,12 +1944,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-de-cedre-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-angel-schlesser-vibrant-woody-mandarin-edt-100-ml": {
-      "nombre": "TST ANGEL SCHLESSER VIBRANT WOODY MANDARIN EDT 100 ML",
-      "precio": "13,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-vibrant-woody-mandarin-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-issey-miyake-l-eau-d-issey-pour-homme-vetiver-edt-intense-100-ml": {
       "nombre": "TST ISSEY MIYAKE L'EAU D'ISSEY POUR HOMME VETIVER EDT INTENSE...",
       "precio": "35,00 €",
@@ -2538,12 +2532,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-inmense-peony-edt-100-ml.html",
       "en_stock": true
     },
-    "tst-angel-schlesser-blooming-grapefruit-edt-100-ml": {
-      "nombre": "TST ANGEL SCHLESSER BLOOMING GRAPEFRUIT EDT 100 ML",
-      "precio": "13,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-blooming-grapefruit-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-angel-schlesser-splendid-orange-blossom-edt-100-ml": {
       "nombre": "TST ANGEL SCHLESSER SPLENDID ORANGE BLOSSOM EDT 100 ML",
       "precio": "13,00 €",
@@ -3050,6 +3038,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "cacharel-amor-amor-edt-100-ml-regulars": {
+      "nombre": "CACHAREL AMOR AMOR EDT 100 ML REGULAR",
+      "precio": "27,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/cacharel-amor-amor-edt-100-ml-regulars.html",
+      "en_stock": true
+    },
     "tst-lancome-tresor-midnight-rose-edp-50-ml": {
       "nombre": "TST LANCOME TRESOR MIDNIGHT ROSE EDP 50 ML",
       "precio": "44,00 €",
@@ -4946,12 +4940,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-good-girl-blush-edp-80-ml.html",
       "en_stock": true
     },
-    "tst-angel-schlesser-vibrant-woody-mandarin-edt-100-ml": {
-      "nombre": "TST ANGEL SCHLESSER VIBRANT WOODY MANDARIN EDT 100 ML",
-      "precio": "13,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-vibrant-woody-mandarin-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-elie-saab-le-parfum-bridal-edp-90-ml": {
       "nombre": "TST ELIE SAAB LE PARFUM BRIDAL EDP 90 ML",
       "precio": "52,00 €",
@@ -5580,12 +5568,6 @@
       "nombre": "TST ANGEL SCHLESSER INMENSE PEONY EDT 100 ML",
       "precio": "13,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-inmense-peony-edt-100-ml.html",
-      "en_stock": true
-    },
-    "tst-angel-schlesser-blooming-grapefruit-edt-100-ml": {
-      "nombre": "TST ANGEL SCHLESSER BLOOMING GRAPEFRUIT EDT 100 ML",
-      "precio": "13,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-blooming-grapefruit-edt-100-ml.html",
       "en_stock": true
     },
     "tst-angel-schlesser-splendid-orange-blossom-edt-100-ml": {
@@ -6304,7 +6286,7 @@
     },
     "tst-cacharel-amor-amor-edt-100-ml-tst": {
       "nombre": "TST CACHAREL AMOR AMOR EDT 100 ML",
-      "precio": "33,00 €",
+      "precio": "24,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-cacharel-amor-amor-edt-100-ml-tst.html",
       "en_stock": true
     },
