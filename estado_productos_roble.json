@@ -2573,6 +2573,426 @@
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-blv-pour-homme-edt-100-ml.html",
       "en_stock": true
+    },
+    "tst-giorgio-armani-stronger-with-you-intensely-homme-edp-100-ml": {
+      "nombre": "TST GIORGIO ARMANI STRONGER WITH YOU INTENSELY HOMME EDP 100 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-stronger-with-you-intensely-homme-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-cipresso-di-toscana-edt-150-ml": {
+      "nombre": "TST ACQUA DI PARMA CIPRESSO DI TOSCANA EDT 150 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-cipresso-di-toscana-edt-150-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-pour-homme-edt-100-ml": {
+      "nombre": "TST PACO RABANNE POUR HOMME EDT 100 ML",
+      "precio": "30,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-pour-homme-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-givenchy-gentleman-edt-100-ml": {
+      "nombre": "TST GIVENCHY GENTLEMAN EDT 100 ML",
+      "precio": "40,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-givenchy-gentleman-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-jpg-le-beau-edt-125-ml": {
+      "nombre": "TST JPG LE BEAU EDT 125 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-beau-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-ralph-lauren-polo-ultra-blue-edt-125-ml-": {
+      "nombre": "TST RALPH LAUREN POLO ULTRA BLUE EDT 125 ML",
+      "precio": "46,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-ultra-blue-edt-125-ml-.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-pour-homme-intenso-edp-125-mll": {
+      "nombre": "TST DOLCE & GABBANA POUR HOMME INTENSO EDP 125 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-pour-homme-intenso-edp-125-mll.html",
+      "en_stock": true
+    },
+    "tst-ralph-lauren-polo-sport-edt-125-ml": {
+      "nombre": "TST RALPH LAUREN POLO SPORT EDT 125 ML",
+      "precio": "43,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-sport-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-pour-monsieur-edt-100-ml": {
+      "nombre": "TST CHANEL POUR MONSIEUR EDT 100 ML",
+      "precio": "73,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-pour-monsieur-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-egoiste-edt-100-mll": {
+      "nombre": "TST CHANEL EGOISTE EDT 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-egoiste-edt-100-mll.html",
+      "en_stock": true
+    },
+    "tst-carolina-herrera-212-sexy-men-edt-100-ml": {
+      "nombre": "TST CAROLINA HERRERA 212 SEXY MEN EDT 100 ML",
+      "precio": "51,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-sexy-men-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-pour-homme-edt-125-ml": {
+      "nombre": "TST DOLCE & GABBANA POUR HOMME EDT 125 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-pour-homme-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-carolina-herrera-212-vip-men-edt-100-ml": {
+      "nombre": "TST CAROLINA HERRERA 212 VIP MEN EDT 100 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-vip-men-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-colonia-intensa-edc-100-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA INTENSA EDC 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-intensa-edc-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-terre-d-hermes-eau-intense-vetiver-edp-100-ml": {
+      "nombre": "TST HERMES TERRE D'HERMES EAU INTENSE VETIVER EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-eau-intense-vetiver-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-colonia-tonda-edc-100-mll": {
+      "nombre": "TST ACQUA DI PARMA COLONIA EDC 100 ML",
+      "precio": "55,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-tonda-edc-100-mll.html",
+      "en_stock": true
+    },
+    "tst-giorgio-armani-acqua-di-gio-absolu-edp-75-ml": {
+      "nombre": "TST GIORGIO ARMANI ACQUA DI GIO ABSOLU EDP 75 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-absolu-edp-75-ml.html",
+      "en_stock": true
+    },
+    "tst-calvin-klein-eternity-for-men-edt-100-ml": {
+      "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN EDT 100 ML",
+      "precio": "27,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-calvin-klein-eternity-for-men-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-allure-homme-edition-blanche-edp-100-ml-": {
+      "nombre": "TST CHANEL ALLURE HOMME EDITION BLANCHE EDP 100 ML",
+      "precio": "96,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-allure-homme-edition-blanche-edp-100-ml-.html",
+      "en_stock": true
+    },
+    "tst-christian-dior-sauvage-edp-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR SAUVAGE EDP 100 ML",
+      "precio": "85,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-sauvage-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-one-million-lucky-edt-100-ml": {
+      "nombre": "TST PACO RABANNE ONE MILLION LUCKY EDT 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-one-million-lucky-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-colonia-pura-edc-100-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA PURA EDC 100 ML",
+      "precio": "55,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-pura-edc-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hugo-boss-hugo-man-cantimplora-edt-125-ml": {
+      "nombre": "TST HUGO BOSS HUGO MAN CANTIMPLORA EDT 125 ML",
+      "precio": "38,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-hugo-man-cantimplora-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-carolina-herrera-212-vip-black-men-edp-100-ml-": {
+      "nombre": "TST CAROLINA HERRERA 212 VIP BLACK MEN EDP 100 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-vip-black-men-edp-100-ml-.html",
+      "en_stock": true
+    },
+    "tst-armand-basi-basi-homme-rectangular-edt-125-ml": {
+      "nombre": "TST ARMAND BASI BASI HOMME RECTANGULAR EDT 125 ML",
+      "precio": "21,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-armand-basi-basi-homme-rectangular-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-carolina-herrera-212-men-edt-100-ml": {
+      "nombre": "TST CAROLINA HERRERA 212 MEN EDT 100 ML",
+      "precio": "48,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-men-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-the-one-for-men-edp-100-ml": {
+      "nombre": "TST DOLCE & GABBANA THE ONE FOR MEN EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-the-one-for-men-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-ralph-lauren-polo-red-intense-edp-125-ml": {
+      "nombre": "TST RALPH LAUREN POLO RED INTENSE EDP 125 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-red-intense-edp-125-ml.html",
+      "en_stock": true
+    },
+    "tst-yves-saint-laurent-l-homme-edt-100-ml": {
+      "nombre": "TST YVES SAINT LAURENT L'HOMME EDT 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-yves-saint-laurent-l-homme-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-terre-d-hermes-pure-parfum-75-ml": {
+      "nombre": "TST HERMES TERRE D'HERMES PURE PARFUM 75 ML",
+      "precio": "73,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-pure-parfum-75-ml.html",
+      "en_stock": true
+    },
+    "tst-ralph-lauren-polo-red-edt-125-ml": {
+      "nombre": "TST RALPH LAUREN POLO RED EDT 125 ML",
+      "precio": "41,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-red-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-eau-pamplemousse-rose-edc-100-ml-": {
+      "nombre": "TST HERMES EAU PAMPLEMOUSSE ROSE EDC 100 ML",
+      "precio": "43,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-pamplemousse-rose-edc-100-ml-.html",
+      "en_stock": true
+    },
+    "tst-cacharel-pour-homme-edt-100-ml": {
+      "nombre": "TST CACHAREL POUR HOMME EDT 100 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-cacharel-pour-homme-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-light-blue-pour-homme-edt-125-ml": {
+      "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME EDT 125 ML",
+      "precio": "48,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-hugo-boss-the-scent-for-him-edt-100-ml": {
+      "nombre": "TST HUGO BOSS THE SCENT FOR HIM EDT 100 ML",
+      "precio": "42,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-the-scent-for-him-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-valentino-valentino-uomo-edt-100-ml": {
+      "nombre": "TST VALENTINO VALENTINO UOMO EDT 100 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-valentino-valentino-uomo-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-4711-acqua-colonia-pink-pepper-grapefruit-edc-170-ml-tst": {
+      "nombre": "TST 4711 ACQUA COLONIA PINK PEPPER & GRAPEFRUIT EDC 170 ML TST",
+      "precio": "16,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-4711-acqua-colonia-pink-pepper-grapefruit-edc-170-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-terre-d-hermes-edt-100-ml": {
+      "nombre": "TST HERMES TERRE D'HERMES EDT 100 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-christian-dior-higher-energy-edt-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR HIGHER ENERGY EDT 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-higher-energy-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-allure-homme-edt-100-ml": {
+      "nombre": "TST CHANEL ALLURE HOMME EDT 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-allure-homme-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-bleu-edt-100-ml": {
+      "nombre": "TST CHANEL BLEU EDT 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-bleu-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-christian-dior-sauvage-edt-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR SAUVAGE EDT 100 ML",
+      "precio": "73,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-sauvage-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-allure-homme-sport-edt-100-ml": {
+      "nombre": "TST CHANEL ALLURE HOMME SPORT EDT 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-allure-homme-sport-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-invictus-edt-100-ml": {
+      "nombre": "TST PACO RABANNE INVICTUS EDT 100 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-invictus-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-angel-schlesser-agua-de-vetiver-edt-100-ml": {
+      "nombre": "TST ANGEL SCHLESSER AGUA DE VETIVER EDT 100 ML",
+      "precio": "18,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-agua-de-vetiver-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-angel-schlesser-ambre-frais-pour-homme-edt-100-ml-tst": {
+      "nombre": "TST ANGEL SCHLESSER AMBRE FRAIS POUR HOMME EDT 100 ML",
+      "precio": "15,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-ambre-frais-pour-homme-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-angel-schlesser-bergamota-edt-100-ml-tst": {
+      "nombre": "TST ANGEL SCHLESSER BERGAMOTA EDC 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-bergamota-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-calvin-klein-ck-be-edt-100ml": {
+      "nombre": "TST CALVIN KLEIN CK BE EDT 100ml",
+      "precio": "18,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-be-edt-100ml.html",
+      "en_stock": true
+    },
+    "tst-calvin-klein-ck-one-gold-edt-100-ml-": {
+      "nombre": "TST CALVIN KLEIN CK ONE GOLD EDT 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-gold-edt-100-ml-.html",
+      "en_stock": true
+    },
+    "tst-chanel-antaeus-edt-100-mls": {
+      "nombre": "TST CHANEL ANTAEUS EDT 100 ML",
+      "precio": "82,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-antaeus-edt-100-mls.html",
+      "en_stock": true
+    },
+    "tst-davidoff-cool-water-man-edt-125-ml-tst": {
+      "nombre": "TST DAVIDOFF COOL WATER MAN EDT 125 ML",
+      "precio": "20,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-davidoff-cool-water-man-edt-125-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-giorgio-armani-acqua-di-gio-edt-100-ml-tst": {
+      "nombre": "TST GIORGIO ARMANI ACQUA DI GIO EDT 100 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-caleche-soie-de-parfum-edp-100-ml-tst": {
+      "nombre": "TST HERMES CALECHE SOIE DE PARFUM EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-caleche-soie-de-parfum-edp-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-eau-de-mandarine-ambree-edc-100-ml": {
+      "nombre": "TST HERMES EAU DE MANDARINE AMBREE EDC 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-mandarine-ambree-edc-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-eau-de-orange-verte-edc-100-ml-tst": {
+      "nombre": "TST HERMES EAU DE ORANGE VERTE EDC 100 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-orange-verte-edc-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-un-jardin-en-mediterranee-edt-100-ml-tst": {
+      "nombre": "TST HERMES UN JARDIN EN MEDITERRANEE EDT 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-un-jardin-en-mediterranee-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-un-jardin-sur-le-toit-edt-100-ml-tst": {
+      "nombre": "TST HERMES UN JARDIN SUR LE TOIT EDT 100 ML",
+      "precio": "55,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-un-jardin-sur-le-toit-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hugo-boss-boss-bottled-men-edt-100-ml-tst": {
+      "nombre": "TST HUGO BOSS BOSS BOTTLED MEN EDT 100 ML",
+      "precio": "42,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-men-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hugo-boss-boss-bottled-night-edt-100-ml-tst": {
+      "nombre": "TST HUGO BOSS BOSS BOTTLED NIGHT EDT 100 ML",
+      "precio": "41,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-night-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-issey-miyake-l-eau-d-issey-pour-homme-edt-125-ml-tst": {
+      "nombre": "TST ISSEY MIYAKE L'EAU D'ISSEY POUR HOMME EDT 125 ML",
+      "precio": "41,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-issey-miyake-l-eau-d-issey-pour-homme-edt-125-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-issey-miyake-l-eau-d-issey-pour-homme-intense-edt-125-ml-tst": {
+      "nombre": "TST ISSEY MIYAKE L'EAU D'ISSEY POUR HOMME INTENSE EDT 125 ML",
+      "precio": "38,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-issey-miyake-l-eau-d-issey-pour-homme-intense-edt-125-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-jpg-le-male-edt-125-ml-tst": {
+      "nombre": "TST JPG LE MALE EDT 125 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-edt-125-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-lacoste-eau-de-lacoste-l12-12-blanc-edp-100-ml": {
+      "nombre": "TST LACOSTE EAU DE LACOSTE L12-12 BLANC EDP 100 ML",
+      "precio": "31,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-lacoste-eau-de-lacoste-l12-12-blanc-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-mandarina-duck-black-edt-100-ml-tst": {
+      "nombre": "TST MANDARINA DUCK BLACK EDT 100 ML",
+      "precio": "13,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-mandarina-duck-black-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-one-million-edt-100-ml-tst": {
+      "nombre": "TST PACO RABANNE ONE MILLION EDT 100 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-one-million-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-ralph-lauren-polo-black-edt-125-ml-tst": {
+      "nombre": "TST RALPH LAUREN POLO BLACK EDT 125 ML",
+      "precio": "45,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-black-edt-125-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-trussardi-uomo-edt-100-ml-tst": {
+      "nombre": "TST TRUSSARDI UOMO EDT 100 ML",
+      "precio": "26,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-trussardi-uomo-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-versace-eros-homme-edt-100-ml": {
+      "nombre": "TST VERSACE EROS HOMME EDT 100 ML",
+      "precio": "42,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-versace-versace-pour-homme-edt-100-ml-tst": {
+      "nombre": "TST VERSACE VERSACE POUR HOMME EDT 100 ML",
+      "precio": "43,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
+      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
+      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
@@ -2712,12 +3132,6 @@
       "nombre": "TST JIMMY CHOO I WANT CHOO WITH LOVE EDP 125 ML",
       "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jimmy-choo-i-want-choo-with-love-edp-125-ml.html",
-      "en_stock": true
-    },
-    "tst-jpg-jpg-classique-mujer-edt-50ml": {
-      "nombre": "TST JPG J.P.G CLASSIQUE MUJER EDT 50ml",
-      "precio": "29,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-jpg-classique-mujer-edt-50ml.html",
       "en_stock": true
     },
     "tst-miu-miu-miutine-edp-100-ml": {
@@ -4226,12 +4640,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-costa-azzurra-parfum-100-ml.html",
       "en_stock": true
     },
-    "tst-valentino-donna-born-in-roma-green-stravaganza-edp-100-ml": {
-      "nombre": "TST VALENTINO DONNA BORN IN ROMA GREEN STRAVAGANZA EDP 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-valentino-donna-born-in-roma-green-stravaganza-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-loewe-agua-drop-edp-100-ml": {
       "nombre": "TST LOEWE AGUA DROP EDP 100 ML",
       "precio": "69,00 €",
@@ -4668,12 +5076,6 @@
       "nombre": "BESO BEACH BESO CANALLA EDP 100 ML REGULAR",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/beso-beach-beso-canalla-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-narciso-rodriguez-narciso-cristal-edp-90-ml": {
-      "nombre": "TST NARCISO RODRIGUEZ NARCISO CRISTAL EDP 90 ML",
-      "precio": "58,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-narciso-rodriguez-narciso-cristal-edp-90-ml.html",
       "en_stock": true
     },
     "tst-adolfo-dominguez-agua-fresca-de-rosas-edt-120-ml-nueva-presentacion": {
