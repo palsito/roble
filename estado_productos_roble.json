@@ -1,5 +1,35 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-eight-bob-cap-d-antibes-edp-100-mls": {
+      "nombre": "TST EIGHT & BOB CAP D'ANTIBES EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-cap-d-antibes-edp-100-mls.html",
+      "en_stock": true
+    },
+    "tst-eight-bob-champs-de-provence-edp-100-mls": {
+      "nombre": "TST EIGHT & BOB CHAMPS DE PROVENCE EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-champs-de-provence-edp-100-mls.html",
+      "en_stock": true
+    },
+    "tst-nasomatto-silver-musk-extrait-de-parfum-30-ml": {
+      "nombre": "TST NASOMATTO SILVER MUSK EXTRAIT DE PARFUM 30 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nasomatto-silver-musk-extrait-de-parfum-30-ml.html",
+      "en_stock": true
+    },
+    "tst-simone-andreoli-born-from-fire-edp-intense-100-ml": {
+      "nombre": "TST SIMONE ANDREOLI BORN FROM FIRE EDP INTENSE 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-born-from-fire-edp-intense-100-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-pax-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA PAX ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-pax-exdp-50-ml.html",
+      "en_stock": true
+    },
     "mancera-tonka-cola-edp-60-ml-regular": {
       "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
       "precio": "64,00 €",
@@ -40,36 +70,6 @@
       "nombre": "TST BDK TUBEREUSE IMPERIALE EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-tubereuse-imperiale-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-bdk-sel-d-argent-edp-100-ml": {
-      "nombre": "TST BDK SEL D'ARGENT EDP 100 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-sel-d-argent-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml": {
-      "nombre": "TST LORENZO PAZZAGLIA SUGAR KISSES ExDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-sugar-kisses-exdp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-panouge-perle-rare-le-rouge-edp-100ml": {
-      "nombre": "TST PANOUGE PERLE RARE LE ROUGE EDP 100ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-panouge-perle-rare-le-rouge-edp-100ml.html",
-      "en_stock": true
-    },
-    "tst-jeroboam-vespero-edp-100ml": {
-      "nombre": "TST JEROBOAM VESPERO EDP 100ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jeroboam-vespero-edp-100ml.html",
-      "en_stock": true
-    },
-    "tst-m-micallef-desirtoxic-l-intense-edp-100-ml": {
-      "nombre": "TST M. MICALLEF DESIRTOXIC L'INTENSE EDP 100 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-m-micallef-desirtoxic-l-intense-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -394,7 +394,7 @@
     },
     "tst-burberry-burberry-classic-woman-edp-100-ml-tst": {
       "nombre": "TST BURBERRY BURBERRY CLASSIC WOMAN EDP 100 ML",
-      "precio": "32,00 €",
+      "precio": "29,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-burberry-burberry-classic-woman-edp-100-ml-tst.html",
       "en_stock": true
     },
@@ -492,6 +492,36 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-eight-bob-cap-d-antibes-edp-100-mls": {
+      "nombre": "TST EIGHT & BOB CAP D'ANTIBES EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-cap-d-antibes-edp-100-mls.html",
+      "en_stock": true
+    },
+    "tst-eight-bob-champs-de-provence-edp-100-mls": {
+      "nombre": "TST EIGHT & BOB CHAMPS DE PROVENCE EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-champs-de-provence-edp-100-mls.html",
+      "en_stock": true
+    },
+    "tst-nasomatto-silver-musk-extrait-de-parfum-30-ml": {
+      "nombre": "TST NASOMATTO SILVER MUSK EXTRAIT DE PARFUM 30 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nasomatto-silver-musk-extrait-de-parfum-30-ml.html",
+      "en_stock": true
+    },
+    "tst-simone-andreoli-born-from-fire-edp-intense-100-ml": {
+      "nombre": "TST SIMONE ANDREOLI BORN FROM FIRE EDP INTENSE 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-born-from-fire-edp-intense-100-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-pax-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA PAX ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-pax-exdp-50-ml.html",
+      "en_stock": true
+    },
     "mancera-tonka-cola-edp-60-ml-regular": {
       "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
       "precio": "64,00 €",
@@ -1522,6 +1552,18 @@
       "nombre": "TST MATIERE PREMIERE PARISIAN MUSC EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-parisian-musc-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-falcon-leather-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE FALCON LEATHER EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-falcon-leather-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-encens-suave-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE ENCENS SUAVE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-encens-suave-edp-100-ml.html",
       "en_stock": true
     },
     "tst-matiere-premiere-cologne-cedrat-edp-100-ml": {
@@ -2996,6 +3038,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-nasomatto-silver-musk-extrait-de-parfum-30-ml": {
+      "nombre": "TST NASOMATTO SILVER MUSK EXTRAIT DE PARFUM 30 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nasomatto-silver-musk-extrait-de-parfum-30-ml.html",
+      "en_stock": true
+    },
+    "tst-simone-andreoli-born-from-fire-edp-intense-100-ml": {
+      "nombre": "TST SIMONE ANDREOLI BORN FROM FIRE EDP INTENSE 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-born-from-fire-edp-intense-100-ml.html",
+      "en_stock": true
+    },
     "tst-lorenzo-pazzaglia-pax-exdp-50-ml": {
       "nombre": "TST LORENZO PAZZAGLIA PAX ExDP 50 ML",
       "precio": "99,00 €",
@@ -4248,6 +4302,18 @@
       "nombre": "TST MATIERE PREMIERE PARISIAN MUSC EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-parisian-musc-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-falcon-leather-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE FALCON LEATHER EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-falcon-leather-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-encens-suave-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE ENCENS SUAVE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-encens-suave-edp-100-ml.html",
       "en_stock": true
     },
     "tst-matiere-premiere-cologne-cedrat-edp-100-ml": {
@@ -6190,7 +6256,7 @@
     },
     "tst-burberry-burberry-classic-woman-edp-100-ml-tst": {
       "nombre": "TST BURBERRY BURBERRY CLASSIC WOMAN EDP 100 ML",
-      "precio": "32,00 €",
+      "precio": "29,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-burberry-burberry-classic-woman-edp-100-ml-tst.html",
       "en_stock": true
     },
@@ -6370,7 +6436,7 @@
     },
     "tst-issey-miyake-l-eau-d-issey-pour-femme-edt-100-ml-tst": {
       "nombre": "TST ISSEY MIYAKE L'EAU D'ISSEY POUR FEMME EDT 100 ML",
-      "precio": "43,00 €",
+      "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-issey-miyake-l-eau-d-issey-pour-femme-edt-100-ml-tst.html",
       "en_stock": true
     },
