@@ -1,5 +1,23 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "mancera-tonka-cola-edp-60-ml-regular": {
+      "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-tonka-cola-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-cherry-cherry-edp-60-ml-regular": {
+      "nombre": "MANCERA CHERRY CHERRY EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-cherry-cherry-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-amore-caffe-edp-60-ml-regular": {
+      "nombre": "MANCERA AMORE CAFFE EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-amore-caffe-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -52,24 +70,6 @@
       "nombre": "TST M. MICALLEF DESIRTOXIC L'INTENSE EDP 100 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-m-micallef-desirtoxic-l-intense-edp-100-ml.html",
-      "en_stock": true
-    },
-    "xerjoff-kobe-edp-50-ml-regular-s": {
-      "nombre": "XERJOFF KOBE EDP 50 ML REGULAR",
-      "precio": "159,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/xerjoff-kobe-edp-50-ml-regular-s.html",
-      "en_stock": true
-    },
-    "tst-maison-francis-kurkdijan-kurky-edp-70-ml": {
-      "nombre": "TST MAISON FRANCIS KURKDIJAN KURKY EDP 70 ML",
-      "precio": "169,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-francis-kurkdijan-kurky-edp-70-ml.html",
-      "en_stock": true
-    },
-    "tst-edeniste-vetiver-imaginaire-edp-100-ml": {
-      "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -492,6 +492,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "mancera-tonka-cola-edp-60-ml-regular": {
+      "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-tonka-cola-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-cherry-cherry-edp-60-ml-regular": {
+      "nombre": "MANCERA CHERRY CHERRY EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-cherry-cherry-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-amore-caffe-edp-60-ml-regular": {
+      "nombre": "MANCERA AMORE CAFFE EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-amore-caffe-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "tst-rosendo-mateu-9-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
       "precio": "84,00 €",
@@ -942,6 +960,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml.html",
       "en_stock": true
     },
+    "tst-tom-ford-noir-extreme-edp-100-ml": {
+      "nombre": "TST TOM FORD NOIR EXTREME EDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-noir-extreme-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-tom-ford-grey-vetiver-parfum-100-ml": {
       "nombre": "TST TOM FORD GREY VETIVER PARFUM 100 ML",
       "precio": "135,00 €",
@@ -1000,6 +1024,12 @@
       "nombre": "TST SIMONE ANDREOLI MANDORLA DEL SUD EDP INTENSE 100 ML",
       "precio": "78,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-mandorla-del-sud-edp-intense-100-ml.html",
+      "en_stock": true
+    },
+    "tst-simone-andreoli-fico-nero-edp-intense-100-ml": {
+      "nombre": "TST SIMONE ANDREOLI FICO NERO EDP INTENSE 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-fico-nero-edp-intense-100-ml.html",
       "en_stock": true
     },
     "tst-orto-parisi-stercus-parfum-50-mls": {
@@ -2966,6 +2996,30 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-lorenzo-pazzaglia-pax-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA PAX ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-pax-exdp-50-ml.html",
+      "en_stock": true
+    },
+    "mancera-tonka-cola-edp-60-ml-regular": {
+      "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-tonka-cola-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-cherry-cherry-edp-60-ml-regular": {
+      "nombre": "MANCERA CHERRY CHERRY EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-cherry-cherry-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-amore-caffe-edp-60-ml-regular": {
+      "nombre": "MANCERA AMORE CAFFE EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-amore-caffe-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "cacharel-amor-amor-edt-100-ml-regulars": {
       "nombre": "CACHAREL AMOR AMOR EDT 100 ML REGULAR",
       "precio": "27,00 €",
@@ -3570,6 +3624,12 @@
       "nombre": "TST SIMONE ANDREOLI MANDORLA DEL SUD EDP INTENSE 100 ML",
       "precio": "78,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-mandorla-del-sud-edp-intense-100-ml.html",
+      "en_stock": true
+    },
+    "tst-simone-andreoli-fico-nero-edp-intense-100-ml": {
+      "nombre": "TST SIMONE ANDREOLI FICO NERO EDP INTENSE 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-fico-nero-edp-intense-100-ml.html",
       "en_stock": true
     },
     "tst-orto-parisi-stercus-parfum-50-mls": {
