@@ -48,12 +48,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jeroboam-vespero-edp-100ml.html",
       "en_stock": true
     },
-    "tst-bond-no9-ny-flowers-edp-100-ml": {
-      "nombre": "TST BOND NO.9 NY FLOWERS EDP 100 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-ny-flowers-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-m-micallef-desirtoxic-l-intense-edp-100-ml": {
       "nombre": "TST M. MICALLEF DESIRTOXIC L'INTENSE EDP 100 ML",
       "precio": "99,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST MAISON FRANCIS KURKDIJAN KURKY EDP 70 ML",
       "precio": "169,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-francis-kurkdijan-kurky-edp-70-ml.html",
+      "en_stock": true
+    },
+    "tst-edeniste-vetiver-imaginaire-edp-100-ml": {
+      "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -546,12 +546,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jeroboam-vespero-edp-100ml.html",
       "en_stock": true
     },
-    "tst-bond-no9-ny-flowers-edp-100-ml": {
-      "nombre": "TST BOND NO.9 NY FLOWERS EDP 100 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-ny-flowers-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-m-micallef-desirtoxic-l-intense-edp-100-ml": {
       "nombre": "TST M. MICALLEF DESIRTOXIC L'INTENSE EDP 100 ML",
       "precio": "99,00 €",
@@ -634,6 +628,12 @@
       "nombre": "TST FRANCESCA BIANCHI ENCOUNTERS EXTRAIT DE PARFUM 100 ML",
       "precio": "119,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-francesca-bianchi-encounters-extrait-de-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-francesca-bianchi-unsporken-musk-extrait-de-parfum-100-ml": {
+      "nombre": "TST FRANCESCA BIANCHI UNSPORKEN MUSK EXTRAIT DE PARFUM 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-francesca-bianchi-unsporken-musk-extrait-de-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-francesca-bianchi-lost-in-heaven-extrait-de-parfum-100-ml": {
