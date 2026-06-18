@@ -510,12 +510,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-vetiver-parfum-100-ml.html",
       "en_stock": true
     },
-    "tst-guerlain-guerlain-homme-edp-100-mls": {
-      "nombre": "TST GUERLAIN GUERLAIN HOMME EDP 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-guerlain-homme-edp-100-mls.html",
-      "en_stock": true
-    },
     "tst-electimuss-imperium-edp-100-ml": {
       "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
       "precio": "125,00 €",
@@ -1116,12 +1110,6 @@
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-psychedelic-love-edp-90-ml.html",
       "en_stock": true
     },
-    "tst-initio-oud-for-hapiness-edp-90-ml": {
-      "nombre": "TST INITIO OUD FOR HAPINESS EDP 90 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-oud-for-hapiness-edp-90-ml.html",
-      "en_stock": true
-    },
     "tst-versace-eros-homme-energy-edp-100-ml": {
       "nombre": "TST VERSACE EROS HOMME ENERGY EDP 100 ML",
       "precio": "49,00 €",
@@ -1648,6 +1636,12 @@
       "nombre": "TST MATIERE PREMIERE PARISIAN MUSC EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-parisian-musc-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-falcon-leather-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE FALCON LEATHER EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-falcon-leather-edp-100-ml.html",
       "en_stock": true
     },
     "tst-matiere-premiere-encens-suave-edp-100-ml": {
@@ -2368,6 +2362,12 @@
       "nombre": "TST DANIEL JOSIER TUBEROSE EDP 100 ML",
       "precio": "68,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-daniel-josier-tuberose-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-daniel-josier-vetiver-edp-100-ml": {
+      "nombre": "TST DANIEL JOSIER VETIVER EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-daniel-josier-vetiver-edp-100-ml.html",
       "en_stock": true
     },
     "tst-daniel-josier-josune-edp-100-ml": {
