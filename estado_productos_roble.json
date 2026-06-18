@@ -498,6 +498,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-azzaro-azzaro-the-most-wanted-parfum-100-ml": {
+      "nombre": "TST AZZARO AZZARO THE MOST WANTED PARFUM 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-the-most-wanted-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-guerlain-vetiver-parfum-100-ml": {
+      "nombre": "TST GUERLAIN VETIVER PARFUM 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-vetiver-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-guerlain-guerlain-homme-edp-100-mls": {
+      "nombre": "TST GUERLAIN GUERLAIN HOMME EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-guerlain-homme-edp-100-mls.html",
+      "en_stock": true
+    },
     "tst-electimuss-imperium-edp-100-ml": {
       "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
       "precio": "125,00 €",
@@ -756,6 +774,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-essence-viva-love-parfum-intense-100-ml.html",
       "en_stock": true
     },
+    "tst-valentino-uomo-born-in-roma-edp-intense-100-ml": {
+      "nombre": "TST VALENTINO UOMO BORN IN ROMA EDP INTENSE 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-valentino-uomo-born-in-roma-edp-intense-100-ml.html",
+      "en_stock": true
+    },
     "tst-versace-eros-homme-najim-parfum-100-ml": {
       "nombre": "TST VERSACE EROS HOMME NAJIM PARFUM 100 ML",
       "precio": "59,00 €",
@@ -802,6 +826,12 @@
       "nombre": "TST PACO RABANNE ONE MILLION GOLD ELIXIR 100 ML",
       "precio": "65,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-one-million-gold-elixir-100-ml.html",
+      "en_stock": true
+    },
+    "tst-yves-saint-laurent-y-for-men-elixir-60-ml": {
+      "nombre": "TST YVES SAINT LAURENT Y FOR MEN ELIXIR 60 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-yves-saint-laurent-y-for-men-elixir-60-ml.html",
       "en_stock": true
     },
     "pantheon-roma-notte-d-amore-exdp-50-ml-regular": {
@@ -1876,6 +1906,12 @@
       "nombre": "TST RAMON MONEGAL CHERRY MUSK EDP 100 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-cherry-musk-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-giorgio-armani-acqua-di-gio-profondo-parfum-100-ml": {
+      "nombre": "TST GIORGIO ARMANI ACQUA DI GIO PROFONDO PARFUM 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-profondo-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-jpg-scandal-pour-homme-absolu-parfum-concentree-100-ml": {
@@ -3148,6 +3184,12 @@
       "nombre": "TST VERSACE VERSACE POUR HOMME EDT 100 ML",
       "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
+      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
       "en_stock": true
     }
   },
@@ -4682,6 +4724,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-la-femme-edp-100-ml-tstd.html",
       "en_stock": true
     },
+    "tst-versace-crystal-noir-parfum-90-ml": {
+      "nombre": "TST VERSACE CRYSTAL NOIR PARFUM 90 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-versace-crystal-noir-parfum-90-ml.html",
+      "en_stock": true
+    },
     "tst-versace-bright-crystal-parfum-90-ml": {
       "nombre": "TST VERSACE BRIGHT CRYSTAL PARFUM 90 ML",
       "precio": "59,00 €",
@@ -4970,6 +5018,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ralph-lauren-ralph-edt-50-ml.html",
       "en_stock": true
     },
+    "tst-givenchy-l-interdit-rouge-ultime-edp-80-ml": {
+      "nombre": "TST GIVENCHY L'INTERDIT ROUGE ULTIME EDP 80 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-givenchy-l-interdit-rouge-ultime-edp-80-ml.html",
+      "en_stock": true
+    },
     "tst-hermes-tutti-twilly-edp-85-ml": {
       "nombre": "TST HERMES TUTTI TWILLY EDP 85 ML",
       "precio": "42,00 €",
@@ -5172,6 +5226,12 @@
       "nombre": "TST SISLEY L'EAU REVEE D'ALMA EDT 100 ML",
       "precio": "65,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-l-eau-revee-d-alma-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-givenchy-l-interdit-rouge-edp-80-ml": {
+      "nombre": "TST GIVENCHY L'INTERDIT ROUGE EDP 80 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-givenchy-l-interdit-rouge-edp-80-ml.html",
       "en_stock": true
     },
     "tst-jimmy-choo-i-want-choo-forever-edp-125-ml": {
@@ -6308,6 +6368,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-cartier-la-panthere-legere-edp-75-ml.html",
       "en_stock": true
     },
+    "tst-yves-saint-laurent-mon-paris-edp-90-ml": {
+      "nombre": "TST YVES SAINT LAURENT MON PARIS EDP 90 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-yves-saint-laurent-mon-paris-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-zadig-voltaire-zadig-voltaire-this-is-her-edp-100-ml": {
       "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HER EDP 100 ML",
       "precio": "49,00 €",
@@ -6384,6 +6450,12 @@
       "nombre": "TST CHANEL COCO MADEMOISELLE EDP 100 ML",
       "precio": "105,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-coco-mademoiselle-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-guerlain-aqua-allegoria-pamplelune-edt-125-ml": {
+      "nombre": "TST GUERLAIN AQUA ALLEGORIA PAMPLELUNE EDT 125 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-pamplelune-edt-125-ml.html",
       "en_stock": true
     },
     "tst-carolina-herrera-good-girl-zapato-edp-80-ml": {
