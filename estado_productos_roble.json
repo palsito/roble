@@ -1,5 +1,23 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-electimuss-imperium-edp-100-ml": {
+      "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
+      "precio": "125,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-imperium-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-etat-libre-de-orange-archives-69-edp-50-ml": {
+      "nombre": "TST ETAT LIBRE DE ORANGE ARCHIVES 69 EDP 50 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-archives-69-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-carthusia-ligea-la-sirena-edp-100-ml": {
+      "nombre": "TST CARTHUSIA LIGEA LA SIRENA EDP 100 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-ligea-la-sirena-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-carthusia-gelsomini-di-capri-edp-100-ml": {
       "nombre": "TST CARTHUSIA GELSOMINI DI CAPRI EDP 100 ML",
       "precio": "49,00 €",
@@ -53,33 +71,9 @@
       "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-born-from-fire-edp-intense-100-ml.html",
       "en_stock": true
-    },
-    "tst-lorenzo-pazzaglia-pax-exdp-50-ml": {
-      "nombre": "TST LORENZO PAZZAGLIA PAX ExDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-pax-exdp-50-ml.html",
-      "en_stock": true
-    },
-    "mancera-tonka-cola-edp-60-ml-regular": {
-      "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
-      "precio": "64,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-tonka-cola-edp-60-ml-regular.html",
-      "en_stock": true
-    },
-    "mancera-cherry-cherry-edp-60-ml-regular": {
-      "nombre": "MANCERA CHERRY CHERRY EDP 60 ML REGULAR",
-      "precio": "64,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-cherry-cherry-edp-60-ml-regular.html",
-      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
-    "tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml": {
-      "nombre": "TST BVLGARI MAN EXTREME ALL BLACKS LIMITED EDITION EPD INTENSE...",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml.html",
-      "en_stock": true
-    },
     "tst-ralph-lauren-ralph-confetti-edition-edt-100-ml": {
       "nombre": "TST RALPH LAUREN RALPH CONFETTI EDITION EDT 100 ML",
       "precio": "59,00 €",
@@ -504,6 +498,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-electimuss-imperium-edp-100-ml": {
+      "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
+      "precio": "125,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-imperium-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-etat-libre-de-orange-archives-69-edp-50-ml": {
+      "nombre": "TST ETAT LIBRE DE ORANGE ARCHIVES 69 EDP 50 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-archives-69-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-carthusia-ligea-la-sirena-edp-100-ml": {
+      "nombre": "TST CARTHUSIA LIGEA LA SIRENA EDP 100 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-ligea-la-sirena-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-carthusia-gelsomini-di-capri-edp-100-ml": {
       "nombre": "TST CARTHUSIA GELSOMINI DI CAPRI EDP 100 ML",
       "precio": "49,00 €",
@@ -532,12 +544,6 @@
       "nombre": "TST DUSITA PELAGOS ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dusita-pelagos-exdp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml": {
-      "nombre": "TST BVLGARI MAN EXTREME ALL BLACKS LIMITED EDITION EPD INTENSE...",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml.html",
       "en_stock": true
     },
     "tst-eight-bob-cap-d-antibes-edp-100-mls": {
@@ -1200,6 +1206,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mancera-tonka-cola-edp-120-ml.html",
       "en_stock": true
     },
+    "tst-guerlain-l-homme-ideal-parfum-100-ml": {
+      "nombre": "TST GUERLAIN L'HOMME IDEAL PARFUM 100 ML",
+      "precio": "73,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-l-homme-ideal-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-dolce-gabbana-light-blue-pour-homme-capri-in-love-edt-100-ml": {
       "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME CAPRI IN LOVE EDT...",
       "precio": "52,00 €",
@@ -1564,6 +1576,12 @@
       "nombre": "TST SIMONE ANDREOLI MALIBU PARTY IN THE BAY EDP INTENSE 100 ML",
       "precio": "110,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-malibu-party-in-the-bay-edp-intense-100-ml.html",
+      "en_stock": true
+    },
+    "tst-carthusia-terra-mia-edp-100-ml": {
+      "nombre": "TST CARTHUSIA TERRA MIA EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carthusia-terra-mia-edp-100-ml.html",
       "en_stock": true
     },
     "tst-xerjoff-soprano-edp-100-ml": {
@@ -1980,6 +1998,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mancera-black-gold-edp-120-ml.html",
       "en_stock": true
     },
+    "tst-mancera-cedrat-boise-intense-edp-120-ml": {
+      "nombre": "TST MANCERA CEDRAT BOISE INTENSE EDP 120 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mancera-cedrat-boise-intense-edp-120-ml.html",
+      "en_stock": true
+    },
     "tst-adolfo-dominguez-ambar-negro-edp-120-ml": {
       "nombre": "TST ADOLFO DOMINGUEZ AMBAR NEGRO EDP 120 ML",
       "precio": "20,00 €",
@@ -1988,7 +2012,7 @@
     },
     "electimuss-imperium-edp-100-ml-regular": {
       "nombre": "ELECTIMUSS IMPERIUM EDP 100 ML REGULAR",
-      "precio": "109,00 €",
+      "precio": "149,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/electimuss-imperium-edp-100-ml-regular.html",
       "en_stock": true
     },
@@ -2002,6 +2026,12 @@
       "nombre": "TST PRADA INFUSION DE FIGUE EDP 100 ML",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-de-figue-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-prada-paradoxe-intense-edp-90-ml": {
+      "nombre": "TST PRADA PARADOXE INTENSE EDP 90 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-intense-edp-90-ml.html",
       "en_stock": true
     },
     "tst-armand-basi-dont-look-back-edt-100-ml": {
@@ -2044,6 +2074,12 @@
       "nombre": "TST CALVIN KLEIN CK BE EDT 200ml",
       "precio": "29,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-be-edt-200ml-tst.html",
+      "en_stock": true
+    },
+    "tst-guerlain-habit-rouge-edp-100-ml": {
+      "nombre": "TST GUERLAIN HABIT ROUGE EDP 100 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-habit-rouge-edp-100-ml.html",
       "en_stock": true
     },
     "thauy-hotep-edp-100-ml-regular": {
@@ -3113,15 +3149,15 @@
       "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
       "en_stock": true
-    },
-    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
-      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
-      "precio": "44,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
-      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-electimuss-imperium-edp-100-ml": {
+      "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
+      "precio": "125,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-imperium-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-etat-libre-de-orange-archives-69-edp-50-ml": {
       "nombre": "TST ETAT LIBRE DE ORANGE ARCHIVES 69 EDP 50 ML",
       "precio": "39,00 €",
@@ -5014,7 +5050,7 @@
     },
     "electimuss-imperium-edp-100-ml-regular": {
       "nombre": "ELECTIMUSS IMPERIUM EDP 100 ML REGULAR",
-      "precio": "109,00 €",
+      "precio": "149,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/electimuss-imperium-edp-100-ml-regular.html",
       "en_stock": true
     },
@@ -5034,6 +5070,12 @@
       "nombre": "TST PRADA INFUSION DE FIGUE EDP 100 ML",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-de-figue-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-prada-paradoxe-intense-edp-90-ml": {
+      "nombre": "TST PRADA PARADOXE INTENSE EDP 90 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-intense-edp-90-ml.html",
       "en_stock": true
     },
     "tst-kenzo-flower-ikebana-edp-75-ml": {
@@ -6636,6 +6678,12 @@
       "nombre": "TST THIERRY MUGLER ANGEL SUNESSENCE LEGERE EDT 50 ML",
       "precio": "36,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-thierry-mugler-angel-sunessence-legere-edt-50-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-tous-tous-edp-90-ml-tst": {
+      "nombre": "TST TOUS TOUS EDP 90 ML",
+      "precio": "34,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-tous-edp-90-ml-tst.html",
       "en_stock": true
     }
   }
