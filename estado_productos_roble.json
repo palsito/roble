@@ -122,6 +122,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-capri-in-love-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-guerlain-l-homme-ideal-sport-edt-100-ml": {
+      "nombre": "TST GUERLAIN L'HOMME IDEAL SPORT EDT 100 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-l-homme-ideal-sport-edt-100-ml.html",
+      "en_stock": true
+    },
     "miller-harris-rose-en-noir-edp-100-ml-regular": {
       "nombre": "MILLER HARRIS ROSE EN NOIR EDP 100 ML REGULAR",
       "precio": "49,00 €",
@@ -1270,6 +1276,12 @@
       "nombre": "THAUY KEEVA EDP 100 ML REGULAR",
       "precio": "78,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/thauy-keeva-edp-100-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-guerlain-l-homme-ideal-sport-edt-100-ml": {
+      "nombre": "TST GUERLAIN L'HOMME IDEAL SPORT EDT 100 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-l-homme-ideal-sport-edt-100-ml.html",
       "en_stock": true
     },
     "tst-hermes-terre-d-hermes-edp-intense-100-ml": {
@@ -2508,6 +2520,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-futura-edc-100-ml.html",
       "en_stock": true
     },
+    "tst-hugo-boss-the-scent-absolute-for-him-edp-100-ml": {
+      "nombre": "TST HUGO BOSS THE SCENT ABSOLUTE FOR HIM EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-the-scent-absolute-for-him-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-christian-dior-homme-edt-100-ml-nuevo": {
       "nombre": "TST CHRISTIAN DIOR HOMME EDT 100 ML",
       "precio": "79,00 €",
@@ -2638,6 +2656,18 @@
       "nombre": "TST JPG LE BEAU EDT 125 ML",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-beau-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-burberry-mr-burberry-edp-100-ml": {
+      "nombre": "TST BURBERRY MR. BURBERRY EDP 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-burberry-mr-burberry-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-burberry-mr-burberry-indigo-edt-100-ml": {
+      "nombre": "TST BURBERRY MR. BURBERRY INDIGO EDT 100 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-burberry-mr-burberry-indigo-edt-100-ml.html",
       "en_stock": true
     },
     "tst-ralph-lauren-polo-ultra-blue-edt-125-ml-": {
@@ -2824,6 +2854,12 @@
       "nombre": "TST VALENTINO VALENTINO UOMO EDT 100 ML",
       "precio": "52,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-valentino-valentino-uomo-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-cartier-declaration-edt-100-ml": {
+      "nombre": "TST CARTIER DECLARATION EDT 100 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-cartier-declaration-edt-100-ml.html",
       "en_stock": true
     },
     "tst-4711-acqua-colonia-pink-pepper-grapefruit-edc-170-ml-tst": {
@@ -3032,6 +3068,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-hermes-barenia-edp-intense-100-ml": {
+      "nombre": "TST HERMES BARENIA EDP INTENSE 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-barenia-edp-intense-100-ml.html",
+      "en_stock": true
+    },
     "tst-nasomatto-silver-musk-extrait-de-parfum-30-ml": {
       "nombre": "TST NASOMATTO SILVER MUSK EXTRAIT DE PARFUM 30 ML",
       "precio": "89,00 €",
