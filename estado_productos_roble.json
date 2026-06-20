@@ -484,16 +484,16 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-cacao-in-the-sun-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-carolina-herrera-212-vip-black-elixir-100-ml": {
-      "nombre": "TST CAROLINA HERRERA 212 VIP BLACK ELIXIR 100 ML",
-      "precio": "48,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-vip-black-elixir-100-ml.html",
-      "en_stock": true
-    },
     "rosendo-mateu-8-edp-100-ml-regular": {
       "nombre": "ROSENDO MATEU 8 EDP 100 ML REGULAR",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-8-edp-100-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-escada-taj-sunset-edt-50-ml": {
+      "nombre": "TST ESCADA TAJ SUNSET EDT 50 ML",
+      "precio": "22,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-escada-taj-sunset-edt-50-ml.html",
       "en_stock": true
     }
   },
@@ -976,12 +976,6 @@
       "nombre": "NEJMA 7 OUD LINE EDP 100 ML REGULAR",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/nejma-7-oud-line-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-carolina-herrera-212-vip-black-elixir-100-ml": {
-      "nombre": "TST CAROLINA HERRERA 212 VIP BLACK ELIXIR 100 ML",
-      "precio": "48,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-vip-black-elixir-100-ml.html",
       "en_stock": true
     },
     "tst-paco-rabanne-invictus-victory-absolui-parfum-100-ml": {
@@ -2722,6 +2716,12 @@
       "nombre": "TST ACQUA DI PARMA CIPRESSO DI TOSCANA EDT 150 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-cipresso-di-toscana-edt-150-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-pour-homme-edt-100-ml": {
+      "nombre": "TST PACO RABANNE POUR HOMME EDT 100 ML",
+      "precio": "30,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-pour-homme-edt-100-ml.html",
       "en_stock": true
     },
     "tst-jpg-le-beau-edt-125-ml": {
