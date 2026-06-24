@@ -672,12 +672,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-jpg-scandal-pour-homme-elixir-parfum-100-ml": {
-      "nombre": "TST JPG SCANDAL POUR HOMME ELIXIR PARFUM 100 ML",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-scandal-pour-homme-elixir-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-hugo-boss-boss-bottled-striking-lavender-edp-100-ml": {
       "nombre": "TST HUGO BOSS BOSS BOTTLED STRIKING LAVENDER EDP 100 ML",
       "precio": "46,00 €",
@@ -3248,12 +3242,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-jpg-scandal-elixir-parfum-80-ml": {
-      "nombre": "TST JPG SCANDAL ELIXIR PARFUM 80 ML",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-scandal-elixir-parfum-80-ml.html",
-      "en_stock": true
-    },
     "tst-carolina-herrera-very-good-girl-elixir-80-ml": {
       "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
       "precio": "76,00 €",
@@ -3714,6 +3702,12 @@
       "nombre": "TST ROCHAS AUDACE EDP 90 ML",
       "precio": "52,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rochas-audace-edp-90-ml.html",
+      "en_stock": true
+    },
+    "tst-simone-andreoli-mandorla-del-sud-edp-intense-100-ml": {
+      "nombre": "TST SIMONE ANDREOLI MANDORLA DEL SUD EDP INTENSE 100 ML",
+      "precio": "78,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-mandorla-del-sud-edp-intense-100-ml.html",
       "en_stock": true
     },
     "tst-simone-andreoli-fico-nero-edp-intense-100-ml": {
@@ -4206,6 +4200,12 @@
       "nombre": "TST ACQUA DI PARMA LUCE DI ROSA EDP 100 ML",
       "precio": "84,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-luce-di-rosa-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-sandalo-edp-100-ml": {
+      "nombre": "TST ACQUA DI PARMA SANDALO EDP 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-sandalo-edp-100-ml.html",
       "en_stock": true
     },
     "tst-acqua-di-parma-oud-zagara-edp-100-ml": {
