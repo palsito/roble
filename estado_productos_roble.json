@@ -895,8 +895,8 @@
       "en_stock": true
     },
     "tst-loewe-esencia-pour-homme-elixir-100-ml": {
-      "nombre": "LOEWE ESENCIA POUR HOMME ELIXIR 100 ML REGULAR",
-      "precio": "119,00 €",
+      "nombre": "TST LOEWE ESENCIA POUR HOMME ELIXIR 100 ML",
+      "precio": "93,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-esencia-pour-homme-elixir-100-ml.html",
       "en_stock": true
     },
@@ -1610,7 +1610,7 @@
     },
     "tst-loewe-7-elixir-100-ml": {
       "nombre": "TST LOEWE 7 ELIXIR 100 ML",
-      "precio": "89,00 €",
+      "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-7-elixir-100-ml.html",
       "en_stock": true
     },
@@ -2066,7 +2066,7 @@
     },
     "tst-loewe-earth-edp-100-ml-tst": {
       "nombre": "TST LOEWE EARTH EDP 100 ML TST",
-      "precio": "62,00 €",
+      "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-earth-edp-100-ml-tst.html",
       "en_stock": true
     },
@@ -2358,10 +2358,22 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-deep-blue-edt-125-ml.html",
       "en_stock": true
     },
+    "tst-loewe-solo-loewe-edt-100-ml-nuevo-formato": {
+      "nombre": "TST LOEWE SOLO LOEWE EDT 100 ML NUEVO FORMATO",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-solo-loewe-edt-100-ml-nuevo-formato.html",
+      "en_stock": true
+    },
     "tst-rosendo-mateu-1-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 1 EDP 100 ML",
       "precio": "74,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-1-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-loewe-7-cobalt-edp-100-ml": {
+      "nombre": "TST LOEWE 7 COBALT EDP 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-7-cobalt-edp-100-ml.html",
       "en_stock": true
     },
     "tst-givenchy-gentleman-edt-intense-100-ml": {
@@ -2428,6 +2440,12 @@
       "nombre": "TST DANIEL JOSIER AMBRE TABAC EDP 100 ML",
       "precio": "68,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-daniel-josier-ambre-tabac-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-loewe-solo-loewe-cedro-edt-100-ml-nuevo-formato": {
+      "nombre": "TST LOEWE SOLO LOEWE CEDRO EDT 100 ML NUEVO FORMATO",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-solo-loewe-cedro-edt-100-ml-nuevo-formato.html",
       "en_stock": true
     },
     "tst-loewe-esencia-pour-homme-edt-100-ml-nuevo-formato": {
@@ -3002,6 +3020,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-jpg-divine-couture-edp-100-ml": {
+      "nombre": "TST JPG DIVINE COUTURE EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-divine-couture-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-paco-rabanne-olympea-elixir-edp-intense-80-ml": {
       "nombre": "TST PACO RABANNE OLYMPEA ELIXIR EDP INTENSE 80 ML",
       "precio": "69,00 €",
@@ -4858,7 +4882,7 @@
     },
     "tst-adolfo-dominguez-jazmin-tonka-edp-120-ml": {
       "nombre": "TST ADOLFO DOMINGUEZ JAZMIN TONKA EDP 120 ML",
-      "precio": "20,00 €",
+      "precio": "18,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-adolfo-dominguez-jazmin-tonka-edp-120-ml.html",
       "en_stock": true
     },
@@ -5312,6 +5336,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-daniel-josier-under-the-fig-tree-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-loewe-agua-de-loewe-mar-de-coral-edt-100-mlx": {
+      "nombre": "TST LOEWE AGUA DE LOEWE MAR DE CORAL EDT 100 ML",
+      "precio": "57,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-agua-de-loewe-mar-de-coral-edt-100-mlx.html",
+      "en_stock": true
+    },
     "tst-rosendo-mateu-1-edp-100-ml": {
       "nombre": "TST ROSENDO MATEU 1 EDP 100 ML",
       "precio": "74,00 €",
@@ -5328,6 +5358,12 @@
       "nombre": "TST MARC JACOBS DAISY EAU SO INTENSE EDP 100 ML",
       "precio": "44,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-daisy-eau-so-intense-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-loewe-aire-loewe-sutileza-edt-100-ml-nuevo-formato": {
+      "nombre": "TST LOEWE AIRE LOEWE SUTILEZA EDT 100 ML NUEVO FORMATO",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-aire-loewe-sutileza-edt-100-ml-nuevo-formato.html",
       "en_stock": true
     },
     "tst-acqua-di-parma-oud-edp-100-ml": {
