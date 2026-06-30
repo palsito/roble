@@ -3020,6 +3020,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-carolina-herrera-very-good-girl-elixir-80-ml": {
+      "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
+      "precio": "76,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-very-good-girl-elixir-80-ml.html",
+      "en_stock": true
+    },
     "tst-jpg-divine-couture-edp-100-ml": {
       "nombre": "TST JPG DIVINE COUTURE EDP 100 ML",
       "precio": "69,00 €",
@@ -3204,12 +3210,6 @@
       "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-carolina-herrera-very-good-girl-elixir-80-ml": {
-      "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
-      "precio": "76,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-very-good-girl-elixir-80-ml.html",
       "en_stock": true
     },
     "tst-gucci-flora-gorgeous-gardenia-intense-edp-100-ml": {
