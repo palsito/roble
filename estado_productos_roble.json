@@ -338,6 +338,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-cartier-delices-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-christian-dior-escale-a-portofino-edt-125-ml": {
+      "nombre": "TST CHRISTIAN DIOR ESCALE A PORTOFINO EDT 125 ML",
+      "precio": "82,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-escale-a-portofino-edt-125-ml.html",
+      "en_stock": true
+    },
     "tst-christian-dior-higher-energy-edt-100-ml": {
       "nombre": "TST CHRISTIAN DIOR HIGHER ENERGY EDT 100 ML",
       "precio": "59,00 €",
@@ -2142,9 +2148,15 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-villoresi-teint-de-neige-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-christian-dior-sauvage-elixir-parfum-concentree-60-ml": {
+      "nombre": "TST CHRISTIAN DIOR SAUVAGE ELIXIR PARFUM CONCENTREE 60 ML",
+      "precio": "96,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-sauvage-elixir-parfum-concentree-60-ml.html",
+      "en_stock": true
+    },
     "tst-adolfo-dominguez-ebano-salvia-edp-120-ml": {
       "nombre": "TST ADOLFO DOMINGUEZ EBANO SALVIA EDP 120 ML",
-      "precio": "19,00 €",
+      "precio": "17,00 €",
       "url": "https://elrobleperfumado.com/home/tst-adolfo-dominguez-ebano-salvia-edp-120-ml.html",
       "en_stock": true
     },
@@ -2550,6 +2562,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-angel-schlesser-citrus-pomelo-eau-fraiche-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-christian-dior-sauvage-parfum-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR SAUVAGE PARFUM 100 ML",
+      "precio": "95,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-sauvage-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-hugo-boss-boss-bottled-men-infinite-edp-100-ml": {
       "nombre": "TST HUGO BOSS BOSS BOTTLED MEN INFINITE EDP 100 ML",
       "precio": "43,00 €",
@@ -2816,7 +2834,7 @@
     },
     "tst-christian-dior-sauvage-edt-100-ml": {
       "nombre": "TST CHRISTIAN DIOR SAUVAGE EDT 100 ML",
-      "precio": "73,00 €",
+      "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-sauvage-edt-100-ml.html",
       "en_stock": true
     },
@@ -2984,6 +3002,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-paco-rabanne-olympea-elixir-edp-intense-80-ml": {
+      "nombre": "TST PACO RABANNE OLYMPEA ELIXIR EDP INTENSE 80 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-olympea-elixir-edp-intense-80-ml.html",
+      "en_stock": true
+    },
     "tst-electimuss-imperium-edp-100-ml": {
       "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
       "precio": "125,00 €",
@@ -4418,6 +4442,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-la-femme-edp-100-ml-tstd.html",
       "en_stock": true
     },
+    "tst-giorgio-armani-armani-si-edp-100-mlg": {
+      "nombre": "TST GIORGIO ARMANI ARMANI SI EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-edp-100-mlg.html",
+      "en_stock": true
+    },
     "tst-versace-crystal-noir-parfum-90-ml": {
       "nombre": "TST VERSACE CRYSTAL NOIR PARFUM 90 ML",
       "precio": "64,00 €",
@@ -5200,7 +5230,7 @@
     },
     "tst-christian-dior-miss-dior-edp-100-ml-nuevo-modelo": {
       "nombre": "TST CHRISTIAN DIOR MISS DIOR EDP 100 ML NUEVO MODELO",
-      "precio": "92,00 €",
+      "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-miss-dior-edp-100-ml-nuevo-modelo.html",
       "en_stock": true
     },
@@ -5944,7 +5974,7 @@
     },
     "tst-lancome-tresor-edp-100-ml-": {
       "nombre": "TST LANCOME TRESOR EDP 100 ML",
-      "precio": "58,00 €",
+      "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-tresor-edp-100-ml-.html",
       "en_stock": true
     },
