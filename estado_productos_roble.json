@@ -1,5 +1,23 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-fugazzi-borntostandout-edp-50-ml": {
+      "nombre": "TST FUGAZZI BORNTOSTANDOUT EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-borntostandout-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-java-wood-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE JAVA WOOD EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-java-wood-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-orange-calabria-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE ORANGE CALABRIA EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-orange-calabria-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-premiere-note-cedar-atlas-edp-100-ml": {
       "nombre": "TST PREMIERE NOTE CEDAR ATLAS EDP 100 ML",
       "precio": "68,00 €",
@@ -52,24 +70,6 @@
       "nombre": "CARNER BARCELONA SALADO EDP 100 ML REGULAR",
       "precio": "72,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/carner-barcelona-salado-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-dusita-pelagos-exdp-50-ml": {
-      "nombre": "TST DUSITA PELAGOS ExDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dusita-pelagos-exdp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-eight-bob-cap-d-antibes-edp-100-mls": {
-      "nombre": "TST EIGHT & BOB CAP D'ANTIBES EDP 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-cap-d-antibes-edp-100-mls.html",
-      "en_stock": true
-    },
-    "tst-eight-bob-champs-de-provence-edp-100-mls": {
-      "nombre": "TST EIGHT & BOB CHAMPS DE PROVENCE EDP 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-champs-de-provence-edp-100-mls.html",
       "en_stock": true
     }
   },
@@ -498,6 +498,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-jpg-le-male-in-blue-edp-125-ml": {
+      "nombre": "TST JPG LE MALE IN BLUE EDP 125 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-in-blue-edp-125-ml.html",
+      "en_stock": true
+    },
+    "tst-fugazzi-borntostandout-edp-50-ml": {
+      "nombre": "TST FUGAZZI BORNTOSTANDOUT EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-borntostandout-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-java-wood-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE JAVA WOOD EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-java-wood-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-premiere-note-orange-calabria-edp-100-ml": {
       "nombre": "TST PREMIERE NOTE ORANGE CALABRIA EDP 100 ML",
       "precio": "68,00 €",
@@ -2322,6 +2340,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-7-edt-100-ml-nuevo-modelo.html",
       "en_stock": true
     },
+    "tst-azzaro-azzaro-the-most-wanted-edp-intense-100-ml": {
+      "nombre": "TST AZZARO AZZARO THE MOST WANTED EDP INTENSE 100 ML",
+      "precio": "47,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-the-most-wanted-edp-intense-100-ml.html",
+      "en_stock": true
+    },
     "tst-calvin-klein-ck-everyone-edt-100-ml": {
       "nombre": "TST CALVIN KLEIN CK EVERYONE EDT 100 ML",
       "precio": "15,00 €",
@@ -2814,6 +2838,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-4711-acqua-colonia-pink-pepper-grapefruit-edc-170-ml-tst.html",
       "en_stock": true
     },
+    "tst-hermes-terre-d-hermes-edt-100-ml": {
+      "nombre": "TST HERMES TERRE D'HERMES EDT 100 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-christian-dior-higher-energy-edt-100-ml": {
       "nombre": "TST CHRISTIAN DIOR HIGHER ENERGY EDT 100 ML",
       "precio": "59,00 €",
@@ -2988,6 +3018,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-versace-versace-pour-homme-edt-100-ml-tst": {
+      "nombre": "TST VERSACE VERSACE POUR HOMME EDT 100 ML",
+      "precio": "43,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
+      "en_stock": true
+    },
     "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
       "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
       "precio": "44,00 €",
@@ -2996,6 +3032,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-fugazzi-borntostandout-edp-50-ml": {
+      "nombre": "TST FUGAZZI BORNTOSTANDOUT EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-borntostandout-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-premiere-note-java-wood-edp-100-ml": {
       "nombre": "TST PREMIERE NOTE JAVA WOOD EDP 100 ML",
       "precio": "68,00 €",
@@ -5810,6 +5852,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-angel-schlesser-femme-edt-100-mll.html",
       "en_stock": true
     },
+    "tst-jimmy-choo-jimmy-choo-for-woman-edp-100ml": {
+      "nombre": "TST JIMMY CHOO JIMMY CHOO FOR WOMAN EDP 100ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jimmy-choo-jimmy-choo-for-woman-edp-100ml.html",
+      "en_stock": true
+    },
     "tst-elie-saab-le-parfum-in-white-edp-90-mll": {
       "nombre": "TST ELIE SAAB LE PARFUM IN WHITE EDP 90 ML",
       "precio": "52,00 €",
@@ -6432,6 +6480,12 @@
       "nombre": "TST THIERRY MUGLER ANGEL SUNESSENCE LEGERE EDT 50 ML",
       "precio": "36,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-thierry-mugler-angel-sunessence-legere-edt-50-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-tous-tous-edp-90-ml-tst": {
+      "nombre": "TST TOUS TOUS EDP 90 ML",
+      "precio": "34,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-tous-edp-90-ml-tst.html",
       "en_stock": true
     }
   }
