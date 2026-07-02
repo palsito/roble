@@ -498,6 +498,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-roger-gallet-vetyver-eau-fraiche-parfumee-100-ml": {
+      "nombre": "TST ROGER & GALLET VETYVER EAU FRAICHE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-vetyver-eau-fraiche-parfumee-100-ml.html",
+      "en_stock": true
+    },
     "tst-roger-gallet-fleur-d-osmanthus-eau-fraiche-parfumee-100-mls": {
       "nombre": "TST ROGER & GALLET FLEUR D'OSMANTHUS EAU FRAICHE PARFUMEE 100 ML",
       "precio": "19,00 €",
@@ -826,6 +832,12 @@
       "nombre": "TST PACO RABANNE ONE MILLION GOLD ELIXIR 100 ML",
       "precio": "65,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-one-million-gold-elixir-100-ml.html",
+      "en_stock": true
+    },
+    "tst-valentino-uomo-born-in-roma-purple-melancholia-edt-100-ml": {
+      "nombre": "TST VALENTINO UOMO BORN IN ROMA PURPLE MELANCHOLIA EDT 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-valentino-uomo-born-in-roma-purple-melancholia-edt-100-ml.html",
       "en_stock": true
     },
     "pantheon-roma-notte-d-amore-exdp-50-ml-regular": {
@@ -2004,6 +2016,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-issey-miyake-l-eau-d-issey-pour-homme-vetiver-edt-intense-100-ml.html",
       "en_stock": true
     },
+    "tst-jpg-le-male-elixir-absolu-parfum-intense-125-ml": {
+      "nombre": "TST JPG LE MALE ELIXIR ABSOLU PARFUM INTENSE 125 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-elixir-absolu-parfum-intense-125-ml.html",
+      "en_stock": true
+    },
     "tst-paco-rabanne-invictus-victory-elixir-100-ml": {
       "nombre": "TST PACO RABANNE INVICTUS VICTORY ELIXIR 100 ML",
       "precio": "68,00 €",
@@ -3074,6 +3092,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-burberry-her-parfum-100-ml": {
+      "nombre": "TST BURBERRY HER PARFUM 100 ML",
+      "precio": "66,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-burberry-her-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-roger-gallet-vetyver-eau-fraiche-parfumee-100-ml": {
       "nombre": "TST ROGER & GALLET VETYVER EAU FRAICHE PARFUMEE 100 ML",
       "precio": "19,00 €",
@@ -5230,7 +5254,7 @@
     },
     "tst-guerlain-aqua-allegoria-nerolia-vetiver-edt-125-ml": {
       "nombre": "TST GUERLAIN AQUA ALLEGORIA NEROLIA VETIVER EDT 125 ML",
-      "precio": "52,00 €",
+      "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-nerolia-vetiver-edt-125-ml.html",
       "en_stock": true
     },
@@ -6186,6 +6210,12 @@
       "nombre": "TST LANCOME MIRACLE EDP 100 ML",
       "precio": "62,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-miracle-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-cartier-baiser-vole-essence-de-parfum-40-ml": {
+      "nombre": "TST CARTIER BAISER VOLE ESSENCE DE PARFUM 40 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-cartier-baiser-vole-essence-de-parfum-40-ml.html",
       "en_stock": true
     },
     "tst-cartier-delices-edt-100-ml": {
