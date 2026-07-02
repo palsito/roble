@@ -6,12 +6,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-imperium-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-etat-libre-de-orange-archives-69-edp-50-ml": {
-      "nombre": "TST ETAT LIBRE DE ORANGE ARCHIVES 69 EDP 50 ML",
-      "precio": "39,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-archives-69-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-carthusia-ligea-la-sirena-edp-100-ml": {
       "nombre": "TST CARTHUSIA LIGEA LA SIRENA EDP 100 ML",
       "precio": "39,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST LORENZO PAZZAGLIA PAX ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-pax-exdp-50-ml.html",
+      "en_stock": true
+    },
+    "mancera-tonka-cola-edp-60-ml-regular": {
+      "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-tonka-cola-edp-60-ml-regular.html",
       "en_stock": true
     }
   },
@@ -508,12 +508,6 @@
       "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
       "precio": "125,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-imperium-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-etat-libre-de-orange-archives-69-edp-50-ml": {
-      "nombre": "TST ETAT LIBRE DE ORANGE ARCHIVES 69 EDP 50 ML",
-      "precio": "39,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-archives-69-edp-50-ml.html",
       "en_stock": true
     },
     "tst-carthusia-ligea-la-sirena-edp-100-ml": {
@@ -3006,12 +3000,6 @@
       "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
       "precio": "125,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-imperium-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-etat-libre-de-orange-archives-69-edp-50-ml": {
-      "nombre": "TST ETAT LIBRE DE ORANGE ARCHIVES 69 EDP 50 ML",
-      "precio": "39,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-archives-69-edp-50-ml.html",
       "en_stock": true
     },
     "tst-carthusia-ligea-la-sirena-edp-100-ml": {
@@ -5784,6 +5772,12 @@
       "nombre": "TST TOUS TOUS PLATA EDT 90 ML",
       "precio": "28,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-tous-edt-90-ml-tstt.html",
+      "en_stock": true
+    },
+    "tst-miu-miu-edp-100-ml-": {
+      "nombre": "TST MIU MIU EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-miu-miu-edp-100-ml-.html",
       "en_stock": true
     },
     "tst-carolina-herrera-good-girl-legere-zapato-edp-80-ml": {
