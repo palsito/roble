@@ -1,5 +1,23 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-premiere-note-cedar-atlas-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE CEDAR ATLAS EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-cedar-atlas-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-lys-toscana-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE LYS TOSCANA EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-lys-toscana-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-rosa-damas-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE ROSA DAMAS EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-rosa-damas-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-electimuss-imperium-edp-100-ml": {
       "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
       "precio": "125,00 €",
@@ -52,24 +70,6 @@
       "nombre": "TST EIGHT & BOB CHAMPS DE PROVENCE EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-champs-de-provence-edp-100-mls.html",
-      "en_stock": true
-    },
-    "tst-simone-andreoli-born-from-fire-edp-intense-100-ml": {
-      "nombre": "TST SIMONE ANDREOLI BORN FROM FIRE EDP INTENSE 100 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-born-from-fire-edp-intense-100-ml.html",
-      "en_stock": true
-    },
-    "tst-lorenzo-pazzaglia-pax-exdp-50-ml": {
-      "nombre": "TST LORENZO PAZZAGLIA PAX ExDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-pax-exdp-50-ml.html",
-      "en_stock": true
-    },
-    "mancera-tonka-cola-edp-60-ml-regular": {
-      "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
-      "precio": "64,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-tonka-cola-edp-60-ml-regular.html",
       "en_stock": true
     }
   },
@@ -498,6 +498,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-premiere-note-orange-calabria-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE ORANGE CALABRIA EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-orange-calabria-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-cedar-atlas-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE CEDAR ATLAS EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-cedar-atlas-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-jacadi-le-bebe-eau-de-senteur-100-ml": {
       "nombre": "TST JACADI LE BEBE EAU DE SENTEUR 100 ML",
       "precio": "22,00 €",
@@ -2984,6 +2996,36 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-premiere-note-java-wood-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE JAVA WOOD EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-java-wood-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-orange-calabria-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE ORANGE CALABRIA EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-orange-calabria-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-cedar-atlas-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE CEDAR ATLAS EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-cedar-atlas-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-lys-toscana-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE LYS TOSCANA EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-lys-toscana-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-premiere-note-rosa-damas-edp-100-ml": {
+      "nombre": "TST PREMIERE NOTE ROSA DAMAS EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-rosa-damas-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-jacadi-le-bebe-eau-de-senteur-100-ml": {
       "nombre": "TST JACADI LE BEBE EAU DE SENTEUR 100 ML",
       "precio": "22,00 €",
@@ -6390,12 +6432,6 @@
       "nombre": "TST THIERRY MUGLER ANGEL SUNESSENCE LEGERE EDT 50 ML",
       "precio": "36,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-thierry-mugler-angel-sunessence-legere-edt-50-ml-tst.html",
-      "en_stock": true
-    },
-    "tst-tous-tous-edp-90-ml-tst": {
-      "nombre": "TST TOUS TOUS EDP 90 ML",
-      "precio": "34,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-tous-edp-90-ml-tst.html",
       "en_stock": true
     }
   }
