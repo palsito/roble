@@ -74,6 +74,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
+    "tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml": {
+      "nombre": "TST BVLGARI MAN EXTREME ALL BLACKS LIMITED EDITION EPD INTENSE...",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml.html",
+      "en_stock": true
+    },
     "tst-ralph-lauren-ralph-confetti-edition-edt-100-ml": {
       "nombre": "TST RALPH LAUREN RALPH CONFETTI EDITION EDT 100 ML",
       "precio": "59,00 €",
@@ -544,6 +550,12 @@
       "nombre": "TST DUSITA PELAGOS ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dusita-pelagos-exdp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml": {
+      "nombre": "TST BVLGARI MAN EXTREME ALL BLACKS LIMITED EDITION EPD INTENSE...",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml.html",
       "en_stock": true
     },
     "tst-eight-bob-cap-d-antibes-edp-100-mls": {
