@@ -498,6 +498,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-jacadi-le-bebe-eau-de-senteur-100-ml": {
+      "nombre": "TST JACADI LE BEBE EAU DE SENTEUR 100 ML",
+      "precio": "22,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jacadi-le-bebe-eau-de-senteur-100-ml.html",
+      "en_stock": true
+    },
     "tst-azzaro-azzaro-the-most-wanted-parfum-100-ml": {
       "nombre": "TST AZZARO AZZARO THE MOST WANTED PARFUM 100 ML",
       "precio": "56,00 €",
@@ -2244,6 +2250,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mancera-lemon-line-edp-120-ml.html",
       "en_stock": true
     },
+    "tst-loewe-esencia-pour-homme-edp-100-ml-nuevo-formato": {
+      "nombre": "TST LOEWE ESENCIA POUR HOMME EDP 100 ML NUEVO FORMATO",
+      "precio": "82,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-esencia-pour-homme-edp-100-ml-nuevo-formato.html",
+      "en_stock": true
+    },
     "tst-el-ganso-limoncello-season-edt-125-ml": {
       "nombre": "TST EL GANSO LIMONCELLO SEASON EDT 125 ML",
       "precio": "21,00 €",
@@ -2972,6 +2984,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-jacadi-le-bebe-eau-de-senteur-100-ml": {
+      "nombre": "TST JACADI LE BEBE EAU DE SENTEUR 100 ML",
+      "precio": "22,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jacadi-le-bebe-eau-de-senteur-100-ml.html",
+      "en_stock": true
+    },
     "tst-carolina-herrera-very-good-girl-elixir-80-ml": {
       "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
       "precio": "76,00 €",
