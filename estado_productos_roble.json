@@ -498,6 +498,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-roger-gallet-fleur-d-osmanthus-eau-fraiche-parfumee-100-mls": {
+      "nombre": "TST ROGER & GALLET FLEUR D'OSMANTHUS EAU FRAICHE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-fleur-d-osmanthus-eau-fraiche-parfumee-100-mls.html",
+      "en_stock": true
+    },
+    "tst-roger-gallet-fleur-de-figuier-eau-fraiche-parfumee-100-ml": {
+      "nombre": "TST ROGER & GALLET FLEUR DE FIGUIER EAU FRAICHE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-fleur-de-figuier-eau-fraiche-parfumee-100-ml.html",
+      "en_stock": true
+    },
     "tst-fugazzi-workaholic-exdp-100-ml": {
       "nombre": "TST FUGAZZI WORKAHOLIC ExDP 100 ML",
       "precio": "119,00 €",
@@ -2358,6 +2370,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-the-most-wanted-edp-intense-100-ml.html",
       "en_stock": true
     },
+    "tst-montale-arabians-tonka-edp-100-ml": {
+      "nombre": "TST MONTALE ARABIANS TONKA EDP 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-arabians-tonka-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-calvin-klein-ck-everyone-edt-100-ml": {
       "nombre": "TST CALVIN KLEIN CK EVERYONE EDT 100 ML",
       "precio": "15,00 €",
@@ -2652,6 +2670,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-beau-edt-125-ml.html",
       "en_stock": true
     },
+    "tst-roger-gallet-rose-eau-douce-parfumee-100-ml": {
+      "nombre": "TST ROGER & GALLET ROSE EAU DOUCE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-rose-eau-douce-parfumee-100-ml.html",
+      "en_stock": true
+    },
     "tst-burberry-mr-burberry-edp-100-ml": {
       "nombre": "TST BURBERRY MR. BURBERRY EDP 100 ML",
       "precio": "44,00 €",
@@ -2662,6 +2686,12 @@
       "nombre": "TST BURBERRY MR. BURBERRY INDIGO EDT 100 ML",
       "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-burberry-mr-burberry-indigo-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-roger-gallet-the-vert-eau-fraiche-parfumee-100-ml": {
+      "nombre": "TST ROGER & GALLET THE VERT EAU FRAICHE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-the-vert-eau-fraiche-parfumee-100-ml.html",
       "en_stock": true
     },
     "tst-ralph-lauren-polo-ultra-blue-edt-125-ml-": {
@@ -3044,6 +3074,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-roger-gallet-vetyver-eau-fraiche-parfumee-100-ml": {
+      "nombre": "TST ROGER & GALLET VETYVER EAU FRAICHE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-vetyver-eau-fraiche-parfumee-100-ml.html",
+      "en_stock": true
+    },
+    "tst-roger-gallet-fleur-d-osmanthus-eau-fraiche-parfumee-100-mls": {
+      "nombre": "TST ROGER & GALLET FLEUR D'OSMANTHUS EAU FRAICHE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-fleur-d-osmanthus-eau-fraiche-parfumee-100-mls.html",
+      "en_stock": true
+    },
+    "tst-roger-gallet-fleur-de-figuier-eau-fraiche-parfumee-100-ml": {
+      "nombre": "TST ROGER & GALLET FLEUR DE FIGUIER EAU FRAICHE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-fleur-de-figuier-eau-fraiche-parfumee-100-ml.html",
+      "en_stock": true
+    },
     "tst-guerlain-absolus-allegoria-amber-samar-edp-125-ml": {
       "nombre": "TST GUERLAIN ABSOLUS ALLEGORIA AMBER SAMAR EDP 125 ML",
       "precio": "83,00 €",
@@ -5384,6 +5432,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-narciso-rodriguez-for-her-musc-noir-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-montale-arabians-tonka-edp-100-ml": {
+      "nombre": "TST MONTALE ARABIANS TONKA EDP 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-arabians-tonka-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-calvin-klein-ck-everyone-edt-100-ml": {
       "nombre": "TST CALVIN KLEIN CK EVERYONE EDT 100 ML",
       "precio": "15,00 €",
@@ -5738,6 +5792,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-forever-and-ever-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-roger-gallet-rose-eau-douce-parfumee-100-ml": {
+      "nombre": "TST ROGER & GALLET ROSE EAU DOUCE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-rose-eau-douce-parfumee-100-ml.html",
+      "en_stock": true
+    },
     "tst-giorgio-armani-acqua-di-gioia-edp-100-ml": {
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIOIA EDP 100 ML",
       "precio": "57,00 €",
@@ -5796,6 +5856,12 @@
       "nombre": "TST ROBERTO VERINO MELLOW EDT 90 ML",
       "precio": "15,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roberto-verino-mellow-edt-90-ml.html",
+      "en_stock": true
+    },
+    "tst-roger-gallet-the-vert-eau-fraiche-parfumee-100-ml": {
+      "nombre": "TST ROGER & GALLET THE VERT EAU FRAICHE PARFUMEE 100 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-the-vert-eau-fraiche-parfumee-100-ml.html",
       "en_stock": true
     },
     "tst-chanel-19-poudre-edp-100-ml": {
