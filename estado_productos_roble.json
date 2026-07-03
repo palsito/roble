@@ -74,12 +74,6 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
-    "tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml": {
-      "nombre": "TST BVLGARI MAN EXTREME ALL BLACKS LIMITED EDITION EPD INTENSE...",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml.html",
-      "en_stock": true
-    },
     "tst-ralph-lauren-ralph-confetti-edition-edt-100-ml": {
       "nombre": "TST RALPH LAUREN RALPH CONFETTI EDITION EDT 100 ML",
       "precio": "59,00 €",
@@ -424,12 +418,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/cacharel-amor-amor-edt-100-ml-regulars.html",
       "en_stock": true
     },
-    "tst-rosendo-mateu-9-edp-100-ml": {
-      "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
-      "precio": "84,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-9-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-maison-tahite-velvet-coffee-edp-100-ml": {
       "nombre": "TST MAISON TAHITE VELVET COFFEE EDP 100 ML",
       "precio": "59,00 €",
@@ -488,6 +476,12 @@
       "nombre": "TST ESCADA TAJ SUNSET EDT 50 ML",
       "precio": "19,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-escada-taj-sunset-edt-50-ml.html",
+      "en_stock": true
+    },
+    "tst-carlotha-ray-rose-blanche-gardenia-edp-50ml": {
+      "nombre": "TST CARLOTHA RAY ROSE BLANCHE & GARDENIA EDP 50ML",
+      "precio": "24,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carlotha-ray-rose-blanche-gardenia-edp-50ml.html",
       "en_stock": true
     }
   },
@@ -630,12 +624,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dusita-pelagos-exdp-50-ml.html",
       "en_stock": true
     },
-    "tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml": {
-      "nombre": "TST BVLGARI MAN EXTREME ALL BLACKS LIMITED EDITION EPD INTENSE...",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-extreme-all-blacks-limited-edition-epd-intense-100-ml.html",
-      "en_stock": true
-    },
     "tst-eight-bob-cap-d-antibes-edp-100-mls": {
       "nombre": "TST EIGHT & BOB CAP D'ANTIBES EDP 100 ML",
       "precio": "59,00 €",
@@ -676,12 +664,6 @@
       "nombre": "MANCERA AMORE CAFFE EDP 60 ML REGULAR",
       "precio": "64,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-amore-caffe-edp-60-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-rosendo-mateu-9-edp-100-ml": {
-      "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
-      "precio": "84,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-9-edp-100-ml.html",
       "en_stock": true
     },
     "eight-bob-memoires-de-mustique-edp-30-ml-regular": {
@@ -1560,12 +1542,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-malibu-party-in-the-bay-edp-intense-100-ml.html",
       "en_stock": true
     },
-    "tst-carthusia-terra-mia-edp-100-ml": {
-      "nombre": "TST CARTHUSIA TERRA MIA EDP 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carthusia-terra-mia-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-xerjoff-soprano-edp-100-ml": {
       "nombre": "TST XERJOFF SOPRANO EDP 100 ML",
       "precio": "134,00 €",
@@ -1618,12 +1594,6 @@
       "nombre": "TST MATIERE PREMIERE ENCENS SUAVE EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-encens-suave-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-matiere-premiere-cologne-cedrat-edp-100-ml": {
-      "nombre": "TST MATIERE PREMIERE COLOGNE CÉDRAT EDP 100 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-cologne-cedrat-edp-100-ml.html",
       "en_stock": true
     },
     "tst-matiere-premiere-bois-d-ebene-edp-100-ml": {
@@ -2286,6 +2256,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-daniel-josier-tuberose-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-daniel-josier-vetiver-edp-100-ml": {
+      "nombre": "TST DANIEL JOSIER VETIVER EDP 100 ML",
+      "precio": "68,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-daniel-josier-vetiver-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-daniel-josier-josune-edp-100-ml": {
       "nombre": "TST DANIEL JOSIER JOSUNE EDP 100 ML",
       "precio": "68,00 €",
@@ -2356,6 +2332,12 @@
       "nombre": "TST ORTO PARISI BRUTUS PARFUM 50 ML",
       "precio": "119,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-orto-parisi-brutus-parfum-50-mls.html",
+      "en_stock": true
+    },
+    "daniel-josier-le-musk-edp-100-ml-regular": {
+      "nombre": "DANIEL JOSIER LE MUSK EDP 100 ML REGULAR",
+      "precio": "78,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/daniel-josier-le-musk-edp-100-ml-regular.html",
       "en_stock": true
     },
     "tst-tiziana-terenzi-al-contrario-extrait-de-parfum-50-ml": {
@@ -2584,12 +2566,6 @@
       "nombre": "TST ACQUA DI PARMA QUERCIA EDP 100 ML",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-quercia-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-angel-schlesser-inmense-peony-edt-100-ml": {
-      "nombre": "TST ANGEL SCHLESSER INMENSE PEONY EDT 100 ML",
-      "precio": "13,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-inmense-peony-edt-100-ml.html",
       "en_stock": true
     },
     "tst-angel-schlesser-splendid-orange-blossom-edt-100-ml": {
@@ -4400,12 +4376,6 @@
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-encens-suave-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-matiere-premiere-cologne-cedrat-edp-100-ml": {
-      "nombre": "TST MATIERE PREMIERE COLOGNE CÉDRAT EDP 100 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-cologne-cedrat-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-matiere-premiere-bois-d-ebene-edp-100-ml": {
       "nombre": "TST MATIERE PREMIERE BOIS D'EBÈNE EDP 100 ML",
       "precio": "129,00 €",
@@ -5520,6 +5490,12 @@
       "nombre": "TST DANIEL JOSIER AMBRE TABAC EDP 100 ML",
       "precio": "68,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-daniel-josier-ambre-tabac-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-etro-vicolo-fiori-edp-100-mls": {
+      "nombre": "TST ETRO VICOLO FIORI EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-etro-vicolo-fiori-edp-100-mls.html",
       "en_stock": true
     },
     "tst-loewe-solo-loewe-ella-edp-100-ml-nuevo-formato": {
