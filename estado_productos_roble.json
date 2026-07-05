@@ -6,12 +6,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-workaholic-exdp-100-ml.html",
       "en_stock": true
     },
-    "tst-fugazzi-sugardaddy-exdp-100-ml": {
-      "nombre": "TST FUGAZZI SUGARDADDY ExDP 100 ML",
-      "precio": "119,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-sugardaddy-exdp-100-ml.html",
-      "en_stock": true
-    },
     "tst-fugazzi-borntostandout-edp-50-ml": {
       "nombre": "TST FUGAZZI BORNTOSTANDOUT EDP 50 ML",
       "precio": "99,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST CARTHUSIA FIORE DI CAPRI EDP 100 ML",
       "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-fiore-di-capri-edp-100-ml.html",
+      "en_stock": true
+    },
+    "nishane-ani-extrait-de-parfum-50-ml-regular": {
+      "nombre": "NISHANE ANI EXTRAIT DE PARFUM 50 ML REGULAR",
+      "precio": "125,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/nishane-ani-extrait-de-parfum-50-ml-regular.html",
       "en_stock": true
     }
   },
@@ -526,12 +526,6 @@
       "nombre": "TST FUGAZZI WORKAHOLIC ExDP 100 ML",
       "precio": "119,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-workaholic-exdp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-fugazzi-sugardaddy-exdp-100-ml": {
-      "nombre": "TST FUGAZZI SUGARDADDY ExDP 100 ML",
-      "precio": "119,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-sugardaddy-exdp-100-ml.html",
       "en_stock": true
     },
     "tst-jpg-le-male-in-blue-edp-125-ml": {
