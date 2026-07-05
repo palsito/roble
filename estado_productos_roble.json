@@ -2858,7 +2858,7 @@
     },
     "tst-chanel-allure-homme-edt-100-ml": {
       "nombre": "TST CHANEL ALLURE HOMME EDT 100 ML",
-      "precio": "89,00 €",
+      "precio": "84,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-allure-homme-edt-100-ml.html",
       "en_stock": true
     },
@@ -3038,6 +3038,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-chanel-numero-5-edt-150-ml": {
+      "nombre": "TST CHANEL NUMERO 5 EDT 150 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-numero-5-edt-150-ml.html",
+      "en_stock": true
+    },
     "tst-escada-yum-me-sunny-edp-50-ml": {
       "nombre": "TST ESCADA YUM ME SUNNY! EDP 50 ML",
       "precio": "24,00 €",
