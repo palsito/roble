@@ -3008,6 +3008,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-giorgio-armani-armani-si-passione-edp-100-ml": {
+      "nombre": "TST GIORGIO ARMANI ARMANI SI PASSIONE EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-passione-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-calvin-klein-ck-one-edt-200-mls": {
       "nombre": "TST CALVIN KLEIN CK ONE EDT 200 ML",
       "precio": "33,00 €",
@@ -5316,6 +5322,12 @@
       "nombre": "TST NARCISO RODRIGUEZ FOR HER MUSC NOIR EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-narciso-rodriguez-for-her-musc-noir-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-giorgio-armani-armani-si-passione-intense-edp-100-ml": {
+      "nombre": "TST GIORGIO ARMANI ARMANI SI PASSIONE INTENSE EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-passione-intense-edp-100-ml.html",
       "en_stock": true
     },
     "tst-montale-arabians-tonka-edp-100-ml": {
