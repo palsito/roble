@@ -804,6 +804,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-one-million-gold-elixir-100-ml.html",
       "en_stock": true
     },
+    "tst-ralph-lauren-polo-blue-parfum-125-ml": {
+      "nombre": "TST RALPH LAUREN POLO BLUE PARFUM 125 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-blue-parfum-125-ml.html",
+      "en_stock": true
+    },
     "pantheon-roma-notte-d-amore-exdp-50-ml-regular": {
       "nombre": "PANTHEON ROMA NOTTE D'AMORE ExDP 50 ML REGULAR",
       "precio": "79,00 €",
@@ -2636,7 +2642,7 @@
     },
     "tst-carolina-herrera-212-sexy-men-edt-100-ml": {
       "nombre": "TST CAROLINA HERRERA 212 SEXY MEN EDT 100 ML",
-      "precio": "51,00 €",
+      "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-sexy-men-edt-100-ml.html",
       "en_stock": true
     },
@@ -2972,6 +2978,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-guerlain-absolus-allegoria-rose-amira-edp-125-ml": {
+      "nombre": "TST GUERLAIN ABSOLUS ALLEGORIA ROSE AMIRA EDP 125 ML",
+      "precio": "83,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-absolus-allegoria-rose-amira-edp-125-ml.html",
+      "en_stock": true
+    },
     "tst-chanel-numero-5-edt-150-ml": {
       "nombre": "TST CHANEL NUMERO 5 EDT 150 ML",
       "precio": "110,00 €",
@@ -3900,12 +3912,6 @@
       "nombre": "THAUY KEEVA EDP 100 ML REGULAR",
       "precio": "78,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/thauy-keeva-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-guerlain-aqua-allegoria-florabloom-edt-125-ml": {
-      "nombre": "TST GUERLAIN AQUA ALLEGORIA FLORABLOOM EDT 125 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-florabloom-edt-125-ml.html",
       "en_stock": true
     },
     "tst-escada-bali-paradise-edt-100-ml": {
@@ -5432,6 +5438,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rochas-byzance-edp-90-ml-nuevo-modelo.html",
       "en_stock": true
     },
+    "tst-givenchy-l-interdit-intense-edp-80-ml": {
+      "nombre": "TST GIVENCHY L'INTERDIT INTENSE EDP 80 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-givenchy-l-interdit-intense-edp-80-ml.html",
+      "en_stock": true
+    },
     "tst-carolina-herrera-good-girl-supreme-edp-80-ml": {
       "nombre": "TST CAROLINA HERRERA GOOD GIRL SUPREME EDP 80 ML",
       "precio": "72,00 €",
@@ -6258,6 +6270,12 @@
       "nombre": "TST DAVIDOFF COOL WATER WOMAN EDT 100 ML",
       "precio": "18,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-davidoff-cool-water-woman-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-elizabeth-arden-5th-avenue-edp-100-ml-tst": {
+      "nombre": "TST ELIZABETH ARDEN 5TH AVENUE EDP 125 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elizabeth-arden-5th-avenue-edp-100-ml-tst.html",
       "en_stock": true
     },
     "tst-givenchy-ange-ou-demon-le-secret-edp-100-ml-tst": {
