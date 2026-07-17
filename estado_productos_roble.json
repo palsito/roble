@@ -218,6 +218,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-pour-homme-intense-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-loewe-paula-s-ibiza-edt-50-ml": {
+      "nombre": "TST LOEWE PAULA'S IBIZA EDT 50 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-paula-s-ibiza-edt-50-ml.html",
+      "en_stock": true
+    },
     "tst-loewe-solo-loewe-mercurio-edp-100-ml-formato-antiguo": {
       "nombre": "TST LOEWE SOLO LOEWE MERCURIO EDP 100 ML FORMATO ANTIGUO",
       "precio": "62,00 €",
@@ -474,6 +480,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-azzaro-forever-wanted-elixir-parfum-100-ml": {
+      "nombre": "TST AZZARO FOREVER WANTED ELIXIR PARFUM 100 ML",
+      "precio": "58,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-forever-wanted-elixir-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-ralph-lauren-polo-blue-edp-125-mls": {
       "nombre": "TST RALPH LAUREN POLO BLUE EDP 125 ML",
       "precio": "53,00 €",
@@ -1824,6 +1836,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-profondo-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-christian-dior-homme-cologne-edt-125-ml": {
+      "nombre": "TST CHRISTIAN DIOR HOMME COLOGNE EDT 125 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-homme-cologne-edt-125-ml.html",
+      "en_stock": true
+    },
     "tst-liquides-imaginaires-desert-suave-edp-100-ml-": {
       "nombre": "TST LIQUIDES IMAGINAIRES DESERT SUAVE EDP 100 ML",
       "precio": "99,00 €",
@@ -2902,6 +2920,12 @@
       "nombre": "TST CALVIN KLEIN CK ONE GOLD EDT 100 ML",
       "precio": "19,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-gold-edt-100-ml-.html",
+      "en_stock": true
+    },
+    "tst-christian-dior-homme-intense-edp-100-ml-tst": {
+      "nombre": "TST CHRISTIAN DIOR HOMME INTENSE EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-homme-intense-edp-100-ml-tst.html",
       "en_stock": true
     },
     "tst-davidoff-cool-water-man-edt-125-ml-tst": {
@@ -5466,6 +5490,12 @@
       "nombre": "TST GUERLAIN AQUA ALLEGORIA GRANADA SALVIA EDT 125 ML",
       "precio": "52,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-granada-salvia-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-loewe-paula-s-ibiza-edt-50-ml": {
+      "nombre": "TST LOEWE PAULA'S IBIZA EDT 50 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-paula-s-ibiza-edt-50-ml.html",
       "en_stock": true
     },
     "tst-rochas-byzance-edp-90-ml-nuevo-modelo": {
