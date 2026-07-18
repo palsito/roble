@@ -480,6 +480,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-guerlain-l-instant-pour-homme-edt-100-mls": {
+      "nombre": "TST GUERLAIN L'INSTANT POUR HOMME EDT 100 ML",
+      "precio": "48,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-l-instant-pour-homme-edt-100-mls.html",
+      "en_stock": true
+    },
     "tst-azzaro-forever-wanted-elixir-parfum-100-ml": {
       "nombre": "TST AZZARO FOREVER WANTED ELIXIR PARFUM 100 ML",
       "precio": "58,00 €",
@@ -1696,6 +1702,12 @@
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIO EDP 200 ML",
       "precio": "84,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-edp-200-ml.html",
+      "en_stock": true
+    },
+    "tst-versace-eros-homme-parfum-100-ml": {
+      "nombre": "TST VERSACE EROS HOMME PARFUM 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-ramon-monegal-ole-edp-100-mlf": {
