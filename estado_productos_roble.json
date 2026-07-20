@@ -480,12 +480,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-l-instant-pour-homme-edt-100-mls.html",
       "en_stock": true
     },
-    "tst-azzaro-forever-wanted-elixir-parfum-100-ml": {
-      "nombre": "TST AZZARO FOREVER WANTED ELIXIR PARFUM 100 ML",
-      "precio": "58,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-forever-wanted-elixir-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-ralph-lauren-polo-blue-edp-125-mls": {
       "nombre": "TST RALPH LAUREN POLO BLUE EDP 125 ML",
       "precio": "53,00 €",
@@ -586,12 +580,6 @@
       "nombre": "TST JACADI LE BEBE EAU DE SENTEUR 100 ML",
       "precio": "22,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jacadi-le-bebe-eau-de-senteur-100-ml.html",
-      "en_stock": true
-    },
-    "tst-azzaro-azzaro-the-most-wanted-parfum-100-ml": {
-      "nombre": "TST AZZARO AZZARO THE MOST WANTED PARFUM 100 ML",
-      "precio": "56,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-the-most-wanted-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-electimuss-imperium-edp-100-ml": {
@@ -1554,6 +1542,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-arancia-di-capri-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-diesel-only-the-brave-edt-125-ml": {
+      "nombre": "TST DIESEL ONLY THE BRAVE EDT 125 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-diesel-only-the-brave-edt-125-ml.html",
+      "en_stock": true
+    },
     "tst-liquides-imaginaires-dom-rosa-edp-100-ml": {
       "nombre": "TST LIQUIDES IMAGINAIRES DOM ROSA EDP 100 ML",
       "precio": "89,00 €",
@@ -1696,6 +1690,12 @@
       "nombre": "TST VERSACE EROS HOMME PARFUM 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-ramon-monegal-ole-edp-100-mlf": {
+      "nombre": "TST RAMON MONEGAL OLE EDP 100 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-ole-edp-100-mlf.html",
       "en_stock": true
     },
     "min-new-york-dahab-edp-75-ml-regular": {
@@ -2308,12 +2308,6 @@
       "nombre": "TST JPG SCANDAL POUR HOMME EDT 100 ML",
       "precio": "56,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-scandal-pour-homme-edt-100-ml.html",
-      "en_stock": true
-    },
-    "tst-jpg-le-male-le-parfum-edp-intense-125-ml": {
-      "nombre": "TST JPG LE MALE LE PARFUM EDP INTENSE 125 ML",
-      "precio": "62,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-le-parfum-edp-intense-125-ml.html",
       "en_stock": true
     },
     "tst-orto-parisi-brutus-parfum-50-mls": {
