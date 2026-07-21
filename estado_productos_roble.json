@@ -3056,12 +3056,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-edt-200-mls.html",
       "en_stock": true
     },
-    "tst-guerlain-absolus-allegoria-rose-amira-edp-125-ml": {
-      "nombre": "TST GUERLAIN ABSOLUS ALLEGORIA ROSE AMIRA EDP 125 ML",
-      "precio": "83,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-absolus-allegoria-rose-amira-edp-125-ml.html",
-      "en_stock": true
-    },
     "tst-chanel-numero-5-edt-150-ml": {
       "nombre": "TST CHANEL NUMERO 5 EDT 150 ML",
       "precio": "110,00 €",
@@ -3456,12 +3450,6 @@
       "nombre": "TST ZADIG & VOLTAIRE THIS IS HER UNCHAINED EDP 100 ML",
       "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-zadig-voltaire-this-is-her-unchained-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-guerlain-aqua-allegoria-rosa-verde-edt-125-ml": {
-      "nombre": "TST GUERLAIN AQUA ALLEGORIA ROSA VERDE EDT 125 ML",
-      "precio": "54,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-rosa-verde-edt-125-ml.html",
       "en_stock": true
     },
     "tst-tom-ford-costa-azzurra-edp-100-ml": {
@@ -4550,12 +4538,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-versace-bright-crystal-parfum-90-ml.html",
       "en_stock": true
     },
-    "tst-chanel-cristalle-eau-verte-edp-100-ml": {
-      "nombre": "TST CHANEL CRISTALLE EAU VERTE EDP 100 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-cristalle-eau-verte-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-ramon-monegal-ole-edp-100-mlf": {
       "nombre": "TST RAMON MONEGAL OLE EDP 100 ML",
       "precio": "149,00 €",
@@ -5118,6 +5100,12 @@
       "nombre": "TST GUERLAIN L'HEURE BLEUE EDP 75 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-l-heure-bleue-edp-75-ml.html",
+      "en_stock": true
+    },
+    "tst-guerlain-jardins-de-bagatelle-edp-100-ml": {
+      "nombre": "TST GUERLAIN JARDINS DE BAGATELLE EDT 75 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-jardins-de-bagatelle-edp-100-ml.html",
       "en_stock": true
     },
     "tst-paco-rabanne-fame-edp-80-ml": {
