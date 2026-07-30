@@ -1800,12 +1800,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-4711-acqua-colonia-intense-lagoons-of-laos-edc-170-ml.html",
       "en_stock": true
     },
-    "tst-giorgio-armani-acqua-di-gio-parfum-100-ml": {
-      "nombre": "TST GIORGIO ARMANI ACQUA DI GIO PARFUM 100 ML",
-      "precio": "65,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-giorgio-armani-acqua-di-gio-profondo-edp-100-ml": {
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIO PROFONDO EDP 100 ML",
       "precio": "62,00 €",
@@ -1918,12 +1912,6 @@
       "nombre": "ELECTIMUSS IMPERIUM EDP 100 ML REGULAR",
       "precio": "149,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/electimuss-imperium-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-prada-luna-rossa-ocean-edt-100-ml": {
-      "nombre": "TST PRADA LUNA ROSSA OCEAN EDT 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-prada-luna-rossa-ocean-edt-100-ml.html",
       "en_stock": true
     },
     "tst-prada-infusion-de-figue-edp-100-ml": {
@@ -2790,6 +2778,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-edt-125-ml.html",
       "en_stock": true
     },
+    "tst-hermes-concentre-d-orange-verte-edt-100-ml": {
+      "nombre": "TST HERMES CONCENTRE D'ORANGE VERTE EDT 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-concentre-d-orange-verte-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-hugo-boss-the-scent-for-him-edt-100-ml": {
       "nombre": "TST HUGO BOSS THE SCENT FOR HIM EDT 100 ML",
       "precio": "42,00 €",
@@ -2906,8 +2900,14 @@
     },
     "tst-hermes-eau-de-mandarine-ambree-edc-100-ml": {
       "nombre": "TST HERMES EAU DE MANDARINE AMBREE EDC 100 ML",
-      "precio": "49,00 €",
+      "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-mandarine-ambree-edc-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-eau-de-orange-verte-edc-100-ml-tst": {
+      "nombre": "TST HERMES EAU DE ORANGE VERTE EDC 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-orange-verte-edc-100-ml-tst.html",
       "en_stock": true
     },
     "tst-hermes-un-jardin-sur-le-toit-edt-100-ml-tst": {
@@ -6298,7 +6298,7 @@
     },
     "tst-hermes-eau-de-mandarine-ambree-edc-100-ml": {
       "nombre": "TST HERMES EAU DE MANDARINE AMBREE EDC 100 ML",
-      "precio": "49,00 €",
+      "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-mandarine-ambree-edc-100-ml.html",
       "en_stock": true
     },
