@@ -480,6 +480,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-jpg-le-beau-narcisse-edp-125-ml": {
+      "nombre": "TST JPG LE BEAU NARCISSE EDP 125 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-beau-narcisse-edp-125-ml.html",
+      "en_stock": true
+    },
     "tst-reminiscence-fleur-de-delice-edp-100-ml": {
       "nombre": "TST REMINISCENCE FLEUR DE DELICE EDP 100 ML",
       "precio": "49,00 €",
@@ -2286,6 +2292,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-scandal-pour-homme-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-jpg-le-male-le-parfum-edp-intense-125-ml": {
+      "nombre": "TST JPG LE MALE LE PARFUM EDP INTENSE 125 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-le-parfum-edp-intense-125-ml.html",
+      "en_stock": true
+    },
     "tst-orto-parisi-brutus-parfum-50-mls": {
       "nombre": "TST ORTO PARISI BRUTUS PARFUM 50 ML",
       "precio": "119,00 €",
@@ -2982,6 +2994,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-un-jardin-sur-le-toit-edt-100-ml-tst.html",
       "en_stock": true
     },
+    "tst-hermes-voyage-parfum-100-ml": {
+      "nombre": "TST HERMES VOYAGE PARFUM 100 ML",
+      "precio": "74,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-voyage-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-hugo-boss-boss-bottled-men-edt-100-ml-tst": {
       "nombre": "TST HUGO BOSS BOSS BOTTLED MEN EDT 100 ML",
       "precio": "42,00 €",
@@ -3062,6 +3080,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-jpg-la-belle-rosea-edp-100-ml": {
+      "nombre": "TST JPG LA BELLE ROSEA EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-la-belle-rosea-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-reminiscence-fleur-de-delice-edp-100-ml": {
       "nombre": "TST REMINISCENCE FLEUR DE DELICE EDP 100 ML",
       "precio": "49,00 €",
@@ -6492,6 +6516,12 @@
       "nombre": "TST HERMES UN JARDIN SUR LE TOIT EDT 100 ML",
       "precio": "55,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-un-jardin-sur-le-toit-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-voyage-parfum-100-ml": {
+      "nombre": "TST HERMES VOYAGE PARFUM 100 ML",
+      "precio": "74,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-voyage-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-issey-miyake-l-eau-d-issey-pour-femme-edt-100-ml-tst": {
