@@ -480,6 +480,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-reminiscence-fleur-de-delice-edp-100-ml": {
+      "nombre": "TST REMINISCENCE FLEUR DE DELICE EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-fleur-de-delice-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-reminiscence-dolce-riviera-patchouli-blanc-edp-100-ml": {
       "nombre": "TST REMINISCENCE DOLCE RIVIERA PATCHOULI BLANC EDP 100 ML",
       "precio": "49,00 €",
@@ -814,6 +820,12 @@
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIO EDP INTENSE 100 ML",
       "precio": "65,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-edp-intense-100-ml.html",
+      "en_stock": true
+    },
+    "tst-reminiscence-le-rem-edt-intense-100-ml": {
+      "nombre": "TST REMINISCENCE LE REM EDT INTENSE 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-le-rem-edt-intense-100-ml.html",
       "en_stock": true
     },
     "tst-dolce-gabbana-dg-vib3-edp-100-ml": {
@@ -3050,6 +3062,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-reminiscence-fleur-de-delice-edp-100-ml": {
+      "nombre": "TST REMINISCENCE FLEUR DE DELICE EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-fleur-de-delice-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-reminiscence-dolce-riviera-patchouli-blanc-edp-100-ml": {
       "nombre": "TST REMINISCENCE DOLCE RIVIERA PATCHOULI BLANC EDP 100 ML",
       "precio": "49,00 €",
@@ -3444,6 +3462,12 @@
       "nombre": "TST BVLGARI OMNIA AMETHYSTE EDT 100 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bvlgari-omnia-amethyste-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-reminiscence-le-rem-edt-intense-100-ml": {
+      "nombre": "TST REMINISCENCE LE REM EDT INTENSE 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-le-rem-edt-intense-100-ml.html",
       "en_stock": true
     },
     "tst-reminiscence-souffle-ambre-edt-intense-100-ml": {
