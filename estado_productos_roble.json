@@ -480,6 +480,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-reminiscence-dolce-riviera-patchouli-blanc-edp-100-ml": {
+      "nombre": "TST REMINISCENCE DOLCE RIVIERA PATCHOULI BLANC EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-dolce-riviera-patchouli-blanc-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-guerlain-l-instant-pour-homme-edt-100-mls": {
       "nombre": "TST GUERLAIN L'INSTANT POUR HOMME EDT 100 ML",
       "precio": "48,00 €",
@@ -2364,6 +2370,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-oud-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-loewe-pour-homme-edt-100-ml-nuevo-formato": {
+      "nombre": "TST LOEWE POUR HOMME EDT 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-pour-homme-edt-100-ml-nuevo-formato.html",
+      "en_stock": true
+    },
     "daniel-josier-mystery-oud-edp-100-ml-regular": {
       "nombre": "DANIEL JOSIER MYSTERY OUD EDP 100 ML REGULAR",
       "precio": "78,00 €",
@@ -3038,6 +3050,30 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-reminiscence-dolce-riviera-patchouli-blanc-edp-100-ml": {
+      "nombre": "TST REMINISCENCE DOLCE RIVIERA PATCHOULI BLANC EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-dolce-riviera-patchouli-blanc-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-rochas-eau-de-rochas-pomelo-passion-edt-100-ml": {
+      "nombre": "TST ROCHAS EAU DE ROCHAS POMELO PASSION EDT 100 ML",
+      "precio": "36,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rochas-eau-de-rochas-pomelo-passion-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-un-jardin-sous-la-mer-edt-100-ml": {
+      "nombre": "TST HERMES UN JARDIN SOUS LA MER EDT 100 ML",
+      "precio": "58,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-un-jardin-sous-la-mer-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-gucci-bloom-ambrosia-d-oro-edp-100-ml": {
+      "nombre": "TST GUCCI BLOOM AMBROSIA D'ORO EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-bloom-ambrosia-d-oro-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-sisley-hair-ritual-le-parfum-100-ml": {
       "nombre": "TST SISLEY HAIR RITUAL LE PARFUM 100 ML",
       "precio": "36,00 €",
@@ -3408,6 +3444,12 @@
       "nombre": "TST BVLGARI OMNIA AMETHYSTE EDT 100 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bvlgari-omnia-amethyste-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-reminiscence-souffle-ambre-edt-intense-100-ml": {
+      "nombre": "TST REMINISCENCE SOUFFLE AMBRE EDT INTENSE 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-souffle-ambre-edt-intense-100-ml.html",
       "en_stock": true
     },
     "tst-dolce-gabbana-dg-vib3-edp-100-ml": {
@@ -3970,7 +4012,7 @@
     },
     "tst-reminiscence-elixir-de-patchouli-edp-100-ml": {
       "nombre": "TST REMINISCENCE ELIXIR DE PATCHOULI EDP 100 ML",
-      "precio": "45,00 €",
+      "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-elixir-de-patchouli-edp-100-ml.html",
       "en_stock": true
     },
