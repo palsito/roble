@@ -480,6 +480,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-carolina-herrera-212-men-parfum-100-ml": {
+      "nombre": "TST CAROLINA HERRERA 212 MEN PARFUM 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-men-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-jpg-le-beau-narcisse-edp-125-ml": {
       "nombre": "TST JPG LE BEAU NARCISSE EDP 125 ML",
       "precio": "64,00 €",
