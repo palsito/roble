@@ -1860,12 +1860,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-clive-christian-original-colection-x-masculine-perfume-50-ml.html",
       "en_stock": true
     },
-    "tst-clive-christian-original-colection-1872-masculine-perfume-50-ml": {
-      "nombre": "TST CLIVE CHRISTIAN ORIGINAL COLECTION 1872 MASCULINE PERFUME...",
-      "precio": "189,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-clive-christian-original-colection-1872-masculine-perfume-50-ml.html",
-      "en_stock": true
-    },
     "tst-angel-schlesser-aromatic-sage-edt-100-ml": {
       "nombre": "TST ANGEL SCHLESSER AROMATIC SAGE EDT 100 ML",
       "precio": "13,00 €",
@@ -2056,6 +2050,12 @@
       "nombre": "TST SISLEY L'EAU REVEE D'ALMA EDT 100 ML",
       "precio": "65,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-l-eau-revee-d-alma-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-eight-bob-memoires-de-mustique-edp-100-ml": {
+      "nombre": "TST EIGHT & BOB MEMOIRES DE MUSTIQUE EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-memoires-de-mustique-edp-100-ml.html",
       "en_stock": true
     },
     "tst-hermes-h24-edp-100-ml": {
