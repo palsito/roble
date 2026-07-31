@@ -194,12 +194,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elie-saab-le-parfum-bridal-edp-90-ml.html",
       "en_stock": true
     },
-    "tst-dolce-gabbana-light-blue-pour-homme-italian-love-edt-100-ml": {
-      "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME ITALIAN LOVE EDT 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-italian-love-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-loewe-loewe-a-mi-aire-edt-100-ml-nuevo-formato": {
       "nombre": "TST LOEWE LOEWE A MI AIRE EDT 100 ML NUEVO FORMATO",
       "precio": "79,00 €",
@@ -2010,12 +2004,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-givenchy-gentlemen-society-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-dolce-gabbana-light-blue-pour-homme-italian-love-edt-100-ml": {
-      "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME ITALIAN LOVE EDT 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-italian-love-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-guerlain-habit-rouge-edp-100-ml": {
       "nombre": "TST GUERLAIN HABIT ROUGE EDP 100 ML",
       "precio": "64,00 €",
@@ -2784,12 +2772,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-the-one-for-men-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-ralph-lauren-polo-red-intense-edp-125-ml": {
-      "nombre": "TST RALPH LAUREN POLO RED INTENSE EDP 125 ML",
-      "precio": "39,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-red-intense-edp-125-ml.html",
-      "en_stock": true
-    },
     "tst-hermes-terre-d-hermes-pure-parfum-75-ml": {
       "nombre": "TST HERMES TERRE D'HERMES PURE PARFUM 75 ML",
       "precio": "73,00 €",
@@ -3058,6 +3040,12 @@
       "nombre": "TST VERSACE VERSACE POUR HOMME EDT 100 ML",
       "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
+      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
       "en_stock": true
     }
   },
