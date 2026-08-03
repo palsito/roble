@@ -816,12 +816,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-edp-intense-100-ml.html",
       "en_stock": true
     },
-    "tst-reminiscence-le-rem-edt-intense-100-ml": {
-      "nombre": "TST REMINISCENCE LE REM EDT INTENSE 100 ML",
-      "precio": "44,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-le-rem-edt-intense-100-ml.html",
-      "en_stock": true
-    },
     "tst-dolce-gabbana-dg-vib3-edp-100-ml": {
       "nombre": "TST DOLCE & GABBANA DG VIB3 EDP 100 ML",
       "precio": "64,00 €",
@@ -2598,12 +2592,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-the-vert-eau-fraiche-parfumee-100-ml.html",
       "en_stock": true
     },
-    "tst-hermes-eau-de-citron-noir-edc-100-ml": {
-      "nombre": "TST HERMES EAU DE CITRON NOIR EDC 100 ML",
-      "precio": "47,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-citron-noir-edc-100-ml.html",
-      "en_stock": true
-    },
     "tst-ralph-lauren-polo-ultra-blue-edt-125-ml-": {
       "nombre": "TST RALPH LAUREN POLO ULTRA BLUE EDT 125 ML",
       "precio": "46,00 €",
@@ -2836,12 +2824,6 @@
       "nombre": "TST CALVIN KLEIN CK BE EDT 100ml",
       "precio": "18,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-be-edt-100ml.html",
-      "en_stock": true
-    },
-    "tst-calvin-klein-ck-one-gold-edt-100-ml-": {
-      "nombre": "TST CALVIN KLEIN CK ONE GOLD EDT 100 ML",
-      "precio": "19,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-gold-edt-100-ml-.html",
       "en_stock": true
     },
     "tst-christian-dior-homme-intense-edp-100-ml-tst": {
@@ -3402,12 +3384,6 @@
       "nombre": "TST BVLGARI OMNIA AMETHYSTE EDT 100 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bvlgari-omnia-amethyste-edt-100-ml.html",
-      "en_stock": true
-    },
-    "tst-reminiscence-le-rem-edt-intense-100-ml": {
-      "nombre": "TST REMINISCENCE LE REM EDT INTENSE 100 ML",
-      "precio": "44,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-reminiscence-le-rem-edt-intense-100-ml.html",
       "en_stock": true
     },
     "tst-reminiscence-souffle-ambre-edt-intense-100-ml": {
@@ -5678,12 +5654,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-the-vert-eau-fraiche-parfumee-100-ml.html",
       "en_stock": true
     },
-    "tst-hermes-eau-de-citron-noir-edc-100-ml": {
-      "nombre": "TST HERMES EAU DE CITRON NOIR EDC 100 ML",
-      "precio": "47,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-citron-noir-edc-100-ml.html",
-      "en_stock": true
-    },
     "tst-chanel-19-poudre-edp-100-ml": {
       "nombre": "TST CHANEL 19 POUDRE EDP 100 ML",
       "precio": "89,00 €",
@@ -6014,6 +5984,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-4711-acqua-colonia-pink-pepper-grapefruit-edc-170-ml-tst.html",
       "en_stock": true
     },
+    "tst-lancome-miracle-edp-100-ml": {
+      "nombre": "TST LANCOME MIRACLE EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-miracle-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-cartier-baiser-vole-essence-de-parfum-40-ml": {
       "nombre": "TST CARTIER BAISER VOLE ESSENCE DE PARFUM 40 ML",
       "precio": "59,00 €",
@@ -6084,6 +6060,12 @@
       "nombre": "TST CHANEL 5 L'EAU EDT 100 ML",
       "precio": "83,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-5-l-eau-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-agua-de-loewe-ella-edt-100-ml": {
+      "nombre": "TST LOEWE AGUA DE LOEWE ELLA EDT 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-agua-de-loewe-ella-edt-100-ml.html",
       "en_stock": true
     },
     "tst-chanel-numero-5-edt-100-ml": {
