@@ -1608,6 +1608,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/joterc-cherry-on-top-edp-100-ml-regular.html",
       "en_stock": true
     },
+    "tst-loewe-7-elixir-100-ml": {
+      "nombre": "TST LOEWE 7 ELIXIR 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-7-elixir-100-ml.html",
+      "en_stock": true
+    },
     "lunio-indigo-suede-edp-100-ml-regular": {
       "nombre": "LUNIO INDIGO SUEDE EDP 100 ML REGULAR",
       "precio": "79,00 €",
@@ -1678,6 +1684,12 @@
       "nombre": "TST VERSACE EROS HOMME PARFUM 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-moschino-toy-boy-pearl-edp-100-ml": {
+      "nombre": "TST MOSCHINO TOY 2 PEARL EDP 100 ML",
+      "precio": "36,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-toy-boy-pearl-edp-100-ml.html",
       "en_stock": true
     },
     "tst-ramon-monegal-ole-edp-100-mlf": {
@@ -3008,6 +3020,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-moschino-toy-2-yummy-edp-100-ml": {
+      "nombre": "TST MOSCHINO TOY 2 YUMMY EDP 100 ML",
+      "precio": "36,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-toy-2-yummy-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-jpg-la-belle-le-parfum-edp-intense-100ml": {
       "nombre": "TST JPG LA BELLE LE PARFUM EDP INTENSE 100ml",
       "precio": "79,00 €",
@@ -4532,6 +4550,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-versace-bright-crystal-parfum-90-ml.html",
       "en_stock": true
     },
+    "tst-moschino-toy-boy-pearl-edp-100-ml": {
+      "nombre": "TST MOSCHINO TOY 2 PEARL EDP 100 ML",
+      "precio": "36,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-toy-boy-pearl-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-lancome-idole-l-eau-de-parfum-50-ml": {
       "nombre": "TST LANCOME IDOLE L'EAU DE PARFUM 50 ML",
       "precio": "45,00 €",
@@ -4876,7 +4900,7 @@
     },
     "tst-prada-paradoxe-intense-edp-90-ml": {
       "nombre": "TST PRADA PARADOXE INTENSE EDP 90 ML",
-      "precio": "69,00 €",
+      "precio": "65,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-intense-edp-90-ml.html",
       "en_stock": true
     },
@@ -5298,6 +5322,12 @@
       "nombre": "TST SISLEY IZIA LA NUIT EDP 100 ML",
       "precio": "85,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-izia-la-nuit-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-moschino-toy-2-bubble-gum-edt-100-ml": {
+      "nombre": "TST MOSCHINO TOY 2 BUBBLE GUM EDT 100 ML",
+      "precio": "36,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-moschino-toy-2-bubble-gum-edt-100-ml.html",
       "en_stock": true
     },
     "tst-marc-jacobs-daisy-eau-so-intense-edp-100-ml": {
