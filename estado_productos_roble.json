@@ -1,5 +1,17 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-initio-mystic-experience-edp-90-ml": {
+      "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
+      "en_stock": true
+    },
+    "tst-initio-magnetic-blend-7-edp-90-ml": {
+      "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
+      "en_stock": true
+    },
     "annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular": {
       "nombre": "GOUTAL CE SOIR OU JAMAIS EDP 100 ML REGULAR",
       "precio": "99,00 €",
@@ -58,18 +70,6 @@
       "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
       "precio": "125,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-imperium-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-carthusia-ligea-la-sirena-edp-100-ml": {
-      "nombre": "TST CARTHUSIA LIGEA LA SIRENA EDP 100 ML",
-      "precio": "39,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-ligea-la-sirena-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-carthusia-gelsomini-di-capri-edp-100-ml": {
-      "nombre": "TST CARTHUSIA GELSOMINI DI CAPRI EDP 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-gelsomini-di-capri-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -468,6 +468,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-initio-mystic-experience-edp-90-ml": {
+      "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
+      "en_stock": true
+    },
+    "tst-initio-magnetic-blend-7-edp-90-ml": {
+      "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-moschino-toy-2-yummy-edp-100-ml": {
       "nombre": "TST MOSCHINO TOY 2 YUMMY EDP 100 ML",
       "precio": "36,00 €",
@@ -1076,7 +1088,7 @@
     },
     "tst-initio-psychedelic-love-edp-90-ml": {
       "nombre": "TST INITIO PSYCHEDELIC LOVE EDP 90 ML",
-      "precio": "149,00 €",
+      "precio": "139,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-psychedelic-love-edp-90-ml.html",
       "en_stock": true
     },
@@ -2996,10 +3008,16 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
-    "tst-initio-absolute-magnetic-blend-7-edp-90-ml": {
-      "nombre": "TST INITIO ABSOLUTE MAGNETIC BLEND 7 EDP 90 ML",
+    "tst-initio-mystic-experience-edp-90-ml": {
+      "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
+      "en_stock": true
+    },
+    "tst-initio-magnetic-blend-7-edp-90-ml": {
+      "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
       "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-absolute-magnetic-blend-7-edp-90-ml.html",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
       "en_stock": true
     },
     "annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular": {
@@ -3748,7 +3766,7 @@
     },
     "tst-initio-psychedelic-love-edp-90-ml": {
       "nombre": "TST INITIO PSYCHEDELIC LOVE EDP 90 ML",
-      "precio": "149,00 €",
+      "precio": "139,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-psychedelic-love-edp-90-ml.html",
       "en_stock": true
     },
