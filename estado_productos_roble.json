@@ -1,5 +1,11 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular": {
+      "nombre": "GOUTAL CE SOIR OU JAMAIS EDP 100 ML REGULAR",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-tom-ford-soleil-blanc-edp-50-ml": {
       "nombre": "TST TOM FORD SOLEIL BLANC EDP 50 ML",
       "precio": "165,00 €",
@@ -64,12 +70,6 @@
       "nombre": "TST CARTHUSIA GELSOMINI DI CAPRI EDP 100 ML",
       "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-gelsomini-di-capri-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-carthusia-fiore-di-capri-edp-100-ml": {
-      "nombre": "TST CARTHUSIA FIORE DI CAPRI EDP 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-fiore-di-capri-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -448,6 +448,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-cacao-in-the-sun-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-acqua-di-parma-colonia-il-profumo-edp-180-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA IL PROFUMO EDP 180 ML",
+      "precio": "159,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-180-ml.html",
+      "en_stock": true
+    },
     "tst-escada-taj-sunset-edt-50-ml": {
       "nombre": "TST ESCADA TAJ SUNSET EDT 50 ML",
       "precio": "19,00 €",
@@ -458,12 +464,6 @@
       "nombre": "TST CARLOTHA RAY ROSE BLANCHE & GARDENIA EDP 50ML",
       "precio": "24,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carlotha-ray-rose-blanche-gardenia-edp-50ml.html",
-      "en_stock": true
-    },
-    "tst-ramon-monegal-hand-in-hand-edp-100-ml": {
-      "nombre": "TST RAMON MONEGAL HAND IN HAND EDP 100 ML",
-      "precio": "89,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-hand-in-hand-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -1136,8 +1136,14 @@
     },
     "tst-acqua-di-parma-colonia-il-profumo-edp-180-ml": {
       "nombre": "TST ACQUA DI PARMA COLONIA IL PROFUMO EDP 180 ML",
-      "precio": "179,00 €",
+      "precio": "159,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-180-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-colonia-il-profumo-edp-100-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA IL PROFUMO EDP 100 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-100-ml.html",
       "en_stock": true
     },
     "tst-mandarina-duck-mandariners-for-him-edt-100-ml": {
@@ -1854,6 +1860,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/juliette-has-a-gun-ego-stratis-edp-100-ml-regular.html",
       "en_stock": true
     },
+    "tst-jeroboam-boha-extrait-de-parfum-30-ml": {
+      "nombre": "TST JEROBOAM BOHA EXTRAIT DE PARFUM 30 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jeroboam-boha-extrait-de-parfum-30-ml.html",
+      "en_stock": true
+    },
     "tst-prada-infusion-mandarine-edp-100-ml": {
       "nombre": "TST PRADA INFUSION DE VANILLE EDP 100 ML",
       "precio": "54,00 €",
@@ -1930,6 +1942,12 @@
       "nombre": "TST KENZO HOMME MARINE EDT 110 ML",
       "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-kenzo-homme-marine-edt-110-ml.html",
+      "en_stock": true
+    },
+    "tst-masque-milano-l-attesa-edp-35-ml": {
+      "nombre": "TST MASQUE MILANO L'ATTESA EDP 35 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-masque-milano-l-attesa-edp-35-ml.html",
       "en_stock": true
     },
     "tst-issey-miyake-l-eau-d-issey-pour-homme-vetiver-edt-intense-100-ml": {
@@ -2134,6 +2152,12 @@
       "nombre": "TST CALVIN KLEIN CK EVERYONE EDP 100 ML",
       "precio": "22,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-everyone-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-franck-boclet-cocaine-edp-100-ml": {
+      "nombre": "TST FRANCK BOCLET COCAINE EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-franck-boclet-cocaine-edp-100-ml.html",
       "en_stock": true
     },
     "tst-loewe-paula-s-ibiza-eclectic-edt-50-ml": {
@@ -2972,6 +2996,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-initio-absolute-magnetic-blend-7-edp-90-ml": {
+      "nombre": "TST INITIO ABSOLUTE MAGNETIC BLEND 7 EDP 90 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-absolute-magnetic-blend-7-edp-90-ml.html",
+      "en_stock": true
+    },
+    "annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular": {
+      "nombre": "GOUTAL CE SOIR OU JAMAIS EDP 100 ML REGULAR",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-christian-dior-j-adore-intense-parfum-100-ml": {
       "nombre": "TST CHRISTIAN DIOR J'ADORE INTENSE PARFUM 100 ML",
       "precio": "94,00 €",
@@ -4796,6 +4832,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/juliette-has-a-gun-ego-stratis-edp-100-ml-regular.html",
       "en_stock": true
     },
+    "tst-jeroboam-boha-extrait-de-parfum-30-ml": {
+      "nombre": "TST JEROBOAM BOHA EXTRAIT DE PARFUM 30 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jeroboam-boha-extrait-de-parfum-30-ml.html",
+      "en_stock": true
+    },
     "tst-prada-infusion-mandarine-edp-100-ml": {
       "nombre": "TST PRADA INFUSION DE VANILLE EDP 100 ML",
       "precio": "54,00 €",
@@ -4884,6 +4926,12 @@
       "nombre": "TST CAROLINA HERRERA GOOD GIRL BLUSH EDP 80 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-good-girl-blush-edp-80-ml.html",
+      "en_stock": true
+    },
+    "tst-masque-milano-l-attesa-edp-35-ml": {
+      "nombre": "TST MASQUE MILANO L'ATTESA EDP 35 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-masque-milano-l-attesa-edp-35-ml.html",
       "en_stock": true
     },
     "tst-elie-saab-le-parfum-bridal-edp-90-ml": {
@@ -5082,6 +5130,12 @@
       "nombre": "TST CALVIN KLEIN CK EVERYONE EDP 100 ML",
       "precio": "22,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-everyone-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-franck-boclet-cocaine-edp-100-ml": {
+      "nombre": "TST FRANCK BOCLET COCAINE EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-franck-boclet-cocaine-edp-100-ml.html",
       "en_stock": true
     },
     "tst-versace-eros-femme-edp-100-ml": {
