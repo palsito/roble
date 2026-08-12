@@ -1788,12 +1788,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-scandal-pour-homme-absolu-parfum-concentree-100-ml.html",
       "en_stock": true
     },
-    "tst-tom-ford-costa-azzurra-parfum-100-ml": {
-      "nombre": "TST TOM FORD COSTA AZZURRA PARFUM 100 ML",
-      "precio": "134,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-costa-azzurra-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-4711-acqua-colonia-intense-pure-breeze-of-himalaya-edc-170-ml": {
       "nombre": "TST 4711 ACQUA COLONIA INTENSE PURE BREEZE OF HIMALAYA EDC 170 ML",
       "precio": "19,00 €",
@@ -4718,12 +4712,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-olympea-parfum-80-ml.html",
       "en_stock": true
     },
-    "tst-tom-ford-costa-azzurra-parfum-100-ml": {
-      "nombre": "TST TOM FORD COSTA AZZURRA PARFUM 100 ML",
-      "precio": "134,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-costa-azzurra-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-loewe-agua-drop-edp-100-ml": {
       "nombre": "TST LOEWE AGUA DROP EDP 100 ML",
       "precio": "69,00 €",
@@ -6090,6 +6078,12 @@
       "nombre": "TST CHANEL NUMERO 5 EDT 100 ML",
       "precio": "85,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-numero-5-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-allure-sensuelle-edt-100-ml": {
+      "nombre": "TST CHANEL ALLURE SENSUELLE EDT 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-allure-sensuelle-edt-100-ml.html",
       "en_stock": true
     },
     "tst-roberto-verino-gold-bouquet-edp-90-ml": {
