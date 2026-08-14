@@ -116,6 +116,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-escada-taj-sunset-edt-50-ml.html",
       "en_stock": true
     },
+    "tst-dolce-gabbana-light-blue-pour-homme-capri-in-love-edt-100-ml": {
+      "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME CAPRI IN LOVE EDT...",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-capri-in-love-edt-100-ml.html",
+      "en_stock": true
+    },
     "miller-harris-rose-en-noir-edp-100-ml-regular": {
       "nombre": "MILLER HARRIS ROSE EN NOIR EDP 100 ML REGULAR",
       "precio": "49,00 €",
@@ -380,6 +386,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-212-vip-club-edition-woman-edt-80-mls.html",
       "en_stock": true
     },
+    "tst-paco-rabanne-calandre-edt-100-ml-tst": {
+      "nombre": "TST PACO RABANNE CALANDRE EDT 100 ML",
+      "precio": "45,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-calandre-edt-100-ml-tst.html",
+      "en_stock": true
+    },
     "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
       "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
       "precio": "44,00 €",
@@ -388,6 +400,12 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
+    "tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml": {
+      "nombre": "TST DOLCE & GABBANA THE ONE FOR WOMAN INTENSE EDP 75 ML",
+      "precio": "46,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml.html",
+      "en_stock": true
+    },
     "cacharel-amor-amor-edt-100-ml-regulars": {
       "nombre": "CACHAREL  AMOR AMOR EDT 100 ML REGULAR",
       "precio": "27,00 €",
@@ -452,12 +470,6 @@
       "nombre": "TST ESCADA TAJ SUNSET EDT 50 ML",
       "precio": "19,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-escada-taj-sunset-edt-50-ml.html",
-      "en_stock": true
-    },
-    "tst-carlotha-ray-rose-blanche-gardenia-edp-50ml": {
-      "nombre": "TST CARLOTHA RAY ROSE BLANCHE & GARDENIA EDP 50ML",
-      "precio": "24,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carlotha-ray-rose-blanche-gardenia-edp-50ml.html",
       "en_stock": true
     }
   },
@@ -1098,6 +1110,12 @@
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-psychedelic-love-edp-90-ml.html",
       "en_stock": true
     },
+    "tst-versace-eros-homme-energy-edp-100-ml": {
+      "nombre": "TST VERSACE EROS HOMME ENERGY EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-energy-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-simone-andreoli-mandorla-del-sud-edp-intense-100-ml": {
       "nombre": "TST SIMONE ANDREOLI MANDORLA DEL SUD EDP INTENSE 100 ML",
       "precio": "78,00 €",
@@ -1198,6 +1216,12 @@
       "nombre": "TST GUERLAIN L'HOMME IDEAL PARFUM 100 ML",
       "precio": "73,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-l-homme-ideal-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-light-blue-pour-homme-capri-in-love-edt-100-ml": {
+      "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME CAPRI IN LOVE EDT...",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-capri-in-love-edt-100-ml.html",
       "en_stock": true
     },
     "tst-prada-luna-rossa-ocean-edp-100-ml": {
@@ -1762,6 +1786,12 @@
       "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN AROMATICS ESSENCE EDP 100 ML",
       "precio": "30,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-calvin-klein-eternity-for-men-aromatics-essence-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-givenchy-gentleman-society-extreme-edp-100-ml": {
+      "nombre": "TST GIVENCHY GENTLEMAN SOCIETY EXTREME EDP 100  ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-givenchy-gentleman-society-extreme-edp-100-ml.html",
       "en_stock": true
     },
     "tst-xerjoff-italica-edp-100ml": {
@@ -3008,6 +3038,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml": {
+      "nombre": "TST DOLCE & GABBANA THE ONE FOR WOMAN INTENSE EDP 75 ML",
+      "precio": "46,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml.html",
+      "en_stock": true
+    },
+    "tst-zadig-voltaire-zadig-l-intense-edp-90-ml": {
+      "nombre": "TST ZADIG & VOLTAIRE ZADIG L'INTENSE EDP 90 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-zadig-voltaire-zadig-l-intense-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-givenchy-irresistible-nude-velvet-edp-80-ml": {
       "nombre": "TST GIVENCHY IRRESISTIBLE NUDE VELVET EDP 80 ML",
       "precio": "49,00 €",
@@ -6450,6 +6492,12 @@
       "nombre": "TST NINA RICCI  NINA EDT 80 ML",
       "precio": "42,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nina-ricci-nina-edt-80-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-calandre-edt-100-ml-tst": {
+      "nombre": "TST PACO RABANNE CALANDRE EDT 100 ML",
+      "precio": "45,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-calandre-edt-100-ml-tst.html",
       "en_stock": true
     },
     "tst-paco-rabanne-ultraviolet-edp-80-ml-tst": {
