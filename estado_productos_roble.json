@@ -1158,12 +1158,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-180-ml.html",
       "en_stock": true
     },
-    "tst-acqua-di-parma-colonia-il-profumo-edp-100-ml": {
-      "nombre": "TST ACQUA DI PARMA COLONIA IL PROFUMO EDP 100 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-mandarina-duck-mandariners-for-him-edt-100-ml": {
       "nombre": "TST MANDARINA DUCK MANDARINERS FOR HIM EDT 100 ML",
       "precio": "9,00 €",
@@ -1252,6 +1246,12 @@
       "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN AMBER ESSENCE EDP 100 ML",
       "precio": "33,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-calvin-klein-eternity-for-men-amber-essence-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-k-by-dolce-gabbana-parfum-100-ml": {
+      "nombre": "TST DOLCE & GABBANA K BY DOLCE & GABBANA PARFUM 100 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-k-by-dolce-gabbana-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-armani-prive-magenta-tanzanite-edp-100-ml": {
