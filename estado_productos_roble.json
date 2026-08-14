@@ -474,6 +474,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-bvlgari-man-wood-essence-parfum-100-ml": {
+      "nombre": "TST BVLGARI MAN WOOD ESSENCE PARFUM 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-wood-essence-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-givenchy-gentleman-society-sport-edp-100-ml": {
       "nombre": "TST GIVENCHY GENTLEMAN SOCIETY SPORT EDP 100  ML",
       "precio": "49,00 €",
@@ -2668,6 +2674,12 @@
       "nombre": "TST BVLGARI MAN WOOD NEROLI EDP 100 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-wood-neroli-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-bvlgari-man-wood-essence-edp-100-ml": {
+      "nombre": "TST BVLGARI MAN WOOD ESSENCE EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-wood-essence-edp-100-ml.html",
       "en_stock": true
     },
     "tst-burberry-mr-burberry-edp-100-ml": {
