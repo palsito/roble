@@ -852,12 +852,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-najim-parfum-100-ml.html",
       "en_stock": true
     },
-    "tst-adolfo-dominguez-bambu-edp-120-ml": {
-      "nombre": "TST ADOLFO DOMINGUEZ BAMBU EDP 120 ML",
-      "precio": "22,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-adolfo-dominguez-bambu-edp-120-ml.html",
-      "en_stock": true
-    },
     "tst-giorgio-armani-acqua-di-gio-edp-intense-100-ml": {
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIO EDP INTENSE 100 ML",
       "precio": "65,00 €",
@@ -1488,12 +1482,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-intensa-edc-180-ml.html",
       "en_stock": true
     },
-    "tst-acqua-di-parma-colonia-pura-edc-180-ml": {
-      "nombre": "TST ACQUA DI PARMA COLONIA PURA EDC 180 ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-pura-edc-180-ml.html",
-      "en_stock": true
-    },
     "tst-acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-edt-180-ml": {
       "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO BERGAMOTTO DI CALABRIA EDT...",
       "precio": "79,00 €",
@@ -1714,12 +1702,6 @@
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIO EDP 200 ML",
       "precio": "84,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-edp-200-ml.html",
-      "en_stock": true
-    },
-    "tst-versace-eros-homme-parfum-100-ml": {
-      "nombre": "TST VERSACE EROS HOMME PARFUM 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-moschino-toy-boy-pearl-edp-100-ml": {
@@ -3254,10 +3236,10 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jacadi-le-bebe-eau-de-senteur-100-ml.html",
       "en_stock": true
     },
-    "tst-carolina-herrera-very-good-girl-elixir-80-ml": {
-      "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
-      "precio": "76,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-very-good-girl-elixir-80-ml.html",
+    "tst-carolina-herrera-good-girl-jasmine-absolute-edp-80-ml": {
+      "nombre": "TST CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80 ML",
+      "precio": "72,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-good-girl-jasmine-absolute-edp-80-ml.html",
       "en_stock": true
     },
     "tst-jpg-divine-couture-edp-100-ml": {
@@ -3432,6 +3414,12 @@
       "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-carolina-herrera-very-good-girl-elixir-80-ml": {
+      "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
+      "precio": "76,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-very-good-girl-elixir-80-ml.html",
       "en_stock": true
     },
     "tst-borntostandout-mud-edp-50-ml": {
