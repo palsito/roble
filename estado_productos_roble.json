@@ -1,5 +1,41 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-nishane-ani-extrait-de-parfum-50-mlsss": {
+      "nombre": "TST NISHANE ANI EXTRAIT DE PARFUM 50 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-ani-extrait-de-parfum-50-mlsss.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-iris-cendre-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR IRIS CENDRE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-iris-cendre-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-bois-d-ascese-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR BOIS D'ASCESE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-bois-d-ascese-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-baruti-perverso-edp-50-ml": {
+      "nombre": "TST BARUTI PERVERSO EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-perverso-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-baruti-tindrer-edp-50-ml": {
       "nombre": "TST BARUTI TINDRER EDP 50 ML",
       "precio": "87,00 €",
@@ -34,42 +70,6 @@
       "nombre": "TST TOM FORD SOLEIL BLANC EDP 50 ML",
       "precio": "165,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tom-ford-soleil-blanc-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-fugazzi-workaholic-exdp-100-ml": {
-      "nombre": "TST FUGAZZI WORKAHOLIC ExDP 100 ML",
-      "precio": "119,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-workaholic-exdp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-fugazzi-borntostandout-edp-50-ml": {
-      "nombre": "TST FUGAZZI BORNTOSTANDOUT EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-borntostandout-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-premiere-note-java-wood-edp-100-ml": {
-      "nombre": "TST PREMIERE NOTE JAVA WOOD EDP 100 ML",
-      "precio": "68,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-java-wood-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-premiere-note-orange-calabria-edp-100-ml": {
-      "nombre": "TST PREMIERE NOTE ORANGE CALABRIA EDP 100 ML",
-      "precio": "68,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-orange-calabria-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-premiere-note-cedar-atlas-edp-100-ml": {
-      "nombre": "TST PREMIERE NOTE CEDAR ATLAS EDP 100 ML",
-      "precio": "68,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-cedar-atlas-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-premiere-note-lys-toscana-edp-100-ml": {
-      "nombre": "TST PREMIERE NOTE LYS TOSCANA EDP 100 ML",
-      "precio": "68,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-lys-toscana-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -468,6 +468,42 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-nishane-ani-extrait-de-parfum-50-mlsss": {
+      "nombre": "TST NISHANE ANI EXTRAIT DE PARFUM 50 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-ani-extrait-de-parfum-50-mlsss.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-iris-cendre-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR IRIS CENDRE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-iris-cendre-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-bois-d-ascese-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR BOIS D'ASCESE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-bois-d-ascese-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-baruti-perverso-edp-50-ml": {
+      "nombre": "TST BARUTI PERVERSO EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-perverso-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-baruti-tindrer-edp-50-ml": {
       "nombre": "TST BARUTI TINDRER EDP 50 ML",
       "precio": "87,00 €",
@@ -1668,6 +1704,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-earth-elixir-100-ml-tst.html",
       "en_stock": true
     },
+    "tst-nishane-ani-extrait-de-parfum-100-mldd": {
+      "nombre": "TST NISHANE ANI EXTRAIT DE PARFUM 100 ML",
+      "precio": "159,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-ani-extrait-de-parfum-100-mldd.html",
+      "en_stock": true
+    },
     "tst-gucci-guilty-elixir-pafum-pour-homme-60-ml": {
       "nombre": "TST GUCCI GUILTY ELIXIR PAFUM POUR HOMME 60 ML",
       "precio": "79,00 €",
@@ -2332,6 +2374,12 @@
       "nombre": "TST TIZIANA TERENZI AL CONTRARIO EXTRAIT DE PARFUM 50 ML",
       "precio": "84,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tiziana-terenzi-al-contrario-extrait-de-parfum-50-ml.html",
+      "en_stock": true
+    },
+    "tst-nishane-karagoz-extrait-de-parfum-50-ml": {
+      "nombre": "TST NISHANE KARAGOZ EXTRAIT DE PARFUM 50 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-karagoz-extrait-de-parfum-50-ml.html",
       "en_stock": true
     },
     "tst-rosendo-mateu-6-edp-100-ml": {
@@ -3038,6 +3086,36 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-nishane-ani-extrait-de-parfum-50-mlsss": {
+      "nombre": "TST NISHANE ANI EXTRAIT DE PARFUM 50 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-ani-extrait-de-parfum-50-mlsss.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-iris-cendre-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR IRIS CENDRE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-iris-cendre-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-naomi-goodsir-bois-d-ascese-edp-50-ml": {
+      "nombre": "TST NAOMI GOODSIR BOIS D'ASCESE EDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-bois-d-ascese-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-baruti-perverso-edp-50-ml": {
       "nombre": "TST BARUTI PERVERSO EDP 50 ML",
       "precio": "87,00 €",
@@ -4580,6 +4658,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elizabeth-arden-white-tea-florale-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-nishane-ani-extrait-de-parfum-100-mldd": {
+      "nombre": "TST NISHANE ANI EXTRAIT DE PARFUM 100 ML",
+      "precio": "159,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-ani-extrait-de-parfum-100-mldd.html",
+      "en_stock": true
+    },
     "tst-chanel-cristalle-edp-100-mls": {
       "nombre": "TST CHANEL CRISTALLE EDP 100 ML",
       "precio": "94,00 €",
@@ -5346,6 +5430,12 @@
       "nombre": "TST ISSEY MIYAKE A DROP D'ISSEY EDP 90 ML",
       "precio": "40,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-issey-miyake-a-drop-d-issey-edp-90-ml.html",
+      "en_stock": true
+    },
+    "tst-nishane-karagoz-extrait-de-parfum-50-ml": {
+      "nombre": "TST NISHANE KARAGOZ EXTRAIT DE PARFUM 50 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-karagoz-extrait-de-parfum-50-ml.html",
       "en_stock": true
     },
     "tst-rosendo-mateu-6-edp-100-ml": {
