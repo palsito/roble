@@ -1,5 +1,17 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-baruti-tindrer-edp-50-ml": {
+      "nombre": "TST BARUTI TINDRER EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-tindrer-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-baruti-dama-koupa-edp-50-ml": {
+      "nombre": "TST BARUTI DAMA KOUPA EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-dama-koupa-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-initio-mystic-experience-edp-90-ml": {
       "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
       "precio": "149,00 €",
@@ -58,18 +70,6 @@
       "nombre": "TST PREMIERE NOTE LYS TOSCANA EDP 100 ML",
       "precio": "68,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-lys-toscana-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-premiere-note-rosa-damas-edp-100-ml": {
-      "nombre": "TST PREMIERE NOTE ROSA DAMAS EDP 100 ML",
-      "precio": "68,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-rosa-damas-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-electimuss-imperium-edp-100-ml": {
-      "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
-      "precio": "125,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-imperium-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -468,6 +468,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-baruti-tindrer-edp-50-ml": {
+      "nombre": "TST BARUTI TINDRER EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-tindrer-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-baruti-dama-koupa-edp-50-ml": {
+      "nombre": "TST BARUTI DAMA KOUPA EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-dama-koupa-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-bvlgari-man-wood-essence-parfum-100-ml": {
       "nombre": "TST BVLGARI MAN WOOD ESSENCE PARFUM 100 ML",
       "precio": "89,00 €",
@@ -3026,6 +3038,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-baruti-perverso-edp-50-ml": {
+      "nombre": "TST BARUTI PERVERSO EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-perverso-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-baruti-tindrer-edp-50-ml": {
+      "nombre": "TST BARUTI TINDRER EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-tindrer-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-baruti-dama-koupa-edp-50-ml": {
+      "nombre": "TST BARUTI DAMA KOUPA EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-dama-koupa-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml": {
       "nombre": "TST DOLCE & GABBANA THE ONE FOR WOMAN INTENSE EDP 75 ML",
       "precio": "46,00 €",
