@@ -1,5 +1,11 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-swedoft-cambodian-oud-edp-100-ml": {
+      "nombre": "TST SWEDOFT CAMBODIAN OUD EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-swedoft-cambodian-oud-edp-100-ml.html",
+      "en_stock": true
+    },
     "masque-milano-times-square-edp-100-ml-regular": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100 ML REGULAR",
       "precio": "69,00 €",
@@ -64,12 +70,6 @@
       "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
       "precio": "149,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
-      "en_stock": true
-    },
-    "tst-initio-magnetic-blend-7-edp-90-ml": {
-      "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
       "en_stock": true
     }
   },
@@ -468,6 +468,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-swedoft-cambodian-oud-edp-100-ml": {
+      "nombre": "TST SWEDOFT CAMBODIAN OUD EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-swedoft-cambodian-oud-edp-100-ml.html",
+      "en_stock": true
+    },
     "masque-milano-times-square-edp-100-ml-regular": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100 ML REGULAR",
       "precio": "69,00 €",
