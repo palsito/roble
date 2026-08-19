@@ -42,12 +42,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
       "en_stock": true
     },
-    "tst-naomi-goodsir-bois-d-ascese-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR BOIS D'ASCESE EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-bois-d-ascese-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-baruti-perverso-edp-50-ml": {
       "nombre": "TST BARUTI PERVERSO EDP 50 ML",
       "precio": "87,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
       "precio": "149,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
+      "en_stock": true
+    },
+    "tst-initio-magnetic-blend-7-edp-90-ml": {
+      "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
       "en_stock": true
     }
   },
@@ -508,12 +508,6 @@
       "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-naomi-goodsir-bois-d-ascese-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR BOIS D'ASCESE EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-bois-d-ascese-edp-50-ml.html",
       "en_stock": true
     },
     "tst-baruti-perverso-edp-50-ml": {
@@ -3134,12 +3128,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
       "en_stock": true
     },
-    "tst-naomi-goodsir-bois-d-ascese-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR BOIS D'ASCESE EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-bois-d-ascese-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-baruti-perverso-edp-50-ml": {
       "nombre": "TST BARUTI PERVERSO EDP 50 ML",
       "precio": "87,00 €",
@@ -3882,6 +3870,12 @@
       "nombre": "TST CAROLINA HERRERA GOOD GIRL BOWSTATIC EDP 80 ML",
       "precio": "72,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-good-girl-bowstatic-edp-80-ml.html",
+      "en_stock": true
+    },
+    "tst-prada-paradoxe-radical-essence-parfum-90-ml": {
+      "nombre": "TST PRADA PARADOXE RADICAL ESSENCE PARFUM 90 ML",
+      "precio": "75,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-radical-essence-parfum-90-ml.html",
       "en_stock": true
     },
     "tst-lorenzo-pazzaglia-carbonara-exdp-50-ml": {
