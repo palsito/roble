@@ -30,12 +30,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
       "en_stock": true
     },
-    "tst-naomi-goodsir-iris-cendre-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR IRIS CENDRE EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-iris-cendre-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
       "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
       "precio": "99,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
       "precio": "139,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
+      "en_stock": true
+    },
+    "annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular": {
+      "nombre": "GOUTAL CE SOIR OU JAMAIS EDP 100 ML REGULAR",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular.html",
       "en_stock": true
     }
   },
@@ -498,12 +498,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
       "en_stock": true
     },
-    "tst-naomi-goodsir-iris-cendre-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR IRIS CENDRE EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-iris-cendre-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
       "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
       "precio": "99,00 €",
@@ -928,12 +922,6 @@
       "nombre": "TST PACO RABANNE ONE MILLION GOLD ELIXIR 100 ML",
       "precio": "65,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-one-million-gold-elixir-100-ml.html",
-      "en_stock": true
-    },
-    "tst-valentino-uomo-born-in-roma-purple-melancholia-edt-100-ml": {
-      "nombre": "TST VALENTINO UOMO BORN IN ROMA PURPLE MELANCHOLIA EDT 100 ML",
-      "precio": "62,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-valentino-uomo-born-in-roma-purple-melancholia-edt-100-ml.html",
       "en_stock": true
     },
     "pantheon-roma-notte-d-amore-exdp-50-ml-regular": {
@@ -2202,12 +2190,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-eau-givree-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-eight-bob-champs-de-provence-edp-30-ml": {
-      "nombre": "TST EIGHT & BOB CHAMPS DE PROVENCE EDP 30 ML",
-      "precio": "27,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-eight-bob-champs-de-provence-edp-30-ml.html",
-      "en_stock": true
-    },
     "eight-bob-champs-de-provence-edp-100-ml-regular": {
       "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP 100 ML REGULAR",
       "precio": "69,00 €",
@@ -3114,12 +3096,6 @@
       "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-naomi-goodsir-iris-cendre-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR IRIS CENDRE EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-iris-cendre-edp-50-ml.html",
       "en_stock": true
     },
     "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
@@ -5676,6 +5652,12 @@
       "nombre": "TST DOLCE & GABBANA DOLCE SHINE EDP 75 ML",
       "precio": "32,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-dolce-shine-edp-75-ml.html",
+      "en_stock": true
+    },
+    "tst-mugler-angel-edp-100-ml-estrella": {
+      "nombre": "TST MUGLER ANGEL EDP 100 ML ESTRELLA",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mugler-angel-edp-100-ml-estrella.html",
       "en_stock": true
     },
     "tst-angel-schlesser-citrus-pomelo-eau-fraiche-edt-100-ml": {
