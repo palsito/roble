@@ -32,7 +32,7 @@
     },
     "masque-milano-times-square-edp-100-ml-regular": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100 ML REGULAR",
-      "precio": "69,00 €",
+      "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/masque-milano-times-square-edp-100-ml-regular.html",
       "en_stock": true
     },
@@ -54,12 +54,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
       "en_stock": true
     },
-    "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-baruti-tindrer-edp-50-ml": {
       "nombre": "TST BARUTI TINDRER EDP 50 ML",
       "precio": "87,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST BARUTI DAMA KOUPA EDP 50 ML",
       "precio": "87,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-dama-koupa-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-initio-mystic-experience-edp-90-ml": {
+      "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
       "en_stock": true
     }
   },
@@ -388,12 +388,6 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
-    "masque-milano-times-square-edp-100-ml-regular": {
-      "nombre": "MASQUE MILANO TIMES SQUARE EDP 100 ML REGULAR",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/masque-milano-times-square-edp-100-ml-regular.html",
-      "en_stock": true
-    },
     "tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml": {
       "nombre": "TST DOLCE & GABBANA THE ONE FOR WOMAN INTENSE EDP 75 ML",
       "precio": "46,00 €",
@@ -459,6 +453,12 @@
       "precio": "66,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-devotion-pour-homme-parfum-100-ml.html",
       "en_stock": true
+    },
+    "tst-acqua-di-parma-colonia-il-profumo-edp-180-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA IL PROFUMO EDP 180 ML",
+      "precio": "159,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-180-ml.html",
+      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
@@ -494,7 +494,7 @@
     },
     "masque-milano-times-square-edp-100-ml-regular": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100 ML REGULAR",
-      "precio": "69,00 €",
+      "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/masque-milano-times-square-edp-100-ml-regular.html",
       "en_stock": true
     },
@@ -514,12 +514,6 @@
       "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
       "en_stock": true
     },
     "tst-baruti-tindrer-edp-50-ml": {
@@ -3082,7 +3076,7 @@
     },
     "masque-milano-times-square-edp-100-ml-regular": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100 ML REGULAR",
-      "precio": "69,00 €",
+      "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/masque-milano-times-square-edp-100-ml-regular.html",
       "en_stock": true
     },
@@ -3102,12 +3096,6 @@
       "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-naomi-goodsir-cuir-velours-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR CUIR VELOURS EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-cuir-velours-edp-50-ml.html",
       "en_stock": true
     },
     "tst-baruti-tindrer-edp-50-ml": {
