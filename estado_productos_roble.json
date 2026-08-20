@@ -1,5 +1,17 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-nishane-hacivat-extrait-de-parfum-50-mlss": {
+      "nombre": "TST NISHANE HACIVAT EXTRAIT DE PARFUM 50 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-hacivat-extrait-de-parfum-50-mlss.html",
+      "en_stock": true
+    },
+    "rosendo-mateu-5-elixir-100-ml-regular": {
+      "nombre": "ROSENDO MATEU 5 ELIXIR 100 ML REGULAR",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-5-elixir-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-swedoft-cambodian-oud-edp-100-ml": {
       "nombre": "TST SWEDOFT CAMBODIAN OUD EDP 100 ML",
       "precio": "69,00 €",
@@ -58,18 +70,6 @@
       "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
       "precio": "139,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
-      "en_stock": true
-    },
-    "annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular": {
-      "nombre": "GOUTAL CE SOIR OU JAMAIS EDP 100 ML REGULAR",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-fugazzi-workaholic-exdp-100-ml": {
-      "nombre": "TST FUGAZZI WORKAHOLIC ExDP 100 ML",
-      "precio": "119,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-workaholic-exdp-100-ml.html",
       "en_stock": true
     }
   },
@@ -462,6 +462,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-nishane-hacivat-extrait-de-parfum-50-mlss": {
+      "nombre": "TST NISHANE HACIVAT EXTRAIT DE PARFUM 50 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-hacivat-extrait-de-parfum-50-mlss.html",
+      "en_stock": true
+    },
+    "rosendo-mateu-5-elixir-100-ml-regular": {
+      "nombre": "ROSENDO MATEU 5 ELIXIR 100 ML REGULAR",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-5-elixir-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-swedoft-cambodian-oud-edp-100-ml": {
       "nombre": "TST SWEDOFT CAMBODIAN OUD EDP 100 ML",
       "precio": "69,00 €",
@@ -1600,6 +1612,12 @@
       "nombre": "TST LIQUIDES IMAGINAIRES DOM ROSA EDP 100 ML",
       "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-liquides-imaginaires-dom-rosa-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-radical-rose-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE RADICAL ROSE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-radical-rose-edp-100-ml.html",
       "en_stock": true
     },
     "tst-matiere-premiere-parisian-musc-edp-100-ml": {
@@ -3020,6 +3038,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-nishane-hacivat-extrait-de-parfum-50-mlss": {
+      "nombre": "TST NISHANE HACIVAT EXTRAIT DE PARFUM 50 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-hacivat-extrait-de-parfum-50-mlss.html",
+      "en_stock": true
+    },
+    "issey-miyake-nectar-d-issey-petale-de-nectar-edt-90-ml-regular": {
+      "nombre": "ISSEY MIYAKE NECTAR D'ISSEY PETALE DE NECTAR EDT 90 ML REGULAR",
+      "precio": "28,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/issey-miyake-nectar-d-issey-petale-de-nectar-edt-90-ml-regular.html",
+      "en_stock": true
+    },
+    "rosendo-mateu-5-elixir-100-ml-regular": {
+      "nombre": "ROSENDO MATEU 5 ELIXIR 100 ML REGULAR",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-5-elixir-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-swedoft-cambodian-oud-edp-100-ml": {
       "nombre": "TST SWEDOFT CAMBODIAN OUD EDP 100 ML",
       "precio": "69,00 €",
@@ -4434,6 +4470,12 @@
       "nombre": "TST TOUS ELECTROTOUCH EDP 100 ML",
       "precio": "32,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-electrotouch-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-matiere-premiere-radical-rose-edp-100-ml": {
+      "nombre": "TST MATIERE PREMIERE RADICAL ROSE EDP 100 ML",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-radical-rose-edp-100-ml.html",
       "en_stock": true
     },
     "tst-matiere-premiere-parisian-musc-edp-100-ml": {
