@@ -388,12 +388,6 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
-    "tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml": {
-      "nombre": "TST DOLCE & GABBANA THE ONE FOR WOMAN INTENSE EDP 75 ML",
-      "precio": "46,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml.html",
-      "en_stock": true
-    },
     "cacharel-amor-amor-edt-100-ml-regulars": {
       "nombre": "CACHAREL  AMOR AMOR EDT 100 ML REGULAR",
       "precio": "27,00 €",
@@ -458,6 +452,12 @@
       "nombre": "TST ACQUA DI PARMA COLONIA IL PROFUMO EDP 180 ML",
       "precio": "159,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-180-ml.html",
+      "en_stock": true
+    },
+    "tst-escada-taj-sunset-edt-50-ml": {
+      "nombre": "TST ESCADA TAJ SUNSET EDT 50 ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-escada-taj-sunset-edt-50-ml.html",
       "en_stock": true
     }
   },
@@ -3088,7 +3088,7 @@
     },
     "tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml": {
       "nombre": "TST DOLCE & GABBANA THE ONE FOR WOMAN INTENSE EDP 75 ML",
-      "precio": "46,00 €",
+      "precio": "62,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-the-one-for-woman-intense-edp-75-ml.html",
       "en_stock": true
     },
@@ -5652,12 +5652,6 @@
       "nombre": "TST CHRISTIAN DIOR FOREVER AND EVER EDT 100 ML",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-forever-and-ever-edt-100-ml.html",
-      "en_stock": true
-    },
-    "tst-giorgio-armani-acqua-di-gioia-edp-100-ml": {
-      "nombre": "TST GIORGIO ARMANI ACQUA DI GIOIA EDP 100 ML",
-      "precio": "57,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-acqua-di-gioia-edp-100-ml.html",
       "en_stock": true
     },
     "tst-coach-woman-edp-90-ml": {
