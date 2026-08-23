@@ -2430,12 +2430,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-pour-homme-intense-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-daniel-josier-mystery-oud-edp-100-ml": {
-      "nombre": "TST DANIEL JOSIER MYSTERY OUD EDP 100 ML",
-      "precio": "68,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-daniel-josier-mystery-oud-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-daniel-josier-le-musk-edp-100-ml": {
       "nombre": "TST DANIEL JOSIER LE MUSK EDP 100 ML",
       "precio": "68,00 €",
@@ -2752,6 +2746,12 @@
       "nombre": "TST DOLCE & GABBANA THE ONE FOR MEN EDP 100 ML",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-the-one-for-men-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-terre-d-hermes-pure-parfum-75-ml": {
+      "nombre": "TST HERMES TERRE D'HERMES PURE PARFUM 75  ML",
+      "precio": "73,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-pure-parfum-75-ml.html",
       "en_stock": true
     },
     "tst-ralph-lauren-polo-red-edt-125-ml": {
