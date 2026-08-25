@@ -1,5 +1,29 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "baruti-perverso-edp-50-ml-regular": {
+      "nombre": "BARUTI PERVERSO EDP 50 ML REGULAR",
+      "precio": "93,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/baruti-perverso-edp-50-ml-regular.html",
+      "en_stock": true
+    },
+    "kilian-black-phantom-edp-50-ml-regular": {
+      "nombre": "KILIAN BLACK PHANTOM EDP 50 ML REGULAR",
+      "precio": "179,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/kilian-black-phantom-edp-50-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-electimuss-octavian-edp-100-ml": {
+      "nombre": "TST ELECTIMUSS OCTAVIAN EDP 100 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-octavian-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-electimuss-silvanus-edp-100-ml": {
+      "nombre": "TST ELECTIMUSS SILVANUS EDP 100 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-silvanus-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-ormonde-jayne-sakura-edp-88-ml": {
       "nombre": "TST ORMONDE JAYNE SAKURA EDP 88 ML",
       "precio": "119,00 €",
@@ -46,30 +70,6 @@
       "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-baruti-dama-koupa-edp-50-ml": {
-      "nombre": "TST BARUTI DAMA KOUPA EDP 50 ML",
-      "precio": "87,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-dama-koupa-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-initio-mystic-experience-edp-90-ml": {
-      "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
-      "precio": "149,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
-      "en_stock": true
-    },
-    "tst-initio-magnetic-blend-7-edp-90-ml": {
-      "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
-      "en_stock": true
-    },
-    "annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular": {
-      "nombre": "GOUTAL CE SOIR OU JAMAIS EDP 100 ML REGULAR",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/annick-goutal-ce-soir-ou-jamais-edp-100-ml-regular.html",
       "en_stock": true
     }
   },
@@ -456,6 +456,30 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "baruti-perverso-edp-50-ml-regular": {
+      "nombre": "BARUTI PERVERSO EDP 50 ML REGULAR",
+      "precio": "93,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/baruti-perverso-edp-50-ml-regular.html",
+      "en_stock": true
+    },
+    "kilian-black-phantom-edp-50-ml-regular": {
+      "nombre": "KILIAN BLACK PHANTOM EDP 50 ML REGULAR",
+      "precio": "179,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/kilian-black-phantom-edp-50-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-electimuss-octavian-edp-100-ml": {
+      "nombre": "TST ELECTIMUSS OCTAVIAN EDP 100 ML",
+      "precio": "139,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-octavian-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-electimuss-silvanus-edp-100-ml": {
+      "nombre": "TST ELECTIMUSS SILVANUS EDP 100 ML",
+      "precio": "110,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-silvanus-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-ormonde-jayne-sakura-edp-88-ml": {
       "nombre": "TST ORMONDE JAYNE SAKURA EDP 88 ML",
       "precio": "119,00 €",
@@ -2154,6 +2178,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-men-parfum-100-ml.html",
       "en_stock": true
     },
+    "tst-lorenzo-villoresi-teint-de-neige-edp-100-ml": {
+      "nombre": "TST LORENZO VILLORESI TEINT DE NEIGE EDP 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-villoresi-teint-de-neige-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-adolfo-dominguez-ebano-salvia-edp-120-ml": {
       "nombre": "TST ADOLFO DOMINGUEZ EBANO SALVIA EDP 120 ML",
       "precio": "17,00 €",
@@ -2972,9 +3002,21 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "baruti-perverso-edp-50-ml-regular": {
+      "nombre": "BARUTI PERVERSO EDP 50 ML REGULAR",
+      "precio": "93,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/baruti-perverso-edp-50-ml-regular.html",
+      "en_stock": true
+    },
+    "kilian-black-phantom-edp-50-ml-regular": {
+      "nombre": "KILIAN BLACK PHANTOM EDP 50 ML REGULAR",
+      "precio": "179,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/kilian-black-phantom-edp-50-ml-regular.html",
+      "en_stock": true
+    },
     "tst-electimuss-octavian-edp-100-ml": {
       "nombre": "TST ELECTIMUSS OCTAVIAN EDP 100 ML",
-      "precio": "149,00 €",
+      "precio": "139,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-octavian-edp-100-ml.html",
       "en_stock": true
     },
@@ -5120,6 +5162,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-jardins-de-bagatelle-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-lorenzo-villoresi-teint-de-neige-edp-100-ml": {
+      "nombre": "TST LORENZO VILLORESI TEINT DE NEIGE EDP 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-villoresi-teint-de-neige-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-paco-rabanne-fame-edp-80-ml": {
       "nombre": "TST PACO RABANNE FAME EDP 80 ML",
       "precio": "57,00 €",
@@ -6226,7 +6274,7 @@
     },
     "tst-givenchy-ange-ou-demon-le-secret-edp-100-ml-tst": {
       "nombre": "TST GIVENCHY ANGE OU DEMON LE SECRET EDP 100 ML",
-      "precio": "54,00 €",
+      "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-givenchy-ange-ou-demon-le-secret-edp-100-ml-tst.html",
       "en_stock": true
     },
