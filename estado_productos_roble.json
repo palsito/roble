@@ -12,12 +12,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/kilian-black-phantom-edp-50-ml-regular.html",
       "en_stock": true
     },
-    "tst-electimuss-octavian-edp-100-ml": {
-      "nombre": "TST ELECTIMUSS OCTAVIAN EDP 100 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-octavian-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-electimuss-silvanus-edp-100-ml": {
       "nombre": "TST ELECTIMUSS SILVANUS EDP 100 ML",
       "precio": "110,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-baruti-dama-koupa-edp-50-ml": {
+      "nombre": "TST BARUTI DAMA KOUPA EDP 50 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-dama-koupa-edp-50-ml.html",
       "en_stock": true
     }
   },
@@ -466,12 +466,6 @@
       "nombre": "KILIAN BLACK PHANTOM EDP 50 ML REGULAR",
       "precio": "179,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/kilian-black-phantom-edp-50-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-electimuss-octavian-edp-100-ml": {
-      "nombre": "TST ELECTIMUSS OCTAVIAN EDP 100 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-octavian-edp-100-ml.html",
       "en_stock": true
     },
     "tst-electimuss-silvanus-edp-100-ml": {
@@ -3012,12 +3006,6 @@
       "nombre": "KILIAN BLACK PHANTOM EDP 50 ML REGULAR",
       "precio": "179,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/kilian-black-phantom-edp-50-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-electimuss-octavian-edp-100-ml": {
-      "nombre": "TST ELECTIMUSS OCTAVIAN EDP 100 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-octavian-edp-100-ml.html",
       "en_stock": true
     },
     "tst-electimuss-silvanus-edp-100-ml": {
@@ -5808,6 +5796,12 @@
       "nombre": "TST TOUS TOUS PLATA EDT 90 ML",
       "precio": "28,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-tous-edt-90-ml-tstt.html",
+      "en_stock": true
+    },
+    "tst-miu-miu-edp-100-ml-": {
+      "nombre": "TST MIU MIU  EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-miu-miu-edp-100-ml-.html",
       "en_stock": true
     },
     "tst-carolina-herrera-good-girl-legere-zapato-edp-80-ml": {
