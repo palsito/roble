@@ -36,12 +36,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-hacivat-extrait-de-parfum-50-mlss.html",
       "en_stock": true
     },
-    "tst-swedoft-cambodian-oud-edp-100-ml": {
-      "nombre": "TST SWEDOFT CAMBODIAN OUD EDP 100 ML",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-swedoft-cambodian-oud-edp-100-ml.html",
-      "en_stock": true
-    },
     "masque-milano-times-square-edp-100-ml-regular": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100 ML REGULAR",
       "precio": "99,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST BARUTI DAMA KOUPA EDP 50 ML",
       "precio": "87,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-dama-koupa-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-initio-mystic-experience-edp-90-ml": {
+      "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
       "en_stock": true
     }
   },
@@ -492,12 +492,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-hacivat-extrait-de-parfum-50-mlss.html",
       "en_stock": true
     },
-    "tst-swedoft-cambodian-oud-edp-100-ml": {
-      "nombre": "TST SWEDOFT CAMBODIAN OUD EDP 100 ML",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-swedoft-cambodian-oud-edp-100-ml.html",
-      "en_stock": true
-    },
     "masque-milano-times-square-edp-100-ml-regular": {
       "nombre": "MASQUE MILANO TIMES SQUARE EDP 100 ML REGULAR",
       "precio": "99,00 €",
@@ -760,12 +754,6 @@
       "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP 30 ML REGULAR",
       "precio": "35,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/eight-bob-champs-de-provence-edp-30-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-caron-pour-un-homme-le-soir-edp-125-ml": {
-      "nombre": "TST CARON POUR UN HOMME LE SOIR EDP 125 ML",
-      "precio": "52,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-le-soir-edp-125-ml.html",
       "en_stock": true
     },
     "tst-bdk-sel-d-argent-edp-100-ml": {
@@ -2550,12 +2538,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-men-infinite-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-caron-pour-un-homme-de-caron-edt-125-ml-tst": {
-      "nombre": "TST CARON POUR UN HOMME DE CARON EDT 125 ML TST",
-      "precio": "46,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-de-caron-edt-125-ml-tst.html",
-      "en_stock": true
-    },
     "tst-angel-schlesser-citrus-marino-eau-fraiche-edt-100-ml": {
       "nombre": "TST ANGEL SCHLESSER CITRUS MARINO EAU FRAICHE EDT 100 ML",
       "precio": "19,00 €",
@@ -3024,12 +3006,6 @@
       "nombre": "ISSEY MIYAKE NECTAR D'ISSEY PETALE DE NECTAR EDT 90 ML REGULAR",
       "precio": "28,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/issey-miyake-nectar-d-issey-petale-de-nectar-edt-90-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-swedoft-cambodian-oud-edp-100-ml": {
-      "nombre": "TST SWEDOFT CAMBODIAN OUD EDP 100 ML",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-swedoft-cambodian-oud-edp-100-ml.html",
       "en_stock": true
     },
     "masque-milano-times-square-edp-100-ml-regular": {
@@ -3708,6 +3684,12 @@
       "nombre": "TST GIORGIO ARMANI MY WAY PARFUM 50 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/home/tst-giorgio-armani-my-way-parfum-50-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-oud-edp-180-ml": {
+      "nombre": "TST ACQUA DI PARMA OUD EDP 180 ML",
+      "precio": "159,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-oud-edp-180-ml.html",
       "en_stock": true
     },
     "tst-acqua-di-parma-arancia-di-capri-la-riserva-edp-180-ml": {
