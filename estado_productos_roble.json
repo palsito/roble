@@ -456,6 +456,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "loewe-7-edt-150-ml-regular": {
+      "nombre": "LOEWE 7  EDT 150 ML REGULAR",
+      "precio": "92,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/loewe-7-edt-150-ml-regular.html",
+      "en_stock": true
+    },
+    "loewe-esencia-pour-homme-edt-150-ml-regular": {
+      "nombre": "LOEWE ESENCIA POUR HOMME EDT 150 ML REGULAR",
+      "precio": "95,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/loewe-esencia-pour-homme-edt-150-ml-regular.html",
+      "en_stock": true
+    },
+    "christian-dior-sauvage-edp-100-ml-regular": {
+      "nombre": "CHRISTIAN DIOR SAUVAGE EDP 100 ML REGULAR",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/christian-dior-sauvage-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "baruti-perverso-edp-50-ml-regular": {
       "nombre": "BARUTI PERVERSO EDP 50 ML REGULAR",
       "precio": "93,00 €",
@@ -862,6 +880,12 @@
       "nombre": "TST CALVIN KLEIN CK ONE ESSENCE VIVA LOVE PARFUM INTENSE 100 ML",
       "precio": "25,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-essence-viva-love-parfum-intense-100-ml.html",
+      "en_stock": true
+    },
+    "christian-dior-sauvage-elixir-parfum-concentree-100-ml-regular": {
+      "nombre": "CHRISTIAN DIOR SAUVAGE ELIXIR PARFUM CONCENTREE 100 ML REGULAR",
+      "precio": "168,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/christian-dior-sauvage-elixir-parfum-concentree-100-ml-regular.html",
       "en_stock": true
     },
     "tst-versace-eros-homme-najim-parfum-100-ml": {
@@ -2972,6 +2996,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "loewe-agua-de-loewe-mar-de-coral-edt-150-ml-regulars": {
+      "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT 150 ML REGULAR",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/loewe-agua-de-loewe-mar-de-coral-edt-150-ml-regulars.html",
+      "en_stock": true
+    },
     "tst-christian-dior-miss-dior-edp-100-ml-nuevo-modelo": {
       "nombre": "CHRISTIAN DIOR MISS DIOR EDP 100 ML REGULAR",
       "precio": "95,00 €",
