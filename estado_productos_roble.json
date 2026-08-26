@@ -3404,12 +3404,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-carolina-herrera-very-good-girl-elixir-80-ml": {
-      "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
-      "precio": "76,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-very-good-girl-elixir-80-ml.html",
-      "en_stock": true
-    },
     "tst-borntostandout-mud-edp-50-ml": {
       "nombre": "TST BORNTOSTANDOUT MUD EDP 50 ML",
       "precio": "89,00 €",
@@ -5358,6 +5352,12 @@
       "nombre": "TST MARC JACOBS DAISY EAU SO INTENSE EDP 100 ML",
       "precio": "44,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-daisy-eau-so-intense-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-oud-edp-100-ml": {
+      "nombre": "TST ACQUA DI PARMA OUD EDP 100 ML",
+      "precio": "105,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-oud-edp-100-ml.html",
       "en_stock": true
     },
     "daniel-josier-mystery-oud-edp-100-ml-regular": {
