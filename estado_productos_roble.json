@@ -450,6 +450,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-azzaro-azzaro-the-most-wanted-edt-intense-100-ml": {
+      "nombre": "TST AZZARO AZZARO THE MOST WANTED EDT INTENSE 100 ML",
+      "precio": "42,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-the-most-wanted-edt-intense-100-ml.html",
+      "en_stock": true
+    },
     "tst-fugazzi-parfum-1-exdp-100-ml": {
       "nombre": "TST FUGAZZI PARFUM 1 ExDP 100 ML",
       "precio": "119,00 €",
@@ -1818,6 +1824,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-chrome-parfum-100-ml.html",
       "en_stock": true
     },
+    "tst-azzaro-azzaro-wanted-edp-100-ml": {
+      "nombre": "TST AZZARO AZZARO WANTED EDP 100 ML",
+      "precio": "47,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-wanted-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-dolce-gabbana-k-by-dolce-gabbana-intense-edp-100-ml": {
       "nombre": "TST DOLCE & GABBANA K BY DOLCE & GABBANA INTENSE EDP 100 ML",
       "precio": "57,00 €",
@@ -2170,6 +2182,12 @@
       "nombre": "TST HERMES EAU DE BASILIC POURPRE EDC 100 ML",
       "precio": "42,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-basilic-pourpre-edc-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-terre-d-hermes-eau-givree-edp-100-ml": {
+      "nombre": "TST HERMES TERRE D'HERMES EAU GIVREE EDP 100  ML",
+      "precio": "66,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-eau-givree-edp-100-ml.html",
       "en_stock": true
     },
     "eight-bob-champs-de-provence-edp-100-ml-regular": {
@@ -2560,6 +2578,12 @@
       "nombre": "TST ANGEL SCHLESSER CITRUS POMELO EAU FRAICHE EDT 100 ML",
       "precio": "18,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-angel-schlesser-citrus-pomelo-eau-fraiche-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-azzaro-azzaro-wanted-by-night-edp-100-ml": {
+      "nombre": "TST AZZARO AZZARO WANTED BY NIGHT EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-wanted-by-night-edp-100-ml.html",
       "en_stock": true
     },
     "tst-christian-dior-sauvage-parfum-100-ml": {
