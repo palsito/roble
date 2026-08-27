@@ -1,5 +1,23 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-fugazzi-parfum-1-exdp-100-ml": {
+      "nombre": "TST FUGAZZI PARFUM 1 ExDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-parfum-1-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-fugazzi-orange-crush-exdp-100-ml": {
+      "nombre": "TST FUGAZZI ORANGE CRUSH ExDP 100 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-orange-crush-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-fugazzi-cash-flower-exdp-100-ml": {
+      "nombre": "TST FUGAZZI CASH FLOWER ExDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-cash-flower-exdp-100-ml.html",
+      "en_stock": true
+    },
     "baruti-perverso-edp-50-ml-regular": {
       "nombre": "BARUTI PERVERSO EDP 50 ML REGULAR",
       "precio": "93,00 €",
@@ -52,24 +70,6 @@
       "nombre": "TST NISHANE ANI EXTRAIT DE PARFUM 50 ML",
       "precio": "110,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-ani-extrait-de-parfum-50-mlsss.html",
-      "en_stock": true
-    },
-    "tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml": {
-      "nombre": "TST NAOMI GOODSIR NUIT DE BAKELITE EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-naomi-goodsir-nuit-de-bakelite-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-baruti-dama-koupa-edp-50-ml": {
-      "nombre": "TST BARUTI DAMA KOUPA EDP 50 ML",
-      "precio": "87,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-baruti-dama-koupa-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-initio-mystic-experience-edp-90-ml": {
-      "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
-      "precio": "149,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
       "en_stock": true
     }
   },
@@ -450,6 +450,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-fugazzi-parfum-1-exdp-100-ml": {
+      "nombre": "TST FUGAZZI PARFUM 1 ExDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-parfum-1-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-fugazzi-orange-crush-exdp-100-ml": {
+      "nombre": "TST FUGAZZI ORANGE CRUSH ExDP 100 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-orange-crush-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-fugazzi-cash-flower-exdp-100-ml": {
+      "nombre": "TST FUGAZZI CASH FLOWER ExDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-cash-flower-exdp-100-ml.html",
+      "en_stock": true
+    },
     "loewe-7-edt-150-ml-regular": {
       "nombre": "LOEWE 7  EDT 150 ML REGULAR",
       "precio": "92,00 €",
@@ -2990,6 +3008,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-fugazzi-parfum-1-exdp-100-ml": {
+      "nombre": "TST FUGAZZI PARFUM 1 ExDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-parfum-1-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-fugazzi-orange-crush-exdp-100-ml": {
+      "nombre": "TST FUGAZZI ORANGE CRUSH ExDP 100 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-orange-crush-exdp-100-ml.html",
+      "en_stock": true
+    },
     "tst-fugazzi-cash-flower-exdp-100-ml": {
       "nombre": "TST FUGAZZI CASH FLOWER ExDP 100 ML",
       "precio": "119,00 €",
