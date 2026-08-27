@@ -1506,6 +1506,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-intensa-edc-180-ml.html",
       "en_stock": true
     },
+    "tst-acqua-di-parma-colonia-pura-edc-180-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA PURA EDC 180 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-pura-edc-180-ml.html",
+      "en_stock": true
+    },
     "tst-acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-edt-180-ml": {
       "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO BERGAMOTTO DI CALABRIA EDT...",
       "precio": "79,00 €",
@@ -2670,6 +2676,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-dylan-blue-homme-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-acqua-di-parma-colonia-tonda-edc-100-mll": {
+      "nombre": "TST ACQUA DI PARMA COLONIA EDC 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-tonda-edc-100-mll.html",
+      "en_stock": true
+    },
     "tst-giorgio-armani-acqua-di-gio-absolu-edp-75-ml": {
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIO ABSOLU EDP 75 ML",
       "precio": "89,00 €",
@@ -2680,6 +2692,12 @@
       "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN EDT 100 ML",
       "precio": "27,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-calvin-klein-eternity-for-men-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-colonia-pura-edc-100-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA PURA EDC 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-pura-edc-100-ml.html",
       "en_stock": true
     },
     "tst-carolina-herrera-212-vip-black-men-edp-100-ml-": {
@@ -2972,6 +2990,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-fugazzi-cash-flower-exdp-100-ml": {
+      "nombre": "TST FUGAZZI CASH FLOWER ExDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-cash-flower-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-light-blue-edp-100-ml": {
+      "nombre": "TST DOLCE & GABBANA LIGHT BLUE EDP 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-light-blue-edp-100-ml.html",
+      "en_stock": true
+    },
     "loewe-agua-de-loewe-mar-de-coral-edt-150-ml-regulars": {
       "nombre": "LOEWE AGUA DE LOEWE MAR DE CORAL EDT 150 ML REGULAR",
       "precio": "84,00 €",
@@ -5914,7 +5944,7 @@
     },
     "tst-dolce-gabbana-light-blue-edt-100-ml": {
       "nombre": "TST DOLCE & GABBANA LIGHT BLUE EDT 100 ML",
-      "precio": "53,00 €",
+      "precio": "55,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-light-blue-edt-100-ml.html",
       "en_stock": true
     },
