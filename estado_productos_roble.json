@@ -4250,12 +4250,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mugler-alien-edp-90-ml.html",
       "en_stock": true
     },
-    "tst-carolina-herrera-la-bomba-edp-80-ml": {
-      "nombre": "TST CAROLINA HERRERA LA BOMBA EDP 80 ML",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-la-bomba-edp-80-ml.html",
-      "en_stock": true
-    },
     "tst-angel-schlesser-femme-naturelle-edt-100-ml": {
       "nombre": "TST ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML",
       "precio": "23,00 €",
@@ -6168,6 +6162,12 @@
       "nombre": "TST ACQUA DI PARMA MAGNOLIA NOBILE EDP 100 ML",
       "precio": "82,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-acqua-di-parma-magnolia-nobile-edp-100-ml-.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-rosa-nobile-edp-100-mll": {
+      "nombre": "TST ACQUA DI PARMA ROSA NOBILE EDP 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-acqua-di-parma-rosa-nobile-edp-100-mll.html",
       "en_stock": true
     },
     "tst-hermes-eau-pamplemousse-rose-edc-100-ml-": {
