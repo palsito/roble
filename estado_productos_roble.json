@@ -400,6 +400,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/cacharel-amor-amor-edt-100-ml-regulars.html",
       "en_stock": true
     },
+    "tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml": {
+      "nombre": "TST PACO RABANNE ONE MILLION GOLD FOR HER PARFUM 90 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml.html",
+      "en_stock": true
+    },
     "tst-maison-tahite-velvet-coffee-edp-100-ml": {
       "nombre": "TST MAISON TAHITE VELVET COFFEE EDP 100 ML",
       "precio": "59,00 €",
@@ -452,12 +458,6 @@
       "nombre": "TST DOLCE & GABBANA DEVOTION POUR HOMME PARFUM 100 ML",
       "precio": "66,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-devotion-pour-homme-parfum-100-ml.html",
-      "en_stock": true
-    },
-    "tst-acqua-di-parma-colonia-il-profumo-edp-180-ml": {
-      "nombre": "TST ACQUA DI PARMA COLONIA IL PROFUMO EDP 180 ML",
-      "precio": "159,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-180-ml.html",
       "en_stock": true
     }
   },
@@ -870,6 +870,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-jpg-scandal-pour-homme-elixir-parfum-100-ml": {
+      "nombre": "TST JPG SCANDAL POUR HOMME ELIXIR PARFUM 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-scandal-pour-homme-elixir-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-hugo-boss-boss-bottled-striking-lavender-edp-100-ml": {
       "nombre": "TST HUGO BOSS BOSS BOTTLED STRIKING LAVENDER EDP 100 ML",
       "precio": "49,00 €",
@@ -1126,6 +1132,12 @@
       "nombre": "NEJMA 7 OUD LINE EDP 100 ML REGULAR",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/nejma-7-oud-line-edp-100-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-invictus-victory-absolui-parfum-100-ml": {
+      "nombre": "TST PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-invictus-victory-absolui-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-prada-paradigme-edp-100-ml": {
@@ -1742,7 +1754,7 @@
     },
     "tst-moschino-toy-boy-pearl-edp-100-ml": {
       "nombre": "TST MOSCHINO TOY 2 PEARL EDP 100 ML",
-      "precio": "36,00 €",
+      "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-toy-boy-pearl-edp-100-ml.html",
       "en_stock": true
     },
@@ -2478,6 +2490,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-givenchy-gentleman-boisee-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-moschino-toy-boy-edp-100-ml": {
+      "nombre": "TST MOSCHINO TOY BOY EDP 100 ML",
+      "precio": "37,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-toy-boy-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-calvin-klein-eternity-for-men-edp-100-ml": {
       "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN EDP 100 ML",
       "precio": "28,00 €",
@@ -2724,6 +2742,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-allure-homme-edition-blanche-edp-100-ml-.html",
       "en_stock": true
     },
+    "tst-christian-dior-sauvage-edp-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR SAUVAGE EDP 100 ML",
+      "precio": "85,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-sauvage-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-acqua-di-parma-colonia-pura-edc-100-ml": {
       "nombre": "TST ACQUA DI PARMA COLONIA PURA EDC 100 ML",
       "precio": "56,00 €",
@@ -2750,7 +2774,7 @@
     },
     "tst-carolina-herrera-212-men-edt-100-ml": {
       "nombre": "TST CAROLINA HERRERA 212 MEN EDT 100 ML",
-      "precio": "48,00 €",
+      "precio": "45,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-men-edt-100-ml.html",
       "en_stock": true
     },
@@ -3014,6 +3038,30 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-nina-ricci-nina-edp-80-ml": {
+      "nombre": "TST NINA RICCI NINA EDP 80 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nina-ricci-nina-edp-80-ml.html",
+      "en_stock": true
+    },
+    "tst-rochas-audace-le-parfum-90-ml": {
+      "nombre": "TST ROCHAS AUDACE LE PARFUM 90 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rochas-audace-le-parfum-90-ml.html",
+      "en_stock": true
+    },
+    "tst-moschino-toy-2-edp-100-ml": {
+      "nombre": "TST MOSCHINO TOY 2 EDP 100 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-moschino-toy-2-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-one-million-red-for-her-parfum-90-ml": {
+      "nombre": "TST PACO RABANNE ONE MILLION RED FOR HER PARFUM 90 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-red-for-her-parfum-90-ml.html",
+      "en_stock": true
+    },
     "narciso-rodriguez-for-her-edt-100-ml-regular": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EDT 100 ML REGULAR",
       "precio": "69,00 €",
@@ -3430,7 +3478,7 @@
     },
     "tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml": {
       "nombre": "TST PACO RABANNE ONE MILLION GOLD FOR HER PARFUM 90 ML",
-      "precio": "65,00 €",
+      "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml.html",
       "en_stock": true
     },
@@ -3886,7 +3934,7 @@
     },
     "tst-rochas-audace-edp-90-ml": {
       "nombre": "TST ROCHAS AUDACE EDP 90 ML",
-      "precio": "52,00 €",
+      "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rochas-audace-edp-90-ml.html",
       "en_stock": true
     },
@@ -4066,7 +4114,7 @@
     },
     "tst-mugler-alien-edp-90-ml": {
       "nombre": "TST MUGLER ALIEN EDP 90 ML",
-      "precio": "74,00 €",
+      "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mugler-alien-edp-90-ml.html",
       "en_stock": true
     },
@@ -4438,7 +4486,7 @@
     },
     "tst-paco-rabanne-one-million-gold-for-her-edp-90-ml": {
       "nombre": "TST PACO RABANNE ONE MILLION GOLD FOR HER EDP 90 ML",
-      "precio": "59,00 €",
+      "precio": "55,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-edp-90-ml.html",
       "en_stock": true
     },
@@ -4648,7 +4696,7 @@
     },
     "tst-moschino-toy-boy-pearl-edp-100-ml": {
       "nombre": "TST MOSCHINO TOY 2 PEARL EDP 100 ML",
-      "precio": "36,00 €",
+      "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-toy-boy-pearl-edp-100-ml.html",
       "en_stock": true
     },
