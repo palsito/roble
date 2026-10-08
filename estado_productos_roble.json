@@ -2076,12 +2076,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-masque-milano-l-attesa-edp-35-ml.html",
       "en_stock": true
     },
-    "tst-issey-miyake-l-eau-d-issey-pour-homme-vetiver-edt-intense-100-ml": {
-      "nombre": "TST ISSEY MIYAKE L'EAU D'ISSEY POUR HOMME VETIVER EDT INTENSE...",
-      "precio": "35,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-issey-miyake-l-eau-d-issey-pour-homme-vetiver-edt-intense-100-ml.html",
-      "en_stock": true
-    },
     "tst-jpg-le-male-elixir-absolu-parfum-intense-125-ml": {
       "nombre": "TST JPG LE MALE ELIXIR ABSOLU PARFUM INTENSE 125 ML",
       "precio": "69,00 €",
@@ -2640,12 +2634,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-k-by-dolce-gabbana-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-dolce-gabbana-the-one-for-men-intense-edp-100-ml": {
-      "nombre": "TST DOLCE & GABBANA THE ONE FOR MEN INTENSE EDP 100 ML",
-      "precio": "54,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-the-one-for-men-intense-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-el-ganso-friday-edition-edt-125-ml": {
       "nombre": "TST EL GANSO FRIDAY EDITION EDT 125 ML",
       "precio": "19,00 €",
@@ -2698,6 +2686,12 @@
       "nombre": "TST BVLGARI BLV POUR HOMME EDT 100 ML",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-blv-pour-homme-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-pour-homme-edt-100-ml": {
+      "nombre": "TST PACO RABANNE POUR HOMME EDT 100 ML",
+      "precio": "30,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-pour-homme-edt-100-ml.html",
       "en_stock": true
     },
     "tst-carolina-herrera-bad-boy-edt-100-ml": {
@@ -3464,12 +3458,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jacadi-le-bebe-eau-de-senteur-100-ml.html",
       "en_stock": true
     },
-    "tst-carolina-herrera-good-girl-jasmine-absolute-edp-80-ml": {
-      "nombre": "TST CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80 ML",
-      "precio": "72,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-good-girl-jasmine-absolute-edp-80-ml.html",
-      "en_stock": true
-    },
     "tst-paco-rabanne-olympea-elixir-edp-intense-80-ml": {
       "nombre": "TST PACO RABANNE OLYMPEA ELIXIR EDP INTENSE 80 ML",
       "precio": "69,00 €",
@@ -3962,12 +3950,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-good-girl-bowstatic-edp-80-ml.html",
       "en_stock": true
     },
-    "tst-prada-paradoxe-radical-essence-parfum-90-ml": {
-      "nombre": "TST PRADA PARADOXE RADICAL ESSENCE PARFUM 90 ML",
-      "precio": "75,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-radical-essence-parfum-90-ml.html",
-      "en_stock": true
-    },
     "tst-lorenzo-pazzaglia-carbonara-exdp-50-ml": {
       "nombre": "TST LORENZO PAZZAGLIA CARBONARA ExDP 50 ML",
       "precio": "99,00 €",
@@ -4308,12 +4290,6 @@
       "nombre": "TST CHRISTIAN DIOR MISS DIOR PARFUM 80 ML",
       "precio": "95,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-miss-dior-parfum-80-ml.html",
-      "en_stock": true
-    },
-    "tst-carolina-herrera-212-vip-rose-woman-rodeo-edition-edp-80-ml": {
-      "nombre": "TST CAROLINA HERRERA 212 VIP ROSE WOMAN RODEO EDITION EDP 80 ML",
-      "precio": "50,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-212-vip-rose-woman-rodeo-edition-edp-80-ml.html",
       "en_stock": true
     },
     "tst-m-micallef-ylang-in-gold-edition-speciale-edp-100-mlsss": {
@@ -4926,6 +4902,12 @@
       "nombre": "TST RAMON MONEGAL CHERRY MUSK EDP 100 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-cherry-musk-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-rochas-eau-de-rochas-orange-horizon-edt-100-ml": {
+      "nombre": "TST ROCHAS EAU DE ROCHAS ORANGE HORIZON EDT 100 ML",
+      "precio": "36,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rochas-eau-de-rochas-orange-horizon-edt-100-ml.html",
       "en_stock": true
     },
     "tst-carolina-herrera-212-vip-rose-woman-elixir-edp80-ml": {
@@ -6080,6 +6062,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-scandal-edp-80-ml.html",
       "en_stock": true
     },
+    "tst-jesus-del-pozo-halloween-woman-edt-100-ml": {
+      "nombre": "TST JESUS DEL POZO HALLOWEEN WOMAN EDT 100 ML",
+      "precio": "18,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jesus-del-pozo-halloween-woman-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-clinique-happy-woman-edp-100-ml": {
       "nombre": "TST CLINIQUE HAPPY WOMAN EDP 100 ML",
       "precio": "27,00 €",
@@ -6224,6 +6212,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-zadig-voltaire-zadig-voltaire-this-is-her-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-calvin-klein-euphoria-edp-100-ml": {
+      "nombre": "TST CALVIN KLEIN EUPHORIA EDP 100 ML",
+      "precio": "37,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-euphoria-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-chloe-chloe-edp-75-ml": {
       "nombre": "TST CHLOE CHLOE EDP 75 ML",
       "precio": "57,00 €",
@@ -6282,12 +6276,6 @@
       "nombre": "TST CACHAREL  ANAIS ANAIS L'ORIGINAL EDT 100 ML",
       "precio": "30,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-cacharel-anais-anais-l-original-edt-100-ml.html",
-      "en_stock": true
-    },
-    "tst-chanel-coco-mademoiselle-edp-100-ml": {
-      "nombre": "TST CHANEL COCO MADEMOISELLE EDP 100 ML",
-      "precio": "105,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-coco-mademoiselle-edp-100-ml.html",
       "en_stock": true
     },
     "tst-carolina-herrera-good-girl-zapato-edp-80-ml": {
