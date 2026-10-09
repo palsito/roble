@@ -462,6 +462,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-caron-pour-un-homme-parfum-75-ml": {
+      "nombre": "TST CARON POUR UN HOMME PARFUM 75 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-parfum-75-ml.html",
+      "en_stock": true
+    },
     "tst-paco-rabanne-one-million-black-edp-100-ml": {
       "nombre": "TST PACO RABANNE ONE MILLION BLACK EDP 100 ML",
       "precio": "56,00 €",
@@ -844,6 +850,18 @@
       "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP 30 ML REGULAR",
       "precio": "35,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/eight-bob-champs-de-provence-edp-30-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-caron-pour-un-homme-le-matin-edt-125-ml": {
+      "nombre": "TST CARON POUR UN HOMME LE MATIN EDT 125 ML",
+      "precio": "47,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-le-matin-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-caron-pour-un-homme-le-soir-edp-125-ml": {
+      "nombre": "TST CARON POUR UN HOMME LE SOIR EDP 125 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-le-soir-edp-125-ml.html",
       "en_stock": true
     },
     "tst-bdk-sel-d-argent-edp-100-ml": {
@@ -2632,6 +2650,12 @@
       "nombre": "TST HUGO BOSS BOSS BOTTLED MEN INFINITE EDP 100 ML",
       "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-men-infinite-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-caron-pour-un-homme-de-caron-edt-125-ml-tst": {
+      "nombre": "TST CARON POUR UN HOMME DE CARON EDT 125 ML TST",
+      "precio": "47,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-de-caron-edt-125-ml-tst.html",
       "en_stock": true
     },
     "tst-angel-schlesser-citrus-marino-eau-fraiche-edt-100-ml": {
