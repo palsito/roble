@@ -304,7 +304,7 @@
     },
     "tst-kenzo-amour-edp-100-ml": {
       "nombre": "TST KENZO AMOUR EDP 100 ML",
-      "precio": "49,00 €",
+      "precio": "45,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-kenzo-amour-edp-100-ml.html",
       "en_stock": true
     },
@@ -2796,6 +2796,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-sauvage-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-acqua-di-parma-colonia-essenza-edc-100-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA ESSENZA EDC 100 ML",
+      "precio": "67,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-essenza-edc-100-ml.html",
+      "en_stock": true
+    },
     "tst-acqua-di-parma-colonia-pura-edc-100-ml": {
       "nombre": "TST ACQUA DI PARMA COLONIA PURA EDC 100 ML",
       "precio": "56,00 €",
@@ -3092,6 +3098,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-marc-jacobs-dot-edp-100-ml": {
+      "nombre": "TST MARC JACOBS DOT EDP 100 ML",
+      "precio": "34,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-dot-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-christian-dior-miss-dior-blooming-bouquet-edt-150-ml": {
       "nombre": "TST CHRISTIAN DIOR MISS DIOR BLOOMING BOUQUET EDT 150 ML",
       "precio": "95,00 €",
@@ -6052,7 +6064,7 @@
     },
     "tst-kenzo-amour-edp-100-ml": {
       "nombre": "TST KENZO AMOUR EDP 100 ML",
-      "precio": "49,00 €",
+      "precio": "45,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-kenzo-amour-edp-100-ml.html",
       "en_stock": true
     },
