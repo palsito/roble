@@ -3890,12 +3890,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-shiseido-ginza-datura-edp-90-ml.html",
       "en_stock": true
     },
-    "tst-giorgio-armani-armani-si-parfum-100-ml": {
-      "nombre": "TST GIORGIO ARMANI ARMANI SI PARFUM 100 ML",
-      "precio": "68,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-giorgio-armani-my-way-parfum-50-ml": {
       "nombre": "TST GIORGIO ARMANI MY WAY PARFUM 50 ML",
       "precio": "59,00 €",
@@ -5762,12 +5756,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-la-femme-l-eau-edt-100-ml.html",
       "en_stock": true
     },
-    "tst-jpg-la-belle-edp-100ml": {
-      "nombre": "TST JPG LA BELLE EDP 100ml",
-      "precio": "57,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-la-belle-edp-100ml.html",
-      "en_stock": true
-    },
     "tst-christian-dior-forever-and-ever-edt-100-ml": {
       "nombre": "TST CHRISTIAN DIOR FOREVER AND EVER EDT 100 ML",
       "precio": "79,00 €",
@@ -5850,6 +5838,12 @@
       "nombre": "TST BURBERRY MY BURBERRY BLUSH EDP 90 ML",
       "precio": "53,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-burberry-my-burberry-blush-edp-90-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-19-poudre-edp-100-ml": {
+      "nombre": "TST CHANEL  19 POUDRE EDP 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-19-poudre-edp-100-ml.html",
       "en_stock": true
     },
     "tst-carolina-herrera-carolina-herrera-clasica-edp-100-ml-": {
