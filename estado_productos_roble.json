@@ -462,6 +462,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "christian-dior-homme-parfum-125-ml-regular": {
+      "nombre": "CHRISTIAN DIOR HOMME PARFUM 125 ML REGULAR",
+      "precio": "129,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/christian-dior-homme-parfum-125-ml-regular.html",
+      "en_stock": true
+    },
+    "christian-dior-fahrenheit-parfum-75-ml-regular": {
+      "nombre": "CHRISTIAN DIOR FAHRENHEIT PARFUM 75 ML REGULAR",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/christian-dior-fahrenheit-parfum-75-ml-regular.html",
+      "en_stock": true
+    },
     "tst-caron-pour-un-homme-parfum-75-ml": {
       "nombre": "TST CARON POUR UN HOMME PARFUM 75 ML",
       "precio": "59,00 €",
@@ -946,6 +958,12 @@
       "nombre": "TST CALVIN KLEIN CK ONE ESSENCE VIVA LOVE PARFUM INTENSE 100 ML",
       "precio": "25,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-essence-viva-love-parfum-intense-100-ml.html",
+      "en_stock": true
+    },
+    "christian-dior-sauvage-elixir-parfum-concentree-100-ml-regular": {
+      "nombre": "CHRISTIAN DIOR SAUVAGE ELIXIR PARFUM CONCENTREE 100 ML REGULAR",
+      "precio": "168,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/christian-dior-sauvage-elixir-parfum-concentree-100-ml-regular.html",
       "en_stock": true
     },
     "tst-versace-eros-homme-najim-parfum-100-ml": {
@@ -2572,6 +2590,12 @@
       "nombre": "TST DOLCE & GABBANA K BY DOLCE & GABBANA EDP 100 ML",
       "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-k-by-dolce-gabbana-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-chanel-bleu-parfum-100-ml": {
+      "nombre": "TST CHANEL BLEU PARFUM 100 ML",
+      "precio": "105,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-bleu-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-el-ganso-friday-edition-edt-125-ml": {
