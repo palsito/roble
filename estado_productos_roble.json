@@ -462,6 +462,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "christian-dior-homme-intense-edp-150-ml-regular": {
+      "nombre": "CHRISTIAN DIOR HOMME INTENSE EDP 150 ML REGULAR",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/christian-dior-homme-intense-edp-150-ml-regular.html",
+      "en_stock": true
+    },
     "christian-dior-homme-parfum-125-ml-regular": {
       "nombre": "CHRISTIAN DIOR HOMME PARFUM 125 ML REGULAR",
       "precio": "129,00 €",
@@ -1728,12 +1734,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/lunio-neroli-nostrum-edp-100-ml-regular.html",
       "en_stock": true
     },
-    "tst-ramon-monegal-soul-of-oud-edp-100-ml": {
-      "nombre": "TST RAMON MONEGAL SOUL OF OUD EDP 100 ML",
-      "precio": "179,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-soul-of-oud-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-mugler-a-men-fantasm-edp-sensuelle-100-ml": {
       "nombre": "TST MUGLER A MEN FANTASM EDP SENSUELLE 100 ML",
       "precio": "49,00 €",
@@ -1780,12 +1780,6 @@
       "nombre": "TST MOSCHINO TOY 2 PEARL EDP 100 ML",
       "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-toy-boy-pearl-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-ramon-monegal-ole-edp-100-mlf": {
-      "nombre": "TST RAMON MONEGAL OLE EDP 100 ML",
-      "precio": "149,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-ole-edp-100-mlf.html",
       "en_stock": true
     },
     "thauy-nakth-edp-100-ml-regular-nueva-presentacion": {
@@ -4634,12 +4628,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/lunio-neroli-nostrum-edp-100-ml-regular.html",
       "en_stock": true
     },
-    "tst-ramon-monegal-soul-of-oud-edp-100-ml": {
-      "nombre": "TST RAMON MONEGAL SOUL OF OUD EDP 100 ML",
-      "precio": "179,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-soul-of-oud-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-hermes-barenia-edp-100-ml": {
       "nombre": "TST HERMES BARENIA EDP 100 ML",
       "precio": "79,00 €",
@@ -4734,12 +4722,6 @@
       "nombre": "TST LANCOME IDOLE L'EAU DE PARFUM 50 ML",
       "precio": "45,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-idole-l-eau-de-parfum-50-ml.html",
-      "en_stock": true
-    },
-    "tst-ramon-monegal-ole-edp-100-mlf": {
-      "nombre": "TST RAMON MONEGAL OLE EDP 100 ML",
-      "precio": "149,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-ole-edp-100-mlf.html",
       "en_stock": true
     },
     "tst-carolina-herrera-212-vip-woman-wins-edicion-especial-edp-80-ml": {
