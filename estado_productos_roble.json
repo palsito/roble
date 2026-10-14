@@ -74,6 +74,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
+    "guerlain-shalimar-edp-90-ml-regular": {
+      "nombre": "GUERLAIN SHALIMAR EDP 90 ML REGULAR",
+      "precio": "86,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/guerlain-shalimar-edp-90-ml-regular.html",
+      "en_stock": true
+    },
     "tst-bvlgari-aqua-marine-pour-homme-edt-50-ml": {
       "nombre": "TST BVLGARI AQUA MARINE POUR HOMME EDT 50 ML",
       "precio": "42,00 €",
@@ -3086,6 +3092,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "guerlain-shalimar-edp-90-ml-regular": {
+      "nombre": "GUERLAIN SHALIMAR EDP 90 ML REGULAR",
+      "precio": "86,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/guerlain-shalimar-edp-90-ml-regular.html",
+      "en_stock": true
+    },
     "tst-marc-jacobs-dot-edp-100-ml": {
       "nombre": "TST MARC JACOBS DOT EDP 100 ML",
       "precio": "34,00 €",
