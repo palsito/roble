@@ -468,6 +468,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "dolce-gabbana-pour-homme-edt-125-ml-regular": {
+      "nombre": "DOLCE & GABBANA POUR HOMME EDT 125 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/dolce-gabbana-pour-homme-edt-125-ml-regular.html",
+      "en_stock": true
+    },
     "christian-dior-homme-intense-edp-150-ml-regular": {
       "nombre": "CHRISTIAN DIOR HOMME INTENSE EDP 150 ML REGULAR",
       "precio": "119,00 €",
@@ -3038,6 +3044,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-guerlain-shalimar-souffle-de-parfum-90-ml": {
+      "nombre": "TST GUERLAIN SHALIMAR SOUFFLE DE PARFUM 90 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-shalimar-souffle-de-parfum-90-ml.html",
+      "en_stock": true
+    },
     "guerlain-shalimar-edp-90-ml-regular": {
       "nombre": "GUERLAIN SHALIMAR EDP 90 ML REGULAR",
       "precio": "86,00 €",
