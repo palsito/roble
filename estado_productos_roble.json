@@ -1584,12 +1584,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-edc-180-ml.html",
       "en_stock": true
     },
-    "tst-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-100-ml": {
-      "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO MIRTO DI PANAREA EDT 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-acqua-di-parma-blu-mediterraneo-mandorlo-di-sicilia-edt-100-ml": {
       "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO MANDORLO DI SICILIA EDT...",
       "precio": "59,00 €",
@@ -4358,12 +4352,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-blu-mediterraneo-mandarino-di-sicilia-edt-180-ml.html",
       "en_stock": true
     },
-    "tst-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-100-ml": {
-      "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO MIRTO DI PANAREA EDT 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-acqua-di-parma-blu-mediterraneo-mandorlo-di-sicilia-edt-100-ml": {
       "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO MANDORLO DI SICILIA EDT...",
       "precio": "59,00 €",
@@ -5874,6 +5862,12 @@
       "nombre": "TST SISLEY IZIA EDP 100 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-izia-edp-100-ml-.html",
+      "en_stock": true
+    },
+    "tst-elie-saab-girl-of-now-shine-edp-90-ml": {
+      "nombre": "TST ELIE SAAB GIRL OF NOW SHINE EDP 90 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elie-saab-girl-of-now-shine-edp-90-ml.html",
       "en_stock": true
     },
     "tst-carolina-herrera-212-woman-edt-60-ml-": {
