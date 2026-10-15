@@ -1,5 +1,11 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-tom-ford-fucking-fabulous-edp-50-ml": {
+      "nombre": "TST TOM FORD FUCKING FABULOUS EDP 50 ML",
+      "precio": "195,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tom-ford-fucking-fabulous-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-fugazzi-parfum-1-exdp-100-ml": {
       "nombre": "TST FUGAZZI PARFUM 1 ExDP 100 ML",
       "precio": "119,00 €",
@@ -64,12 +70,6 @@
       "nombre": "TST INITIO MYSTIC EXPERIENCE EDP 90 ML",
       "precio": "149,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-mystic-experience-edp-90-ml.html",
-      "en_stock": true
-    },
-    "tst-initio-magnetic-blend-7-edp-90-ml": {
-      "nombre": "TST INITIO MAGNETIC BLEND 7 EDP 90 ML",
-      "precio": "139,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-magnetic-blend-7-edp-90-ml.html",
       "en_stock": true
     }
   },
@@ -474,6 +474,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-tom-ford-fucking-fabulous-edp-50-ml": {
+      "nombre": "TST TOM FORD FUCKING FABULOUS EDP 50 ML",
+      "precio": "195,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tom-ford-fucking-fabulous-edp-50-ml.html",
+      "en_stock": true
+    },
     "dolce-gabbana-pour-homme-edt-125-ml-regular": {
       "nombre": "DOLCE & GABBANA POUR HOMME EDT 125 ML REGULAR",
       "precio": "54,00 €",
@@ -1404,6 +1410,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-k-by-dolce-gabbana-parfum-100-ml.html",
       "en_stock": true
     },
+    "tst-tom-ford-oud-minerale-edp-100-ml": {
+      "nombre": "TST TOM FORD OUD MINERALE EDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-oud-minerale-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-armani-prive-magenta-tanzanite-edp-100-ml": {
       "nombre": "TST ARMANI PRIVE MAGENTA TANZANITE EDP 100 ML",
       "precio": "184,00 €",
@@ -1744,6 +1756,12 @@
       "nombre": "THAUY NAKTH EDP 100 ML REGULAR NUEVA PRESENTACION",
       "precio": "78,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/thauy-nakth-edp-100-ml-regular-nueva-presentacion.html",
+      "en_stock": true
+    },
+    "tst-tom-ford-tobacco-vanille-edp-50-ml": {
+      "nombre": "TST TOM FORD TOBACCO VANILLE EDP 50 ML",
+      "precio": "165,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-tobacco-vanille-edp-50-ml.html",
       "en_stock": true
     },
     "tst-mancera-red-tobacco-intense-edp-120-ml": {
@@ -3062,6 +3080,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-tom-ford-fucking-fabulous-edp-50-ml": {
+      "nombre": "TST TOM FORD FUCKING FABULOUS EDP 50 ML",
+      "precio": "195,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tom-ford-fucking-fabulous-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-guerlain-shalimar-cologne-edt-90-ml": {
       "nombre": "TST GUERLAIN SHALIMAR COLOGNE EDT 90 ML",
       "precio": "79,00 €",
@@ -4112,6 +4136,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-eternity-woman-intense-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-tom-ford-oud-minerale-edp-100-ml": {
+      "nombre": "TST TOM FORD OUD MINERALE EDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-oud-minerale-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-armani-prive-magenta-tanzanite-edp-100-ml": {
       "nombre": "TST ARMANI PRIVE MAGENTA TANZANITE EDP 100 ML",
       "precio": "184,00 €",
@@ -4674,6 +4704,12 @@
       "nombre": "TST GUERLAIN AQUA ALLEGORIA OUD YUZU FORTE EDP 125 ML",
       "precio": "64,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-oud-yuzu-forte-edp-125-ml.html",
+      "en_stock": true
+    },
+    "tst-tom-ford-tobacco-vanille-edp-50-ml": {
+      "nombre": "TST TOM FORD TOBACCO VANILLE EDP 50 ML",
+      "precio": "165,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-tobacco-vanille-edp-50-ml.html",
       "en_stock": true
     },
     "tst-mancera-red-tobacco-intense-edp-120-ml": {
