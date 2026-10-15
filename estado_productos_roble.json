@@ -3584,12 +3584,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jimmy-choo-i-want-choo-with-love-edp-125-ml.html",
       "en_stock": true
     },
-    "tst-guerlain-aqua-allegoria-rosa-palissandro-forte-edp-125-ml": {
-      "nombre": "TST GUERLAIN AQUA ALLEGORIA ROSA PALISSANDRO FORTE EDP 125 ML",
-      "precio": "67,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-rosa-palissandro-forte-edp-125-ml.html",
-      "en_stock": true
-    },
     "tst-miu-miu-miutine-edp-100-ml": {
       "nombre": "TST MIU MIU MIUTINE EDP 100 ML",
       "precio": "74,00 €",
@@ -6306,6 +6300,12 @@
       "nombre": "TST ESTEE LAUDER KNOWING EDP 75 ML",
       "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-estee-lauder-knowing-edp-75-ml.html",
+      "en_stock": true
+    },
+    "tst-givenchy-ange-ou-demon-le-secret-edp-100-ml-tst": {
+      "nombre": "TST GIVENCHY ANGE OU DEMON LE SECRET EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-givenchy-ange-ou-demon-le-secret-edp-100-ml-tst.html",
       "en_stock": true
     },
     "tst-gucci-bamboo-edp-75-ml-tst": {
