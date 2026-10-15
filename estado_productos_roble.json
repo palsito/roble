@@ -74,6 +74,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
+    "tst-guerlain-shalimar-cologne-edt-90-ml": {
+      "nombre": "TST GUERLAIN SHALIMAR COLOGNE EDT 90 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-shalimar-cologne-edt-90-ml.html",
+      "en_stock": true
+    },
     "guerlain-shalimar-edp-90-ml-regular": {
       "nombre": "GUERLAIN SHALIMAR EDP 90 ML REGULAR",
       "precio": "86,00 €",
@@ -2928,6 +2934,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-edt-100-ml-tst.html",
       "en_stock": true
     },
+    "tst-guerlain-guerlain-homme-edt-80-ml-tst": {
+      "nombre": "TST GUERLAIN GUERLAIN HOMME EDT 80 ML",
+      "precio": "48,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-guerlain-homme-edt-80-ml-tst.html",
+      "en_stock": true
+    },
     "tst-hermes-caleche-soie-de-parfum-edp-100-ml-tst": {
       "nombre": "TST HERMES CALECHE SOIE DE PARFUM EDP 100 ML",
       "precio": "63,00 €",
@@ -3044,6 +3056,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-guerlain-shalimar-cologne-edt-90-ml": {
+      "nombre": "TST GUERLAIN SHALIMAR COLOGNE EDT 90 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-shalimar-cologne-edt-90-ml.html",
+      "en_stock": true
+    },
     "tst-guerlain-shalimar-souffle-de-parfum-90-ml": {
       "nombre": "TST GUERLAIN SHALIMAR SOUFFLE DE PARFUM 90 ML",
       "precio": "79,00 €",
@@ -4808,6 +4826,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-liquides-imaginaires-desert-suave-edp-100-ml-.html",
       "en_stock": true
     },
+    "tst-guerlain-samsara-edp-75-ml": {
+      "nombre": "TST GUERLAIN SAMSARA EDP 75 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-samsara-edp-75-ml.html",
+      "en_stock": true
+    },
     "tst-tous-love-me-emerald-elixir-90-ml": {
       "nombre": "TST TOUS LOVE ME EMERALD ELIXIR 90 ML",
       "precio": "47,00 €",
@@ -5424,6 +5448,12 @@
       "nombre": "TST LOEWE AIRE EDT 100 ML",
       "precio": "52,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-aire-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-l-ombre-des-merveilles-edp-100-ml": {
+      "nombre": "TST HERMES L'OMBRE DES MERVEILLES EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-l-ombre-des-merveilles-edp-100-ml.html",
       "en_stock": true
     },
     "tst-guerlain-aqua-allegoria-rosa-rossa-edt-125-ml": {
@@ -6078,6 +6108,12 @@
       "nombre": "TST LOEWE  AGUA DE LOEWE ELLA EDT 100 ML",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-agua-de-loewe-ella-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-guerlain-aqua-allegoria-mandarine-basilic-edt-125-ml": {
+      "nombre": "TST GUERLAIN AQUA ALLEGORIA MANDARINE BASILIC EDT  125 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-mandarine-basilic-edt-125-ml.html",
       "en_stock": true
     },
     "tst-chanel-numero-5-edt-100-ml": {
