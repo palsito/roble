@@ -140,12 +140,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-capri-in-love-edt-100-ml.html",
       "en_stock": true
     },
-    "miller-harris-figue-amere-edp-100-ml-regular": {
-      "nombre": "MILLER HARRIS FIGUE AMERE EDP 100 ML REGULAR",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/miller-harris-figue-amere-edp-100-ml-regular.html",
-      "en_stock": true
-    },
     "tst-loewe-aura-sport-edp-120-ml": {
       "nombre": "TST LOEWE AURA SPORT EDP 120 ML",
       "precio": "59,00 €",
@@ -1492,24 +1486,6 @@
       "nombre": "TST BOND NO.9 PARK AVENUE SOUTH EDP 100 ML",
       "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-park-avenue-south-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-miller-harris-coeur-de-jardin-edp-100-ml": {
-      "nombre": "TST MILLER HARRIS COEUR DE JARDIN EDP 100 ML",
-      "precio": "39,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-miller-harris-coeur-de-jardin-edp-100-ml.html",
-      "en_stock": true
-    },
-    "miller-harris-figue-amere-edp-100-ml-regular": {
-      "nombre": "MILLER HARRIS FIGUE AMERE EDP 100 ML REGULAR",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/miller-harris-figue-amere-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-starck-peau-d-ailleurs-edt-90-ml": {
-      "nombre": "TST STARCK PEAU D'AILLEURS EDT 90 ML",
-      "precio": "29,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-starck-peau-d-ailleurs-edt-90-ml.html",
       "en_stock": true
     },
     "tst-tom-ford-black-orchid-parfum-100-ml": {
@@ -4250,34 +4226,16 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-givenchy-ysatis-edt-100-mls.html",
       "en_stock": true
     },
-    "tst-miller-harris-coeur-de-jardin-edp-100-ml": {
-      "nombre": "TST MILLER HARRIS COEUR DE JARDIN EDP 100 ML",
-      "precio": "39,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-miller-harris-coeur-de-jardin-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-gucci-flora-gorgeous-magnolia-edp-100-ml": {
       "nombre": "TST GUCCI FLORA GORGEOUS MAGNOLIA EDP 100 ML",
       "precio": "63,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-flora-gorgeous-magnolia-edp-100-ml.html",
       "en_stock": true
     },
-    "miller-harris-figue-amere-edp-100-ml-regular": {
-      "nombre": "MILLER HARRIS FIGUE AMERE EDP 100 ML REGULAR",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/miller-harris-figue-amere-edp-100-ml-regular.html",
-      "en_stock": true
-    },
     "tst-starck-peau-de-soie-edt-90-mls": {
       "nombre": "TST STARCK PEAU DE SOIE EDT 90 ML",
       "precio": "29,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-starck-peau-de-soie-edt-90-mls.html",
-      "en_stock": true
-    },
-    "tst-starck-peau-d-ailleurs-edt-90-ml": {
-      "nombre": "TST STARCK PEAU D'AILLEURS EDT 90 ML",
-      "precio": "29,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-starck-peau-d-ailleurs-edt-90-ml.html",
       "en_stock": true
     },
     "tst-bvlgari-omnia-crystalline-edt-100-ml": {
@@ -4994,6 +4952,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-masque-milano-l-attesa-edp-35-ml.html",
       "en_stock": true
     },
+    "tst-elie-saab-le-parfum-bridal-edp-90-ml": {
+      "nombre": "TST ELIE SAAB LE PARFUM BRIDAL EDP 90 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elie-saab-le-parfum-bridal-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-elie-saab-girl-of-now-lovely-edp-90-ml": {
       "nombre": "TST ELIE SAAB GIRL OF NOW LOVELY EDP 90 ML",
       "precio": "49,00 €",
@@ -5498,6 +5462,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-splendid-orange-blossom-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-christian-dior-j-adore-infinissime-edp-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR J'ADORE INFINISSIME EDP 100 ML",
+      "precio": "83,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-j-adore-infinissime-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-armand-basi-scent-of-kiss-my-heart-edt-50-ml": {
       "nombre": "TST ARMAND BASI SCENT OF KISS MY HEART EDT 50 ML",
       "precio": "9,00 €",
@@ -5568,6 +5538,12 @@
       "nombre": "TST TRUSSARDI SOUND OF DONNA EDP 100 ML",
       "precio": "27,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-trussardi-sound-of-donna-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-elie-saab-le-parfum-royal-edp-90-ml": {
+      "nombre": "TST ELIE SAAB LE PARFUM ROYAL EDP 90 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elie-saab-le-parfum-royal-edp-90-ml.html",
       "en_stock": true
     },
     "tst-angel-schlesser-citrus-marino-eau-fraiche-edt-100-ml": {
