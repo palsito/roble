@@ -1008,12 +1008,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-botanicae-en-route-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-paco-rabanne-one-million-gold-elixir-100-ml": {
-      "nombre": "TST PACO RABANNE ONE MILLION GOLD ELIXIR 100 ML",
-      "precio": "65,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-one-million-gold-elixir-100-ml.html",
-      "en_stock": true
-    },
     "pantheon-roma-notte-d-amore-exdp-50-ml-regular": {
       "nombre": "PANTHEON ROMA NOTTE D'AMORE ExDP 50 ML REGULAR",
       "precio": "79,00 €",
@@ -2256,6 +2250,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/daniel-josier-josune-edp-100-ml-regular.html",
       "en_stock": true
     },
+    "daniel-josier-le-musk-edp-100-ml-regular": {
+      "nombre": "DANIEL JOSIER LE MUSK EDP 100 ML REGULAR",
+      "precio": "78,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/daniel-josier-le-musk-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-nishane-karagoz-extrait-de-parfum-50-ml": {
       "nombre": "TST NISHANE KARAGOZ EXTRAIT DE PARFUM 50 ML",
       "precio": "119,00 €",
@@ -2332,12 +2332,6 @@
       "nombre": "CHOPARD POUR HOMME EDT 75 ML REGULAR",
       "precio": "32,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/chopard-pour-homme-edt-75-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-tous-man-edt-100-ml": {
-      "nombre": "TST TOUS MAN EDT 100 ML",
-      "precio": "22,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tous-man-edt-100-ml.html",
       "en_stock": true
     },
     "tst-azzaro-azzaro-pour-homme-intense-edp-100-ml": {
@@ -2680,12 +2674,6 @@
       "nombre": "TST CAROLINA HERRERA 212 VIP BLACK MEN EDP 100 ML",
       "precio": "53,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-vip-black-men-edp-100-ml-.html",
-      "en_stock": true
-    },
-    "tst-armand-basi-basi-homme-rectangular-edt-125-ml": {
-      "nombre": "TST ARMAND BASI BASI HOMME RECTANGULAR  EDT 125 ML",
-      "precio": "21,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-armand-basi-basi-homme-rectangular-edt-125-ml.html",
       "en_stock": true
     },
     "tst-jpg-ultramale-edt-125-ml-": {
