@@ -450,6 +450,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-yves-saint-laurent-y-for-men-iced-cologne-edt-intense-100-ml": {
+      "nombre": "TST YVES SAINT LAURENT Y FOR MEN ICED COLOGNE EDT INTENSE 100 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-yves-saint-laurent-y-for-men-iced-cologne-edt-intense-100-ml.html",
+      "en_stock": true
+    },
     "tst-prada-paradigme-le-parfum-edp-100-ml": {
       "nombre": "TST PRADA PARADIGME LE PARFUM EDP 100 ML",
       "precio": "77,00 €",
@@ -1770,6 +1776,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-solo-loewe-vulcan-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-jpg-le-beau-paradise-garden-edp-125-ml-": {
+      "nombre": "TST JPG LE BEAU PARADISE GARDEN EDP 125 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-beau-paradise-garden-edp-125-ml-.html",
+      "en_stock": true
+    },
     "tst-calvin-klein-eternity-for-men-aromatics-essence-edp-100-ml": {
       "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN AROMATICS ESSENCE EDP 100 ML",
       "precio": "30,00 €",
@@ -2562,6 +2574,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-wood-essence-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-yves-saint-laurent-y-for-men-edp-100-ml": {
+      "nombre": "TST YVES SAINT LAURENT Y FOR MEN  EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-yves-saint-laurent-y-for-men-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-burberry-mr-burberry-edp-100-ml": {
       "nombre": "TST BURBERRY MR. BURBERRY EDP 100 ML",
       "precio": "44,00 €",
@@ -3306,6 +3324,12 @@
       "nombre": "TST JACADI LE BEBE EAU DE SENTEUR 100 ML",
       "precio": "22,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jacadi-le-bebe-eau-de-senteur-100-ml.html",
+      "en_stock": true
+    },
+    "tst-jpg-divine-couture-edp-100-ml": {
+      "nombre": "TST JPG DIVINE COUTURE EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-divine-couture-edp-100-ml.html",
       "en_stock": true
     },
     "tst-paco-rabanne-olympea-elixir-edp-intense-80-ml": {
