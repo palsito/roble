@@ -684,6 +684,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tom-ford-neroli-portofino-edp-50-ml-regular.html",
       "en_stock": true
     },
+    "tst-carolina-herrera-212-men-parfum-100-ml": {
+      "nombre": "TST CAROLINA HERRERA 212 MEN PARFUM 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-men-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-jpg-le-beau-narcisse-edp-125-ml": {
       "nombre": "TST JPG LE BEAU NARCISSE EDP 125 ML",
       "precio": "64,00 €",
@@ -2972,6 +2978,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-carolina-herrera-la-bomba-intensa-edp-80-ml": {
+      "nombre": "TST CAROLINA HERRERA LA BOMBA INTENSA EDP 80 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-la-bomba-intensa-edp-80-ml.html",
+      "en_stock": true
+    },
     "tst-giorgio-armani-armani-si-nude-bloom-edp-100-ml": {
       "nombre": "TST GIORGIO ARMANI ARMANI SI NUDE BLOOM EDP 100 ML",
       "precio": "69,00 €",
@@ -3426,6 +3438,12 @@
       "nombre": "TST BDK SEL D'ARGENT EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-bdk-sel-d-argent-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-lancome-idole-peach-n-roses-l-eau-de-parfum-fruitee-100-ml": {
+      "nombre": "TST LANCOME IDOLE PEACH N'ROSES L'EAU DE PARFUM FRUITEE 100 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-idole-peach-n-roses-l-eau-de-parfum-fruitee-100-ml.html",
       "en_stock": true
     },
     "tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml": {
@@ -4086,6 +4104,12 @@
       "nombre": "TST BURBERRY HERO PARFUM INTENSE 100 ML",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-burberry-hero-parfum-intense-100-ml.html",
+      "en_stock": true
+    },
+    "tst-carolina-herrera-la-bomba-edp-80-ml": {
+      "nombre": "TST CAROLINA HERRERA LA BOMBA EDP 80 ML",
+      "precio": "73,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-la-bomba-edp-80-ml.html",
       "en_stock": true
     },
     "tst-angel-schlesser-femme-naturelle-edt-100-ml": {
