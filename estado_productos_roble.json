@@ -450,6 +450,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-calvin-klein-eternity-for-men-suede-essence-parfum-intense-100-ml": {
+      "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN SUEDE ESSENCE PARFUM INTENSE...",
+      "precio": "35,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-calvin-klein-eternity-for-men-suede-essence-parfum-intense-100-ml.html",
+      "en_stock": true
+    },
     "tst-yves-saint-laurent-y-for-men-iced-cologne-edt-intense-100-ml": {
       "nombre": "TST YVES SAINT LAURENT Y FOR MEN ICED COLOGNE EDT INTENSE 100 ML",
       "precio": "53,00 €",
@@ -2966,6 +2972,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-giorgio-armani-armani-si-nude-bloom-edp-100-ml": {
+      "nombre": "TST GIORGIO ARMANI ARMANI SI NUDE BLOOM EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-nude-bloom-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-borntostandout-drunk-lovers-edp-50-ml": {
       "nombre": "TST BORNTOSTANDOUT DRUNK LOVERS EDP 50 ML",
       "precio": "114,00 €",
