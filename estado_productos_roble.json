@@ -450,6 +450,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-giorgio-armani-i-will-edp-100-ml": {
+      "nombre": "TST GIORGIO ARMANI I WILL EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-i-will-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-calvin-klein-eternity-for-men-suede-essence-parfum-intense-100-ml": {
       "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN SUEDE ESSENCE PARFUM INTENSE...",
       "precio": "35,00 €",
@@ -1512,6 +1518,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-park-avenue-south-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-tom-ford-ombre-leather-edp-100-ml": {
+      "nombre": "TST TOM FORD OMBRE LEATHER EDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-ombre-leather-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-tom-ford-black-orchid-parfum-100-ml": {
       "nombre": "TST TOM FORD BLACK ORCHID PARFUM 100 ML",
       "precio": "134,00 €",
@@ -1732,6 +1744,12 @@
       "nombre": "THAUY NAKTH EDP 100 ML REGULAR NUEVA PRESENTACION",
       "precio": "78,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/thauy-nakth-edp-100-ml-regular-nueva-presentacion.html",
+      "en_stock": true
+    },
+    "tst-tom-ford-ombre-leather-parfum-100-ml": {
+      "nombre": "TST TOM FORD OMBRE LEATHER PARFUM 100 ML",
+      "precio": "135,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-ombre-leather-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-mancera-red-tobacco-intense-edp-120-ml": {
