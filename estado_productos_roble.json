@@ -368,6 +368,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-212-vip-club-edition-woman-edt-80-mls.html",
       "en_stock": true
     },
+    "tst-paco-rabanne-calandre-edt-100-ml-tst": {
+      "nombre": "TST PACO RABANNE CALANDRE EDT 100 ML",
+      "precio": "45,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-calandre-edt-100-ml-tst.html",
+      "en_stock": true
+    },
     "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
       "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
       "precio": "44,00 €",
@@ -960,6 +966,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-dgaf-edp-50-ml.html",
       "en_stock": true
     },
+    "tst-mugler-a-men-stellar-edp-lumineuse-100-ml": {
+      "nombre": "TST MUGLER A MEN STELLAR EDP LUMINEUSE 100 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-mugler-a-men-stellar-edp-lumineuse-100-ml.html",
+      "en_stock": true
+    },
     "tst-dolce-gabbana-the-one-for-men-parfum-100-ml": {
       "nombre": "TST DOLCE & GABBANA THE ONE FOR MEN PARFUM 100 ML",
       "precio": "69,00 €",
@@ -1330,6 +1342,12 @@
       "nombre": "TST ACQUA DI PARMA MAGNOLIA INFINITA EDP 180 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-acqua-di-parma-magnolia-infinita-edp-180-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-colonia-il-profumo-edp-180-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA IL PROFUMO EDP 180 ML",
+      "precio": "169,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-il-profumo-edp-180-ml.html",
       "en_stock": true
     },
     "tst-mandarina-duck-mandariners-for-him-edt-100-ml": {
@@ -2052,6 +2070,18 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-l-eau-revee-d-isa-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-sisley-l-eau-revee-d-aria-edt-100-ml": {
+      "nombre": "TST SISLEY L'EAU REVEE D'ARIA EDT 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-l-eau-revee-d-aria-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-sisley-l-eau-revee-d-alma-edt-100-ml": {
+      "nombre": "TST SISLEY L'EAU REVEE D'ALMA EDT 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-l-eau-revee-d-alma-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-giorgio-armani-armani-code-parfum-75-ml": {
       "nombre": "TST GIORGIO ARMANI ARMANI CODE PARFUM 75 ML",
       "precio": "62,00 €",
@@ -2356,6 +2386,12 @@
       "nombre": "TST RALPH LAUREN POLO DEEP BLUE  PARFUM 125 ML",
       "precio": "53,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-deep-blue-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-givenchy-gentleman-edt-intense-100-ml": {
+      "nombre": "TST GIVENCHY GENTLEMAN EDT INTENSE 100  ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-givenchy-gentleman-edt-intense-100-ml.html",
       "en_stock": true
     },
     "tst-loewe-pour-homme-edt-100-ml-nuevo-formato": {
