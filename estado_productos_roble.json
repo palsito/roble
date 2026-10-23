@@ -1584,6 +1584,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-edc-180-ml.html",
       "en_stock": true
     },
+    "tst-acqua-di-parma-colonia-club-edc-180-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA C.L.U.B EDC 180 ML",
+      "precio": "82,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-club-edc-180-ml.html",
+      "en_stock": true
+    },
     "tst-acqua-di-parma-blu-mediterraneo-mandorlo-di-sicilia-edt-100-ml": {
       "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO MANDORLO DI SICILIA EDT...",
       "precio": "59,00 €",
@@ -4352,6 +4358,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-el-ganso-hey-sunshine-edt-125-ml.html",
       "en_stock": true
     },
+    "tst-acqua-di-parma-colonia-club-edc-180-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA C.L.U.B EDC 180 ML",
+      "precio": "82,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-club-edc-180-ml.html",
+      "en_stock": true
+    },
     "tst-acqua-di-parma-blu-mediterraneo-mandorlo-di-sicilia-edt-100-ml": {
       "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO MANDORLO DI SICILIA EDT...",
       "precio": "59,00 €",
@@ -5046,6 +5058,18 @@
       "nombre": "TST SISLEY L'EAU REVEE D'ISA EDT 100 ML",
       "precio": "55,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-l-eau-revee-d-isa-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-sisley-l-eau-revee-d-aria-edt-100-ml": {
+      "nombre": "TST SISLEY L'EAU REVEE D'ARIA EDT 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-l-eau-revee-d-aria-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-sisley-l-eau-revee-d-alma-edt-100-ml": {
+      "nombre": "TST SISLEY L'EAU REVEE D'ALMA EDT 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-l-eau-revee-d-alma-edt-100-ml.html",
       "en_stock": true
     },
     "tst-givenchy-l-interdit-rouge-edp-80-ml": {
@@ -6390,6 +6414,12 @@
       "nombre": "TST NINA RICCI  NINA EDT 80 ML",
       "precio": "42,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nina-ricci-nina-edt-80-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-calandre-edt-100-ml-tst": {
+      "nombre": "TST PACO RABANNE CALANDRE EDT 100 ML",
+      "precio": "45,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-calandre-edt-100-ml-tst.html",
       "en_stock": true
     },
     "tst-paco-rabanne-ultraviolet-edp-80-ml-tst": {
