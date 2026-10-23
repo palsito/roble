@@ -74,6 +74,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
+    "tst-giorgio-armani-armani-si-passione-red-bloom-edp-100-ml": {
+      "nombre": "TST GIORGIO ARMANI ARMANI SI PASSIONE RED BLOOM EDP 100 ML",
+      "precio": "72,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-passione-red-bloom-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-guerlain-shalimar-cologne-edt-90-ml": {
       "nombre": "TST GUERLAIN SHALIMAR COLOGNE EDT 90 ML",
       "precio": "79,00 €",
@@ -1938,6 +1944,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-armand-basi-dont-look-back-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-el-ganso-like-father-like-son-edt-125-ml": {
+      "nombre": "TST EL GANSO LIKE FATHER LIKE SON EDT 125 ML",
+      "precio": "21,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-el-ganso-like-father-like-son-edt-125-ml.html",
+      "en_stock": true
+    },
     "mancera-tonka-cola-edp-120-ml-regular": {
       "nombre": "MANCERA TONKA COLA EDP 120 ML REGULAR",
       "precio": "89,00 €",
@@ -2948,6 +2960,21 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+<<<<<<< Updated upstream
+=======
+    "mancera-ombre-tonka-edp-120-ml-regular": {
+      "nombre": "MANCERA OMBRE TONKA EDP 120 ML REGULAR",
+      "precio": "98,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-ombre-tonka-edp-120-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-giorgio-armani-armani-si-passione-red-bloom-edp-100-ml": {
+      "nombre": "TST GIORGIO ARMANI ARMANI SI PASSIONE RED BLOOM EDP 100 ML",
+      "precio": "72,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-passione-red-bloom-edp-100-ml.html",
+      "en_stock": true
+    },
+>>>>>>> Stashed changes
     "tst-courreges-l-empreinte-edp-100-ml": {
       "nombre": "TST COURREGES L'EMPREINTE EDP 100 ML",
       "precio": "38,00 €",
@@ -5058,6 +5085,12 @@
       "nombre": "TST TOUS LOVE ME ONYX PARFUM 90 ML",
       "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-love-me-onyx-parfum-90-ml.html",
+      "en_stock": true
+    },
+    "tst-mancera-roses-vanille-edp-120-ml": {
+      "nombre": "TST MANCERA ROSES VANILLE EDP 120 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mancera-roses-vanille-edp-120-ml.html",
       "en_stock": true
     },
     "tst-guerlain-jardins-de-bagatelle-edp-100-ml": {
