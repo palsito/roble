@@ -2622,6 +2622,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-pour-homme-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-guy-laroche-drakkar-noir-edt-100-ml": {
+      "nombre": "TST GUY LAROCHE DRAKKAR NOIR EDT 100 ML",
+      "precio": "25,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guy-laroche-drakkar-noir-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-adolfo-dominguez-agua-fresca-citrus-cedro-edt-120-ml": {
       "nombre": "TST ADOLFO DOMINGUEZ AGUA FRESCA CITRUS CEDRO EDT 120 ML",
       "precio": "20,00 €",
@@ -2698,6 +2704,12 @@
       "nombre": "TST CAROLINA HERRERA 212 VIP MEN EDT 100 ML",
       "precio": "53,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-vip-men-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-colonia-intensa-edc-100-ml": {
+      "nombre": "TST ACQUA DI PARMA COLONIA INTENSA EDC 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-intensa-edc-100-ml.html",
       "en_stock": true
     },
     "tst-hermes-terre-d-hermes-eau-intense-vetiver-edp-100-ml": {
@@ -3032,6 +3044,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-the-merchant-of-venice-byzantium-saffron-edp-100-ml": {
+      "nombre": "TST THE MERCHANT OF VENICE BYZANTIUM SAFFRON EDP 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-the-merchant-of-venice-byzantium-saffron-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-estee-lauder-pure-white-linen-edp-60-ml": {
       "nombre": "TST ESTEE LAUDER PURE WHITE LINEN EDP 60 ML",
       "precio": "44,00 €",
