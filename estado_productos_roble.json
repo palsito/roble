@@ -74,6 +74,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
+    "tst-ralph-lauren-polo-green-edt-125-ml": {
+      "nombre": "TST RALPH LAUREN POLO EDT 125 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-green-edt-125-ml.html",
+      "en_stock": true
+    },
     "tst-giorgio-armani-armani-si-passione-red-bloom-edp-100-ml": {
       "nombre": "TST GIORGIO ARMANI ARMANI SI PASSIONE RED BLOOM EDP 100 ML",
       "precio": "72,00 €",
@@ -370,6 +376,12 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
+    "tst-ralph-lauren-polo-green-edt-125-ml": {
+      "nombre": "TST RALPH LAUREN POLO EDT 125 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-green-edt-125-ml.html",
+      "en_stock": true
+    },
     "narciso-rodriguez-for-her-edt-100-ml-regular": {
       "nombre": "NARCISO RODRIGUEZ FOR HER EDT 100 ML REGULAR",
       "precio": "69,00 €",
@@ -435,18 +447,12 @@
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-cacao-in-the-sun-edp-100-ml.html",
       "en_stock": true
-    },
-    "tst-dolce-gabbana-devotion-pour-homme-parfum-100-ml": {
-      "nombre": "TST DOLCE & GABBANA DEVOTION POUR HOMME PARFUM 100 ML",
-      "precio": "66,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-devotion-pour-homme-parfum-100-ml.html",
-      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
     "tst-ralph-lauren-polo-green-edt-125-ml": {
-      "nombre": "TST RALPH LAUREN POLO GREEN EDT 125 ML",
-      "precio": "48,00 €",
+      "nombre": "TST RALPH LAUREN POLO EDT 125 ML",
+      "precio": "44,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-green-edt-125-ml.html",
       "en_stock": true
     },
@@ -1042,6 +1048,12 @@
       "nombre": "TST BORNTOSTANDOUT DRUNK MAPLE EDP 50 ML",
       "precio": "114,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-drunk-maple-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-ralph-lauren-polo-blue-parfum-125-ml": {
+      "nombre": "TST RALPH LAUREN POLO BLUE PARFUM 125 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-blue-parfum-125-ml.html",
       "en_stock": true
     },
     "pantheon-roma-notte-d-amore-exdp-50-ml-regular": {
