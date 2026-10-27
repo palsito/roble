@@ -254,12 +254,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roberto-verino-mellow-edt-90-ml.html",
       "en_stock": true
     },
-    "tst-carolina-herrera-carolina-herrera-clasica-edp-100-ml-": {
-      "nombre": "TST CAROLINA HERRERA CAROLINA HERRERA CLASICA EDP 100 ML",
-      "precio": "48,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-carolina-herrera-clasica-edp-100-ml-.html",
-      "en_stock": true
-    },
     "tst-ralph-lauren-polo-sport-edt-125-ml": {
       "nombre": "TST RALPH LAUREN POLO SPORT  EDT 125 ML",
       "precio": "43,00 €",
@@ -4700,12 +4694,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-passione-eclat-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-carlotha-ray-mandarine-mate-vert-edp-50ml": {
-      "nombre": "TST CARLOTHA RAY MANDARINE & MATE VERT EDP 50ML",
-      "precio": "24,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carlotha-ray-mandarine-mate-vert-edp-50ml.html",
-      "en_stock": true
-    },
     "tst-carlotha-ray-poire-santal-blanc-edp-50ml": {
       "nombre": "TST CARLOTHA RAY POIRE & SANTAL BLANC EDP 50ML",
       "precio": "24,00 €",
@@ -5684,12 +5672,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-19-poudre-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-carolina-herrera-carolina-herrera-clasica-edp-100-ml-": {
-      "nombre": "TST CAROLINA HERRERA CAROLINA HERRERA CLASICA EDP 100 ML",
-      "precio": "48,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-carolina-herrera-clasica-edp-100-ml-.html",
-      "en_stock": true
-    },
     "tst-juicy-couture-viva-la-juicy-gold-edp-100-ml": {
       "nombre": "TST JUICY COUTURE VIVA LA JUICY GOLD COUTURE EDP 100 ML",
       "precio": "39,00 €",
@@ -5934,6 +5916,12 @@
       "nombre": "TST HERMES TWILLY EDP 85 ML",
       "precio": "63,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-twilly-edp-85-ml.html",
+      "en_stock": true
+    },
+    "tst-gucci-bloom-edp-100-ml-": {
+      "nombre": "TST GUCCI  BLOOM EDP 100 ML",
+      "precio": "57,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-bloom-edp-100-ml-.html",
       "en_stock": true
     },
     "tst-elie-saab-le-parfum-edp-90-ml": {
