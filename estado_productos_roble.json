@@ -474,12 +474,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-calvin-klein-eternity-for-men-suede-essence-parfum-intense-100-ml.html",
       "en_stock": true
     },
-    "tst-yves-saint-laurent-y-for-men-iced-cologne-edt-intense-100-ml": {
-      "nombre": "TST YVES SAINT LAURENT Y FOR MEN ICED COLOGNE EDT INTENSE 100 ML",
-      "precio": "53,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-yves-saint-laurent-y-for-men-iced-cologne-edt-intense-100-ml.html",
-      "en_stock": true
-    },
     "tst-borntostandout-drunk-lovers-edp-50-ml": {
       "nombre": "TST BORNTOSTANDOUT DRUNK LOVERS EDP 50 ML",
       "precio": "114,00 €",
@@ -3392,12 +3386,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-good-girl-jasmine-absolute-edp-80-ml.html",
       "en_stock": true
     },
-    "tst-jpg-divine-couture-edp-100-ml": {
-      "nombre": "TST JPG DIVINE COUTURE EDP 100 ML",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-divine-couture-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-paco-rabanne-olympea-elixir-edp-intense-80-ml": {
       "nombre": "TST PACO RABANNE OLYMPEA ELIXIR EDP INTENSE 80 ML",
       "precio": "69,00 €",
@@ -3552,6 +3540,12 @@
       "nombre": "TST BORNTOSTANDOUT MUD EDP 50 ML",
       "precio": "89,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-mud-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-dgaf-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT DGAF EDP 50 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-dgaf-edp-50-ml.html",
       "en_stock": true
     },
     "tst-jimmy-choo-i-want-choo-with-love-edp-125-ml": {
