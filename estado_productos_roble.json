@@ -444,6 +444,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-ralph-lauren-polo-green-edt-125-ml": {
+      "nombre": "TST RALPH LAUREN POLO GREEN EDT 125 ML",
+      "precio": "48,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-green-edt-125-ml.html",
+      "en_stock": true
+    },
     "tst-the-merchant-of-venice-andalousian-soul-edp-100-ml": {
       "nombre": "TST THE MERCHANT OF VENICE ANDALOUSIAN SOUL EDP 100 ML",
       "precio": "84,00 €",
@@ -1346,7 +1352,7 @@
     },
     "tst-tom-ford-tuscan-leather-edp-50-ml": {
       "nombre": "TST TOM FORD TUSCAN LEATHER EDP 50 ML",
-      "precio": "165,00 €",
+      "precio": "149,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-tuscan-leather-edp-50-ml.html",
       "en_stock": true
     },
@@ -4036,7 +4042,7 @@
     },
     "tst-tom-ford-tuscan-leather-edp-50-ml": {
       "nombre": "TST TOM FORD TUSCAN LEATHER EDP 50 ML",
-      "precio": "165,00 €",
+      "precio": "149,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-tuscan-leather-edp-50-ml.html",
       "en_stock": true
     },
