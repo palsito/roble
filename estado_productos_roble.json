@@ -18,12 +18,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-ombre-tonka-edp-120-ml-regular.html",
       "en_stock": true
     },
-    "tst-borntostandout-drunk-lovers-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT DRUNK LOVERS EDP 50 ML",
-      "precio": "114,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-drunk-lovers-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-borntostandout-dirty-rice-edp-50-ml": {
       "nombre": "TST BORNTOSTANDOUT DIRTY RICE EDP 50 ML",
       "precio": "114,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST NISHANE HACIVAT EXTRAIT DE PARFUM 50 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-hacivat-extrait-de-parfum-50-mlss.html",
+      "en_stock": true
+    },
+    "m-micallef-pure-extreme-nectar-edp-50-ml": {
+      "nombre": "M. MICALLEF PURE EXTREME NECTAR EDP 50 ML REGULAR",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/m-micallef-pure-extreme-nectar-edp-50-ml.html",
       "en_stock": true
     }
   },
@@ -484,12 +484,6 @@
       "nombre": "TST CALVIN KLEIN ETERNITY FOR MEN SUEDE ESSENCE PARFUM INTENSE...",
       "precio": "35,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-calvin-klein-eternity-for-men-suede-essence-parfum-intense-100-ml.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-drunk-lovers-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT DRUNK LOVERS EDP 50 ML",
-      "precio": "114,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-drunk-lovers-edp-50-ml.html",
       "en_stock": true
     },
     "tst-borntostandout-dirty-rice-edp-50-ml": {
@@ -3038,12 +3032,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-nude-bloom-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-borntostandout-drunk-lovers-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT DRUNK LOVERS EDP 50 ML",
-      "precio": "114,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-drunk-lovers-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-borntostandout-dirty-rice-edp-50-ml": {
       "nombre": "TST BORNTOSTANDOUT DIRTY RICE EDP 50 ML",
       "precio": "114,00 €",
@@ -3348,6 +3336,12 @@
       "nombre": "TST ROGER & GALLET FLEUR DE FIGUIER EAU FRAICHE PARFUMEE 100 ML",
       "precio": "19,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-fleur-de-figuier-eau-fraiche-parfumee-100-ml.html",
+      "en_stock": true
+    },
+    "tst-fugazzi-workaholic-exdp-100-ml": {
+      "nombre": "TST FUGAZZI WORKAHOLIC ExDP 100 ML",
+      "precio": "119,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-workaholic-exdp-100-ml.html",
       "en_stock": true
     },
     "tst-fugazzi-borntostandout-edp-50-ml": {
