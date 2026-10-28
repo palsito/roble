@@ -74,6 +74,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
+    "tst-jpg-le-male-aviator-edt-125-ml": {
+      "nombre": "TST JPG LE MALE AVIATOR EDT 125 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-aviator-edt-125-ml.html",
+      "en_stock": true
+    },
     "tst-ralph-lauren-polo-green-edt-125-ml": {
       "nombre": "TST RALPH LAUREN POLO EDT 125 ML",
       "precio": "44,00 €",
@@ -444,6 +450,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-jpg-le-male-aviator-edt-125-ml": {
+      "nombre": "TST JPG LE MALE AVIATOR EDT 125 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-aviator-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-jpg-le-male-pride-edition-edt-125-ml": {
+      "nombre": "TST JPG LE MALE PRIDE EDITION EDT 125 ML",
+      "precio": "55,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-pride-edition-edt-125-ml.html",
+      "en_stock": true
+    },
     "tst-prada-infusion-d-ylang-edp-100-ml": {
       "nombre": "TST PRADA INFUSION D'YLANG EDP 100 ML",
       "precio": "54,00 €",
