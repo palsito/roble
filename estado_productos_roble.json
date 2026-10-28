@@ -732,6 +732,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-the-scent-for-him-edp-intense-100-ml.html",
       "en_stock": true
     },
+    "tst-azzaro-forever-wanted-absolu-parfum-100-ml": {
+      "nombre": "TST AZZARO FOREVER WANTED ABSOLU PARFUM 100 ML",
+      "precio": "58,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-forever-wanted-absolu-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-roger-gallet-vetyver-eau-fraiche-parfumee-100-ml": {
       "nombre": "TST ROGER & GALLET VETYVER EAU FRAICHE PARFUMEE 100 ML",
       "precio": "19,00 €",
@@ -1036,6 +1042,12 @@
       "nombre": "TST RALPH LAUREN POLO BLUE PARFUM 125 ML",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-blue-parfum-125-ml.html",
+      "en_stock": true
+    },
+    "tst-valentino-uomo-born-in-roma-purple-melancholia-edt-100-ml": {
+      "nombre": "TST VALENTINO UOMO BORN IN ROMA PURPLE MELANCHOLIA EDT 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-valentino-uomo-born-in-roma-purple-melancholia-edt-100-ml.html",
       "en_stock": true
     },
     "pantheon-roma-notte-d-amore-exdp-50-ml-regular": {
@@ -1672,6 +1684,12 @@
       "nombre": "TST XERJOFF ERBA PURA EDP 100 ML",
       "precio": "179,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-xerjoff-erba-pura-edp-100-mls.html",
+      "en_stock": true
+    },
+    "tst-prada-paradoxe-edp-90-ml": {
+      "nombre": "TST PRADA PARADOXE EDP 90 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-edp-90-ml.html",
       "en_stock": true
     },
     "joterc-cherry-on-top-edp-100-ml-regular": {
@@ -2960,6 +2978,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-prada-paradoxe-sweet-chemistry-edp-90-ml": {
+      "nombre": "TST PRADA PARADOXE SWEET CHEMISTRY EDP 90 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-sweet-chemistry-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-the-merchant-of-venice-andalousian-soul-edp-100-ml": {
       "nombre": "TST THE MERCHANT OF VENICE ANDALOUSIAN SOUL EDP 100 ML",
       "precio": "84,00 €",
@@ -4490,6 +4514,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-armand-basi-in-red-blooming-bouquet-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-prada-paradoxe-edp-90-ml": {
+      "nombre": "TST PRADA PARADOXE EDP 90 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-paradoxe-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-givenchy-l-interdit-absolu-edp-intense-80-ml": {
       "nombre": "TST GIVENCHY L'INTERDIT ABSOLU EDP INTENSE 80 ML",
       "precio": "64,00 €",
@@ -4644,6 +4674,12 @@
       "nombre": "TST NINA RICCI NINA ILLUSION EDP 80 ML",
       "precio": "42,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nina-ricci-nina-illusion-edp-80-ml.html",
+      "en_stock": true
+    },
+    "tst-giorgio-armani-armani-si-passione-eclat-edp-50-ml": {
+      "nombre": "TST GIORGIO ARMANI ARMANI SI PASSIONE ECLAT EDP 50 ML",
+      "precio": "42,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-passione-eclat-edp-50-ml.html",
       "en_stock": true
     },
     "tst-elie-saab-elixir-edp-100-ml-": {
@@ -5786,6 +5822,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-eau-sisley-1-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-lancome-la-nuit-tresor-a-la-folie-edp-75-ml": {
+      "nombre": "TST LANCOME LA NUIT TRESOR A LA FOLIE EDP 75 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-la-nuit-tresor-a-la-folie-edp-75-ml.html",
+      "en_stock": true
+    },
     "tst-elie-saab-le-parfum-intense-edp-90-ml": {
       "nombre": "TST ELIE SAAB LE PARFUM INTENSE EDP 90 ML",
       "precio": "56,00 €",
@@ -6318,6 +6360,18 @@
       "nombre": "TST PACO RABANNE ULTRAVIOLET EDP 80 ML",
       "precio": "40,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-ultraviolet-edp-80-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-prada-infusion-de-amande-edp-100-ml-tst": {
+      "nombre": "TST PRADA INFUSION DE AMANDE EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-de-amande-edp-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-prada-infusion-fleur-d-oranger-edp-100-ml": {
+      "nombre": "TST PRADA INFUSION FLEUR  D'ORANGER EDP 100 ML",
+      "precio": "55,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-fleur-d-oranger-edp-100-ml.html",
       "en_stock": true
     },
     "tst-rochas-eau-de-rochas-edt-100-ml-tst": {
