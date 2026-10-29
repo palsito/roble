@@ -456,6 +456,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-zadig-voltaire-this-is-him-vibes-of-freedom-edt-50-ml": {
+      "nombre": "TST ZADIG & VOLTAIRE THIS IS HIM VIBES OF FREEDOM EDT 50 ML",
+      "precio": "26,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-this-is-him-vibes-of-freedom-edt-50-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-one-million-night-elixir-edp-100-ml": {
+      "nombre": "TST PACO RABANNE ONE MILLION NIGHT ELIXIR EDP 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-one-million-night-elixir-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-jpg-le-male-aviator-edt-125-ml": {
       "nombre": "TST JPG LE MALE AVIATOR EDT 125 ML",
       "precio": "79,00 €",
@@ -738,6 +750,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-l-instant-pour-homme-edt-100-mls.html",
       "en_stock": true
     },
+    "tst-azzaro-forever-wanted-elixir-parfum-100-ml": {
+      "nombre": "TST AZZARO FOREVER WANTED ELIXIR PARFUM 100 ML",
+      "precio": "58,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-forever-wanted-elixir-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-ralph-lauren-polo-blue-edp-125-mls": {
       "nombre": "TST RALPH LAUREN POLO BLUE EDP 125 ML",
       "precio": "53,00 €",
@@ -958,6 +976,12 @@
       "nombre": "EDENISTE VETIVER IMAGINAIRE EDP 100 ML REGULAR",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hugo-boss-boss-bottled-striking-lavender-edp-100-ml": {
+      "nombre": "TST HUGO BOSS BOSS BOTTLED STRIKING LAVENDER EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-striking-lavender-edp-100-ml.html",
       "en_stock": true
     },
     "tst-kenzo-homme-indigo-edp-110-ml": {
@@ -1240,6 +1264,12 @@
       "nombre": "TST CAROLINA HERRERA 212 VIP BLACK ELIXIR 100 ML",
       "precio": "56,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-carolina-herrera-212-vip-black-elixir-100-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-invictus-victory-absolui-parfum-100-ml": {
+      "nombre": "TST PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-invictus-victory-absolui-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-prada-paradigme-edp-100-ml": {
@@ -2688,6 +2718,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-roger-gallet-the-vert-eau-fraiche-parfumee-100-ml.html",
       "en_stock": true
     },
+    "tst-ralph-lauren-polo-ultra-blue-edt-125-ml-": {
+      "nombre": "TST RALPH LAUREN POLO ULTRA BLUE  EDT 125 ML",
+      "precio": "46,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-ultra-blue-edt-125-ml-.html",
+      "en_stock": true
+    },
     "tst-dolce-gabbana-pour-homme-intenso-edp-125-mll": {
       "nombre": "TST DOLCE & GABBANA POUR HOMME INTENSO EDP 125 ML",
       "precio": "52,00 €",
@@ -3056,10 +3092,16 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
-    "tst-marc-jacobs-perfect-absolu-edp-100-ml": {
-      "nombre": "TST MARC JACOBS PERFECT ABSOLU EDP 100 ML",
+    "tst-montale-soleil-de-capri-edp-100-ml": {
+      "nombre": "TST MONTALE SOLEIL DE CAPRI EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-soleil-de-capri-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-marc-jacobs-perfect-absolute-edp-100-ml": {
+      "nombre": "TST MARC JACOBS PERFECT ABSOLUTE EDP 100 ML",
       "precio": "54,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-perfect-absolu-edp-100-ml.html",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-perfect-absolute-edp-100-ml.html",
       "en_stock": true
     },
     "tst-prada-infusion-d-ylang-edp-100-ml": {
@@ -5970,6 +6012,12 @@
       "nombre": "TST PRADA INFUSION ROSE EDP 100 ML",
       "precio": "55,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-rose-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-tommy-hilgifiger-tommy-girl-edt-100-ml": {
+      "nombre": "TST TOMMY HILGIFIGER TOMMY GIRL EDT 100 ML",
+      "precio": "23,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tommy-hilgifiger-tommy-girl-edt-100-ml.html",
       "en_stock": true
     },
     "tst-jpg-scandal-edp-80-ml": {
