@@ -1,5 +1,11 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-montale-soleil-de-capri-edp-100-ml": {
+      "nombre": "TST MONTALE SOLEIL DE CAPRI EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-soleil-de-capri-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-the-merchant-of-venice-andalousian-soul-edp-100-ml": {
       "nombre": "TST THE MERCHANT OF VENICE ANDALOUSIAN SOUL EDP 100 ML",
       "precio": "84,00 €",
@@ -64,12 +70,6 @@
       "nombre": "TST NISHANE HACIVAT EXTRAIT DE PARFUM 50 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-hacivat-extrait-de-parfum-50-mlss.html",
-      "en_stock": true
-    },
-    "m-micallef-pure-extreme-nectar-edp-50-ml": {
-      "nombre": "M. MICALLEF PURE EXTREME NECTAR EDP 50 ML REGULAR",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/m-micallef-pure-extreme-nectar-edp-50-ml.html",
       "en_stock": true
     }
   },
@@ -456,6 +456,30 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-hugo-boss-krink-x-hugo-edp-125-ml": {
+      "nombre": "TST HUGO BOSS KRINK X HUGO EDP 125 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-krink-x-hugo-edp-125-ml.html",
+      "en_stock": true
+    },
+    "tst-hugo-boss-superman-x-hugo-edp-125-ml": {
+      "nombre": "TST HUGO BOSS SUPERMAN X HUGO EDP 125 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-superman-x-hugo-edp-125-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-invictus-elixir-parfum-100-ml": {
+      "nombre": "TST PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-invictus-elixir-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-montale-soleil-de-capri-edp-100-ml": {
+      "nombre": "TST MONTALE SOLEIL DE CAPRI EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-soleil-de-capri-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-zadig-voltaire-this-is-him-vibes-of-freedom-edt-50-ml": {
       "nombre": "TST ZADIG & VOLTAIRE THIS IS HIM VIBES OF FREEDOM EDT 50 ML",
       "precio": "26,00 €",
@@ -3742,7 +3766,7 @@
     },
     "tst-gucci-guilty-absolu-de-parfum-pour-femme-60-ml": {
       "nombre": "TST GUCCI GUILTY ABSOLU DE PARFUM POUR FEMME 60 ML",
-      "precio": "85,00 €",
+      "precio": "63,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-absolu-de-parfum-pour-femme-60-ml.html",
       "en_stock": true
     },
@@ -3754,7 +3778,7 @@
     },
     "tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml": {
       "nombre": "TST GUCCI GUILTY ELIXIR DE PARFUM POUR FEMME 60 ML",
-      "precio": "85,00 €",
+      "precio": "63,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml.html",
       "en_stock": true
     },
@@ -4782,6 +4806,12 @@
       "nombre": "TST LANCOME IDOLE L'EAU DE PARFUM 50 ML",
       "precio": "45,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-idole-l-eau-de-parfum-50-ml.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-the-one-for-woman-edp-50-ml": {
+      "nombre": "TST DOLCE & GABBANA THE ONE FOR WOMAN EDP 50 ML",
+      "precio": "42,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-the-one-for-woman-edp-50-ml.html",
       "en_stock": true
     },
     "tst-carolina-herrera-212-vip-woman-wins-edicion-especial-edp-80-ml": {
