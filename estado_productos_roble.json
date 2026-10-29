@@ -1,5 +1,23 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-borntostandout-filthy-musk-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT FILTHY MUSK EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-filthy-musk-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-mary-jane-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT MARY JANE EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-mary-jane-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-cola-addict-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT COLA ADDICT EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-cola-addict-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-montale-soleil-de-capri-edp-100-ml": {
       "nombre": "TST MONTALE SOLEIL DE CAPRI EDP 100 ML",
       "precio": "62,00 €",
@@ -52,24 +70,6 @@
       "nombre": "TST FUGAZZI CASH FLOWER ExDP 100 ML",
       "precio": "119,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-fugazzi-cash-flower-exdp-100-ml.html",
-      "en_stock": true
-    },
-    "baruti-perverso-edp-50-ml-regular": {
-      "nombre": "BARUTI PERVERSO EDP 50 ML REGULAR",
-      "precio": "93,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/baruti-perverso-edp-50-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-electimuss-silvanus-edp-100-ml": {
-      "nombre": "TST ELECTIMUSS SILVANUS EDP 100 ML",
-      "precio": "110,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-electimuss-silvanus-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-nishane-hacivat-extrait-de-parfum-50-mlss": {
-      "nombre": "TST NISHANE HACIVAT EXTRAIT DE PARFUM 50 ML",
-      "precio": "129,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nishane-hacivat-extrait-de-parfum-50-mlss.html",
       "en_stock": true
     }
   },
@@ -456,6 +456,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-borntostandout-filthy-musk-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT FILTHY MUSK EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-filthy-musk-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-mary-jane-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT MARY JANE EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-mary-jane-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-cola-addict-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT COLA ADDICT EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-cola-addict-edp-50-ml.html",
+      "en_stock": true
+    },
     "tst-hugo-boss-krink-x-hugo-edp-125-ml": {
       "nombre": "TST HUGO BOSS KRINK X HUGO EDP 125 ML",
       "precio": "39,00 €",
@@ -1030,6 +1048,12 @@
       "nombre": "TST LORENZO PAZZAGLIA VAN PY RHUM ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-van-py-rhum-exdp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-summer-hammer-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA SUMMER HAMMER ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-summer-hammer-exdp-50-ml.html",
       "en_stock": true
     },
     "tst-borntostandout-mud-edp-50-ml": {
@@ -3107,9 +3131,45 @@
       "precio": "42,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-edt-100-ml.html",
       "en_stock": true
+    },
+    "tst-versace-versace-pour-homme-edt-100-ml-tst": {
+      "nombre": "TST VERSACE VERSACE POUR HOMME EDT 100 ML",
+      "precio": "43,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
+      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
+      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-borntostandout-filthy-musk-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT FILTHY MUSK EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-filthy-musk-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-mary-jane-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT MARY JANE EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-mary-jane-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-cola-addict-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT COLA ADDICT EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-cola-addict-edp-50-ml.html",
+      "en_stock": true
+    },
+    "goutal-grand-amour-edp-100-ml-regular": {
+      "nombre": "GOUTAL GRAND AMOUR EDP 100 ML REGULAR",
+      "precio": "97,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/goutal-grand-amour-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-bvlgari-eau-parfumee-the-imperial-edt-75-ml": {
       "nombre": "TST BVLGARI EAU PARFUMEE THE IMPERIAL EDT 75 ML",
       "precio": "87,00 €",
@@ -6612,6 +6672,18 @@
       "nombre": "TST ROCHAS  EAU DE ROCHAS EDT 100 ML",
       "precio": "30,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rochas-eau-de-rochas-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-tous-tous-edp-90-ml-tst": {
+      "nombre": "TST TOUS TOUS EDP 90 ML",
+      "precio": "34,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-tous-edp-90-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-versace-bright-crystal-edt-90-ml-tst": {
+      "nombre": "TST VERSACE BRIGHT CRYSTAL EDT 90 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-versace-bright-crystal-edt-90-ml-tst.html",
       "en_stock": true
     }
   }
