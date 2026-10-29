@@ -1566,6 +1566,18 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bond-no9-park-avenue-south-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-starck-peau-de-pierre-edt-90-mls": {
+      "nombre": "TST STARCK PEAU DE PIERRE EDT 90 ML",
+      "precio": "23,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-starck-peau-de-pierre-edt-90-mls.html",
+      "en_stock": true
+    },
+    "tst-starck-peau-d-ailleurs-edt-90-ml": {
+      "nombre": "TST STARCK PEAU D'AILLEURS EDT 90 ML",
+      "precio": "23,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-starck-peau-d-ailleurs-edt-90-ml.html",
+      "en_stock": true
+    },
     "tst-tom-ford-ombre-leather-edp-100-ml": {
       "nombre": "TST TOM FORD OMBRE LEATHER EDP 100 ML",
       "precio": "119,00 €",
@@ -4360,8 +4372,14 @@
     },
     "tst-starck-peau-de-soie-edt-90-mls": {
       "nombre": "TST STARCK PEAU DE SOIE EDT 90 ML",
-      "precio": "29,00 €",
+      "precio": "23,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-starck-peau-de-soie-edt-90-mls.html",
+      "en_stock": true
+    },
+    "tst-starck-peau-d-ailleurs-edt-90-ml": {
+      "nombre": "TST STARCK PEAU D'AILLEURS EDT 90 ML",
+      "precio": "23,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-starck-peau-d-ailleurs-edt-90-ml.html",
       "en_stock": true
     },
     "tst-bvlgari-omnia-crystalline-edt-100-ml": {
