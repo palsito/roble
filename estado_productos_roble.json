@@ -1026,6 +1026,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-blue-edt-125-mls.html",
       "en_stock": true
     },
+    "tst-lorenzo-pazzaglia-van-py-rhum-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA VAN PY RHUM ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-van-py-rhum-exdp-50-ml.html",
+      "en_stock": true
+    },
     "tst-borntostandout-mud-edp-50-ml": {
       "nombre": "TST BORNTOSTANDOUT MUD EDP 50 ML",
       "precio": "89,00 €",
@@ -3101,21 +3107,15 @@
       "precio": "42,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-eros-homme-edt-100-ml.html",
       "en_stock": true
-    },
-    "tst-versace-versace-pour-homme-edt-100-ml-tst": {
-      "nombre": "TST VERSACE VERSACE POUR HOMME EDT 100 ML",
-      "precio": "43,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
-      "en_stock": true
-    },
-    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
-      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
-      "precio": "44,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
-      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-bvlgari-eau-parfumee-the-imperial-edt-75-ml": {
+      "nombre": "TST BVLGARI EAU PARFUMEE THE IMPERIAL EDT 75 ML",
+      "precio": "87,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-bvlgari-eau-parfumee-the-imperial-edt-75-ml.html",
+      "en_stock": true
+    },
     "tst-montale-soleil-de-capri-edp-100-ml": {
       "nombre": "TST MONTALE SOLEIL DE CAPRI EDP 100 ML",
       "precio": "62,00 €",
@@ -3714,6 +3714,18 @@
       "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
       "precio": "76,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-very-good-girl-elixir-80-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-van-py-rhum-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA VAN PY RHUM ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-van-py-rhum-exdp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-summer-hammer-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA SUMMER HAMMER ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-summer-hammer-exdp-50-ml.html",
       "en_stock": true
     },
     "tst-borntostandout-mud-edp-50-ml": {
@@ -5380,7 +5392,7 @@
     },
     "tst-issey-miyake-l-eau-d-issey-eau-magnolia-edt-intense-100-ml": {
       "nombre": "TST ISSEY MIYAKE L'EAU D'ISSEY EAU & MAGNOLIA EDT INTENSE  100 ML",
-      "precio": "36,00 €",
+      "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-issey-miyake-l-eau-d-issey-eau-magnolia-edt-intense-100-ml.html",
       "en_stock": true
     },
@@ -6600,18 +6612,6 @@
       "nombre": "TST ROCHAS  EAU DE ROCHAS EDT 100 ML",
       "precio": "30,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rochas-eau-de-rochas-edt-100-ml-tst.html",
-      "en_stock": true
-    },
-    "tst-tous-tous-edp-90-ml-tst": {
-      "nombre": "TST TOUS TOUS EDP 90 ML",
-      "precio": "34,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-tous-edp-90-ml-tst.html",
-      "en_stock": true
-    },
-    "tst-versace-bright-crystal-edt-90-ml-tst": {
-      "nombre": "TST VERSACE BRIGHT CRYSTAL EDT 90 ML",
-      "precio": "44,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-versace-bright-crystal-edt-90-ml-tst.html",
       "en_stock": true
     }
   }
