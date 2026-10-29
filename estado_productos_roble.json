@@ -1338,12 +1338,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-invictus-victory-absolui-parfum-100-ml.html",
       "en_stock": true
     },
-    "tst-prada-paradigme-edp-100-ml": {
-      "nombre": "TST PRADA PARADIGME EDP 100 ML",
-      "precio": "64,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-prada-paradigme-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-acqua-di-parma-oud-edp-180-ml": {
       "nombre": "TST ACQUA DI PARMA OUD EDP 180 ML",
       "precio": "159,00 €",
@@ -1366,12 +1360,6 @@
       "nombre": "DOLCE & GABBANA THE ONE FOR MEN EDP 100 ML REGULAR",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/dolce-gabbana-the-one-for-men-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-hugo-boss-boss-bottled-beyond-edp-100-ml": {
-      "nombre": "TST HUGO BOSS BOSS BOTTLED BEYOND EDP 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-beyond-edp-100-ml.html",
       "en_stock": true
     },
     "tst-lorenzo-pazzaglia-carbonara-exdp-50-ml": {
@@ -1536,6 +1524,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-hand-in-hand-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-maison-noir-vertigo-236-edp-100-ml": {
+      "nombre": "TST MAISON NOIR VERTIGO 236 EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-maison-noir-vertigo-236-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-maison-noir-quandoley-805-edp-100-ml": {
       "nombre": "TST MAISON NOIR QUANDOLEY 805 EDP 100 ML",
       "precio": "84,00 €",
@@ -1606,6 +1600,12 @@
       "nombre": "THAUY KEEVA EDP 100 ML REGULAR",
       "precio": "78,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/thauy-keeva-edp-100-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-hermes-terre-d-hermes-edp-intense-100-ml": {
+      "nombre": "TST HERMES TERRE D'HERMES EDP INTENSE 100  ML",
+      "precio": "72,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-edp-intense-100-ml.html",
       "en_stock": true
     },
     "tst-jpg-le-male-elixir-parfum-125-ml": {
