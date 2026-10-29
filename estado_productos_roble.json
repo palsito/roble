@@ -320,6 +320,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-cartier-delices-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-paco-rabanne-ultraviolet-man-edt-100-ml": {
+      "nombre": "TST PACO RABANNE ULTRAVIOLET MAN EDT 100 ML",
+      "precio": "42,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-ultraviolet-man-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-agua-de-loewe-ella-edt-100-ml": {
       "nombre": "TST LOEWE  AGUA DE LOEWE ELLA EDT 100 ML",
       "precio": "54,00 €",
@@ -1896,6 +1902,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-4711-acqua-colonia-intense-lagoons-of-laos-edc-170-ml.html",
       "en_stock": true
     },
+    "tst-giorgio-armani-acqua-di-gio-parfum-100-ml": {
+      "nombre": "TST GIORGIO ARMANI ACQUA DI GIO PARFUM 100 ML",
+      "precio": "65,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-giorgio-armani-acqua-di-gio-profondo-edp-100-ml": {
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIO PROFONDO EDP 100 ML",
       "precio": "62,00 €",
@@ -2562,6 +2574,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-angel-schlesser-citrus-pomelo-eau-fraiche-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-azzaro-azzaro-wanted-by-night-edp-100-ml": {
+      "nombre": "TST AZZARO AZZARO WANTED BY NIGHT EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-wanted-by-night-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-christian-dior-sauvage-parfum-100-ml": {
       "nombre": "TST CHRISTIAN DIOR SAUVAGE PARFUM 100 ML",
       "precio": "95,00 €",
@@ -2692,6 +2710,12 @@
       "nombre": "TST ACQUA DI PARMA COLONIA INTENSA EDC 100 ML",
       "precio": "56,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-intensa-edc-100-ml.html",
+      "en_stock": true
+    },
+    "tst-christian-dior-eau-sauvage-edt-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR EAU SAUVAGE  EDT 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-christian-dior-eau-sauvage-edt-100-ml.html",
       "en_stock": true
     },
     "tst-hermes-terre-d-hermes-eau-intense-vetiver-edp-100-ml": {
@@ -2830,6 +2854,12 @@
       "nombre": "TST HERMES TERRE D'HERMES EDT 100  ML",
       "precio": "64,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-paco-rabanne-ultraviolet-man-edt-100-ml": {
+      "nombre": "TST PACO RABANNE ULTRAVIOLET MAN EDT 100 ML",
+      "precio": "42,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-ultraviolet-man-edt-100-ml.html",
       "en_stock": true
     },
     "tst-chanel-allure-homme-edt-100-ml": {
@@ -3014,6 +3044,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-marc-jacobs-perfect-absolu-edp-100-ml": {
+      "nombre": "TST MARC JACOBS PERFECT ABSOLU EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-perfect-absolu-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-prada-infusion-d-ylang-edp-100-ml": {
       "nombre": "TST PRADA INFUSION D'YLANG EDP 100 ML",
       "precio": "54,00 €",
