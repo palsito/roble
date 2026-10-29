@@ -406,6 +406,18 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml.html",
       "en_stock": true
     },
+    "tst-gucci-guilty-absolu-de-parfum-pour-femme-60-ml": {
+      "nombre": "TST GUCCI GUILTY ABSOLU DE PARFUM POUR FEMME 60 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-absolu-de-parfum-pour-femme-60-ml.html",
+      "en_stock": true
+    },
+    "tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml": {
+      "nombre": "TST GUCCI GUILTY ELIXIR DE PARFUM POUR FEMME 60 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml.html",
+      "en_stock": true
+    },
     "tst-maison-tahite-velvet-coffee-edp-100-ml": {
       "nombre": "TST MAISON TAHITE VELVET COFFEE EDP 100 ML",
       "precio": "59,00 €",
@@ -440,18 +452,6 @@
       "nombre": "TST MAISON TAHITE CAFE GOURMAND EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-cafe-gourmand-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-maison-tahite-cacao-libertine-edp-100-ml": {
-      "nombre": "TST MAISON TAHITE CACAO LIBERTINE EDP 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-cacao-libertine-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-maison-tahite-cacao-in-the-sun-edp-100-ml": {
-      "nombre": "TST MAISON TAHITE CACAO IN THE SUN EDP 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-cacao-in-the-sun-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -622,6 +622,12 @@
       "nombre": "TST AL HARAMAIN AMBER OUD ULTRAVIOLET EDP 60 ML",
       "precio": "29,00 €",
       "url": "https://elrobleperfumado.com/perfumes-arabes/tst-al-haramain-amber-oud-ultraviolet-edp-60-ml.html",
+      "en_stock": true
+    },
+    "tst-al-haramain-amber-oud-dubai-night-exdp-75-ml": {
+      "nombre": "TST AL HARAMAIN AMBER OUD DUBAI NIGHT ExDP 75 ML",
+      "precio": "35,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-arabes/tst-al-haramain-amber-oud-dubai-night-exdp-75-ml.html",
       "en_stock": true
     },
     "tst-azzaro-azzaro-pour-homme-edt-200-ml": {
@@ -3296,6 +3302,12 @@
       "url": "https://elrobleperfumado.com/perfumes-arabes/tst-al-haramain-amber-oud-ultraviolet-edp-60-ml.html",
       "en_stock": true
     },
+    "tst-al-haramain-amber-oud-dubai-night-exdp-75-ml": {
+      "nombre": "TST AL HARAMAIN AMBER OUD DUBAI NIGHT ExDP 75 ML",
+      "precio": "35,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-arabes/tst-al-haramain-amber-oud-dubai-night-exdp-75-ml.html",
+      "en_stock": true
+    },
     "tst-fugazzi-parfum-1-exdp-100-ml": {
       "nombre": "TST FUGAZZI PARFUM 1 ExDP 100 ML",
       "precio": "119,00 €",
@@ -5112,6 +5124,12 @@
       "nombre": "TST KENZO FLOWER IKEBANA EDP 75 ML",
       "precio": "34,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-kenzo-flower-ikebana-edp-75-ml.html",
+      "en_stock": true
+    },
+    "tst-calvin-klein-my-euphoria-edp-100-ml": {
+      "nombre": "TST CALVIN KLEIN MY EUPHORIA EDP 100 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-my-euphoria-edp-100-ml.html",
       "en_stock": true
     },
     "mancera-tonka-cola-edp-120-ml-regular": {
