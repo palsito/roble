@@ -456,6 +456,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-calvin-klein-euphoria-men-edt-100-ml": {
+      "nombre": "CALVIN KLEIN EUPHORIA MEN EDT 100 ML REGULAR",
+      "precio": "29,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-calvin-klein-euphoria-men-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-borntostandout-filthy-musk-edp-50-ml": {
       "nombre": "TST BORNTOSTANDOUT FILTHY MUSK EDP 50 ML",
       "precio": "114,00 €",
@@ -3074,7 +3080,7 @@
     },
     "tst-hugo-boss-boss-bottled-men-edt-100-ml-tst": {
       "nombre": "TST HUGO BOSS BOSS BOTTLED MEN EDT 100 ML",
-      "precio": "42,00 €",
+      "precio": "38,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-men-edt-100-ml-tst.html",
       "en_stock": true
     },
@@ -3146,6 +3152,24 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-calvin-klein-ck-in2u-for-her-edt-150-ml": {
+      "nombre": "TST CALVIN KLEIN CK IN2U FOR HER EDT 150 ML",
+      "precio": "15,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-in2u-for-her-edt-150-ml.html",
+      "en_stock": true
+    },
+    "valentino-valentina-edp-50-ml-regular": {
+      "nombre": "VALENTINO VALENTINA EDP 50 ML REGULAR",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/valentino-valentina-edp-50-ml-regular.html",
+      "en_stock": true
+    },
+    "calvin-klein-euphoria-edp-100-ml-regular": {
+      "nombre": "CALVIN KLEIN EUPHORIA EDP 100 ML REGULAR",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/calvin-klein-euphoria-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-lancome-o-zenith-edt-100-ml": {
       "nombre": "TST LANCOME Ô ZENITH EDT 100 ML",
       "precio": "29,00 €",
@@ -5066,6 +5090,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-love-me-emerald-elixir-90-ml.html",
       "en_stock": true
     },
+    "tst-zadig-voltaire-this-is-really-her-edp-100-ml": {
+      "nombre": "TST ZADIG & VOLTAIRE THIS IS REALLY HER EDP 100 ML",
+      "precio": "39,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-zadig-voltaire-this-is-really-her-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-angel-schlesser-aromatic-sage-edt-100-ml": {
       "nombre": "TST ANGEL SCHLESSER AROMATIC SAGE EDT 100 ML",
       "precio": "13,00 €",
@@ -6214,7 +6244,7 @@
     },
     "tst-elie-saab-le-parfum-edp-90-ml": {
       "nombre": "TST ELIE SAAB LE PARFUM EDP 90 ML",
-      "precio": "54,00 €",
+      "precio": "47,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elie-saab-le-parfum-edp-90-ml.html",
       "en_stock": true
     },
