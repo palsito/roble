@@ -74,6 +74,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
+    "tst-givenchy-very-irresistible-edp-75-ml": {
+      "nombre": "TST GIVENCHY VERY IRRESISTIBLE EDP 75 ML",
+      "precio": "75,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-givenchy-very-irresistible-edp-75-ml.html",
+      "en_stock": true
+    },
     "tst-jpg-le-male-aviator-edt-125-ml": {
       "nombre": "TST JPG LE MALE AVIATOR EDT 125 ML",
       "precio": "79,00 €",
@@ -192,6 +198,12 @@
       "nombre": "LUNIO NEROLI NOSTRUM EDP 100 ML REGULAR",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/lunio-neroli-nostrum-edp-100-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-loewe-paula-s-ibiza-cosmic-edp-100-ml": {
+      "nombre": "TST LOEWE PAULA'S IBIZA COSMIC EDP 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-paula-s-ibiza-cosmic-edp-100-ml.html",
       "en_stock": true
     },
     "tst-carlotha-ray-poire-santal-blanc-edp-50ml": {
@@ -1872,6 +1884,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-mancera-red-tobacco-intense-edp-120-ml.html",
       "en_stock": true
     },
+    "tst-loewe-paula-s-ibiza-cosmic-edp-100-ml": {
+      "nombre": "TST LOEWE PAULA'S IBIZA COSMIC EDP 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-paula-s-ibiza-cosmic-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-loewe-paula-s-ibiza-eclectic-edt-100-ml": {
       "nombre": "TST LOEWE PAULA'S IBIZA ECLECTIC EDT 100 ML",
       "precio": "59,00 €",
@@ -2616,6 +2634,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-splendid-orange-blossom-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-chanel-bleu-parfum-100-ml": {
+      "nombre": "TST CHANEL BLEU PARFUM 100 ML",
+      "precio": "105,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-bleu-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-el-ganso-friday-edition-edt-125-ml": {
       "nombre": "TST EL GANSO FRIDAY EDITION EDT 125 ML",
       "precio": "19,00 €",
@@ -2892,6 +2916,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-valentino-valentino-uomo-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-chanel-egoiste-platinum-edt-100-ml": {
+      "nombre": "TST CHANEL  EGOISTE PLATINUM EDT 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-chanel-egoiste-platinum-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-4711-acqua-colonia-pink-pepper-grapefruit-edc-170-ml-tst": {
       "nombre": "TST 4711 ACQUA COLONIA PINK PEPPER & GRAPEFRUIT EDC 170 ML TST",
       "precio": "16,00 €",
@@ -3092,6 +3122,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-givenchy-very-irresistible-edp-75-ml": {
+      "nombre": "TST GIVENCHY VERY IRRESISTIBLE EDP 75 ML",
+      "precio": "75,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-givenchy-very-irresistible-edp-75-ml.html",
+      "en_stock": true
+    },
     "tst-calvin-klein-ck-in2u-for-her-edt-150-ml": {
       "nombre": "TST CALVIN KLEIN CK IN2U FOR HER EDT 150 ML",
       "precio": "15,00 €",
@@ -4904,6 +4940,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elie-saab-elixir-edp-100-ml-.html",
       "en_stock": true
     },
+    "tst-loewe-paula-s-ibiza-cosmic-edp-100-ml": {
+      "nombre": "TST LOEWE PAULA'S IBIZA COSMIC EDP 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-paula-s-ibiza-cosmic-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-loewe-paula-s-ibiza-eclectic-edt-100-ml": {
       "nombre": "TST LOEWE PAULA'S IBIZA ECLECTIC EDT 100 ML",
       "precio": "59,00 €",
@@ -6426,6 +6468,12 @@
       "nombre": "TST CHANEL  COCO EDT 100 ML",
       "precio": "84,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-coco-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-chanel-coco-mademoiselleedt-edt-100-ml-": {
+      "nombre": "TST CHANEL  COCO MADEMOISELLE EDT 100 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-coco-mademoiselleedt-edt-100-ml-.html",
       "en_stock": true
     },
     "tst-chanel-cristalle-edt-100-ml-tst": {
