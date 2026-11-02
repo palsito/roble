@@ -534,12 +534,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-jpg-le-male-pride-edition-edt-125-ml.html",
       "en_stock": true
     },
-    "tst-prada-infusion-d-ylang-edp-100-ml": {
-      "nombre": "TST PRADA INFUSION D'YLANG EDP 100 ML",
-      "precio": "54,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-d-ylang-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-ralph-lauren-polo-green-edt-125-ml": {
       "nombre": "TST RALPH LAUREN POLO EDT 125 ML",
       "precio": "44,00 €",
@@ -1762,6 +1756,12 @@
       "nombre": "TST MATIERE PREMIERE BOIS D'EBÈNE EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-bois-d-ebene-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-prada-infusion-d-ylang-edp-100-ml": {
+      "nombre": "TST PRADA INFUSION D'YLANG EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-d-ylang-edp-100-ml.html",
       "en_stock": true
     },
     "tst-prada-luna-rossa-ocean-le-parfum-100-ml": {
@@ -3146,12 +3146,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-perfect-absolute-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-prada-infusion-d-ylang-edp-100-ml": {
-      "nombre": "TST PRADA INFUSION D'YLANG EDP 100 ML",
-      "precio": "54,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-d-ylang-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-giorgio-armani-armani-si-edp-intense-100-ml": {
       "nombre": "TST GIORGIO ARMANI ARMANI SI EDP INTENSE 100 ML",
       "precio": "64,00 €",
@@ -3720,6 +3714,12 @@
       "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
       "precio": "76,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-very-good-girl-elixir-80-ml.html",
+      "en_stock": true
+    },
+    "tst-lorenzo-pazzaglia-van-py-rhum-exdp-50-ml": {
+      "nombre": "TST LORENZO PAZZAGLIA VAN PY RHUM ExDP 50 ML",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-van-py-rhum-exdp-50-ml.html",
       "en_stock": true
     },
     "tst-borntostandout-mud-edp-50-ml": {
@@ -4656,6 +4656,12 @@
       "nombre": "TST BURBERRY HER LONDON DREAM EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-burberry-her-london-dream-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-prada-infusion-d-ylang-edp-100-ml": {
+      "nombre": "TST PRADA INFUSION D'YLANG EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-d-ylang-edp-100-ml.html",
       "en_stock": true
     },
     "tst-xerjoff-erba-pura-edp-100-mls": {
