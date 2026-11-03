@@ -406,12 +406,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml.html",
       "en_stock": true
     },
-    "tst-gucci-guilty-absolu-de-parfum-pour-femme-60-ml": {
-      "nombre": "TST GUCCI GUILTY ABSOLU DE PARFUM POUR FEMME 60 ML",
-      "precio": "63,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-absolu-de-parfum-pour-femme-60-ml.html",
-      "en_stock": true
-    },
     "tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml": {
       "nombre": "TST GUCCI GUILTY ELIXIR DE PARFUM POUR FEMME 60 ML",
       "precio": "63,00 €",
@@ -452,6 +446,12 @@
       "nombre": "TST MAISON TAHITE CAFE GOURMAND EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-cafe-gourmand-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-maison-tahite-cacao-libertine-edp-100-ml": {
+      "nombre": "TST MAISON TAHITE CACAO LIBERTINE EDP 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-cacao-libertine-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -1032,12 +1032,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-the-one-for-men-parfum-100-ml.html",
       "en_stock": true
     },
-    "tst-giorgio-armani-armani-code-edp-75-ml": {
-      "nombre": "TST GIORGIO ARMANI ARMANI CODE EDP 75 ML",
-      "precio": "54,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-armani-code-edp-75-ml.html",
-      "en_stock": true
-    },
     "tst-francesca-bianchi-encounters-extrait-de-parfum-100-ml": {
       "nombre": "TST FRANCESCA BIANCHI ENCOUNTERS EXTRAIT DE PARFUM 100 ML",
       "precio": "119,00 €",
@@ -1594,12 +1588,6 @@
       "nombre": "TST TOM FORD OMBRE LEATHER EDP 100 ML",
       "precio": "119,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-ombre-leather-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-tom-ford-black-orchid-parfum-100-ml": {
-      "nombre": "TST TOM FORD BLACK ORCHID PARFUM 100 ML",
-      "precio": "134,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-black-orchid-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-daniel-josier-history-in-drops-volume-v-edp-50-ml": {
@@ -3362,12 +3350,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-sisley-hair-ritual-le-parfum-100-ml.html",
       "en_stock": true
     },
-    "tst-giorgio-armani-armani-si-passione-edp-100-ml": {
-      "nombre": "TST GIORGIO ARMANI ARMANI SI PASSIONE EDP 100 ML",
-      "precio": "62,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-passione-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-calvin-klein-ck-one-edt-200-mls": {
       "nombre": "TST CALVIN KLEIN CK ONE EDT 200 ML",
       "precio": "33,00 €",
@@ -3672,12 +3654,6 @@
       "nombre": "TST CALVIN KLEIN CK ONE ESSENCE VIVA LOVE PARFUM INTENSE 100 ML",
       "precio": "25,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-essence-viva-love-parfum-intense-100-ml.html",
-      "en_stock": true
-    },
-    "tst-gucci-guilty-absolu-de-parfum-pour-femme-60-ml": {
-      "nombre": "TST GUCCI GUILTY ABSOLU DE PARFUM POUR FEMME 60 ML",
-      "precio": "63,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-absolu-de-parfum-pour-femme-60-ml.html",
       "en_stock": true
     },
     "tst-marc-jacobs-daisy-wild-edp-100-ml": {
@@ -4088,12 +4064,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-acqua-di-parma-magnolia-infinita-edp-180-ml.html",
       "en_stock": true
     },
-    "tst-christian-dior-miss-dior-essence-de-parfum-80-ml": {
-      "nombre": "TST CHRISTIAN DIOR MISS DIOR ESSENCE DE PARFUM 80 ML",
-      "precio": "110,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-miss-dior-essence-de-parfum-80-ml.html",
-      "en_stock": true
-    },
     "tst-mandarina-duck-for-her-edt-100-ml": {
       "nombre": "TST MANDARINA DUCK FOR HER EDT 100 ML",
       "precio": "9,00 €",
@@ -4380,12 +4350,6 @@
       "nombre": "TST HOSS INTROPIA CASILDA EDP 100 ML",
       "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hoss-intropia-casilda-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-tom-ford-black-orchid-parfum-100-ml": {
-      "nombre": "TST TOM FORD BLACK ORCHID PARFUM 100 ML",
-      "precio": "134,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-black-orchid-parfum-100-ml.html",
       "en_stock": true
     },
     "tst-daniel-josier-history-in-drops-volume-v-edp-50-ml": {
@@ -6078,6 +6042,12 @@
       "nombre": "TST CHLOE CHLOE EDP 75 ML",
       "precio": "57,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chloe-chloe-edp-75-ml.html",
+      "en_stock": true
+    },
+    "tst-hugo-boss-boss-ma-vie-edp-75-ml": {
+      "nombre": "TST HUGO BOSS BOSS MA VIE EDP 75 ML",
+      "precio": "37,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hugo-boss-boss-ma-vie-edp-75-ml.html",
       "en_stock": true
     },
     "tst-chanel-chance-eau-vive-edt-100-ml": {
