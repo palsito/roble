@@ -1914,12 +1914,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-4711-acqua-colonia-intense-lagoons-of-laos-edc-170-ml.html",
       "en_stock": true
     },
-    "tst-giorgio-armani-acqua-di-gio-parfum-100-ml": {
-      "nombre": "TST GIORGIO ARMANI ACQUA DI GIO PARFUM 100 ML",
-      "precio": "65,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-acqua-di-gio-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-giorgio-armani-acqua-di-gio-profondo-edp-100-ml": {
       "nombre": "TST GIORGIO ARMANI ACQUA DI GIO PROFONDO EDP 100 ML",
       "precio": "62,00 €",
@@ -2936,7 +2930,7 @@
     },
     "tst-issey-miyake-l-eau-d-issey-pour-homme-edt-125-ml-tst": {
       "nombre": "TST ISSEY MIYAKE L'EAU D'ISSEY POUR HOMME EDT 125 ML",
-      "precio": "37,00 €",
+      "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-issey-miyake-l-eau-d-issey-pour-homme-edt-125-ml-tst.html",
       "en_stock": true
     },
@@ -3890,12 +3884,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/christian-dior-miss-dior-blooming-bouquet-edt-100-ml-regular.html",
       "en_stock": true
     },
-    "tst-dolce-gabbana-my-devotion-edp-intense-100-ml": {
-      "nombre": "TST DOLCE & GABBANA MY DEVOTION EDP INTENSE 100 ML",
-      "precio": "73,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-my-devotion-edp-intense-100-ml.html",
-      "en_stock": true
-    },
     "tst-versace-crystal-emerald-edp-90ml": {
       "nombre": "TST VERSACE CRYSTAL EMERALD EDP 90ML",
       "precio": "57,00 €",
@@ -4794,6 +4782,12 @@
       "nombre": "TST GIORGIO ARMANI ARMANI SI PASSIONE ECLAT EDP 100 ML",
       "precio": "64,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-giorgio-armani-armani-si-passione-eclat-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-carlotha-ray-poire-santal-blanc-edp-50ml": {
+      "nombre": "TST CARLOTHA RAY POIRE & SANTAL BLANC EDP 50ML",
+      "precio": "24,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carlotha-ray-poire-santal-blanc-edp-50ml.html",
       "en_stock": true
     },
     "tst-daniel-josier-history-in-drops-volume-ii-edp-50-ml": {
