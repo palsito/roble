@@ -2960,12 +2960,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/valentino-valentina-edp-50-ml-regular.html",
       "en_stock": true
     },
-    "calvin-klein-euphoria-edp-100-ml-regular": {
-      "nombre": "CALVIN KLEIN EUPHORIA EDP 100 ML REGULAR",
-      "precio": "39,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/calvin-klein-euphoria-edp-100-ml-regular.html",
-      "en_stock": true
-    },
     "tst-lancome-o-zenith-edt-100-ml": {
       "nombre": "TST LANCOME Ô ZENITH EDT 100 ML",
       "precio": "29,00 €",
@@ -5092,7 +5086,7 @@
     },
     "tst-lancome-la-vie-est-belle-edp-100-ml-recargable": {
       "nombre": "TST LANCOME LA VIE EST BELLE EDP 100 ML RECARGABLE",
-      "precio": "56,00 €",
+      "precio": "62,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-la-vie-est-belle-edp-100-ml-recargable.html",
       "en_stock": true
     },
@@ -6246,6 +6240,12 @@
       "nombre": "TST HERMES EAU DES MERVEILLES EDT 100 ML",
       "precio": "64,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-des-merveilles-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-elixir-des-merveilles-edp-100-ml-": {
+      "nombre": "TST HERMES ELIXIR DES MERVEILLES EDP 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-elixir-des-merveilles-edp-100-ml-.html",
       "en_stock": true
     },
     "tst-hermes-jour-d-hermes-edp-85-ml-tst": {
