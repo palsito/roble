@@ -6,12 +6,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-starry-nights-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-etat-libre-de-orange-nostos-edp-100-ml": {
-      "nombre": "TST ETAT LIBRE DE ORANGE NOSTOS EDP 100 ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-nostos-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-parfums-de-marly-layton-edp-125-ml": {
       "nombre": "TST PARFUMS DE MARLY LAYTON EDP 125 ML",
       "precio": "179,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST BORNTOSTANDOUT COLA ADDICT EDP 50 ML",
       "precio": "114,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-cola-addict-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-montale-soleil-de-capri-edp-100-ml": {
+      "nombre": "TST MONTALE SOLEIL DE CAPRI EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-soleil-de-capri-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -510,12 +510,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-villoresi-musk-edt-100-ml.html",
       "en_stock": true
     },
-    "tst-etat-libre-de-orange-nostos-edp-100-ml": {
-      "nombre": "TST ETAT LIBRE DE ORANGE NOSTOS EDP 100 ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-nostos-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-parfums-de-marly-layton-edp-125-ml": {
       "nombre": "TST PARFUMS DE MARLY LAYTON EDP 125 ML",
       "precio": "179,00 €",
@@ -682,6 +676,12 @@
       "nombre": "TST CARON POUR UN HOMME PARFUM 75 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-caron-pour-un-homme-parfum-75-ml.html",
+      "en_stock": true
+    },
+    "loewe-esencia-pour-homme-edp-100-ml-regular": {
+      "nombre": "LOEWE ESENCIA POUR HOMME EDP 100 ML REGULAR",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/loewe-esencia-pour-homme-edp-100-ml-regular.html",
       "en_stock": true
     },
     "tst-giorgio-armani-acqua-di-gio-profondo-parfum-50-ml": {
