@@ -504,12 +504,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-starry-nights-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-lorenzo-villoresi-musk-edt-100-ml": {
-      "nombre": "TST LORENZO VILLORESI MUSK EDT 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-villoresi-musk-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-parfums-de-marly-layton-edp-125-ml": {
       "nombre": "TST PARFUMS DE MARLY LAYTON EDP 125 ML",
       "precio": "179,00 €",
@@ -3180,12 +3174,6 @@
       "nombre": "TST MONTALE STARRY NIGHTS EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-starry-nights-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-lorenzo-villoresi-musk-edt-100-ml": {
-      "nombre": "TST LORENZO VILLORESI MUSK EDT 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-villoresi-musk-edt-100-ml.html",
       "en_stock": true
     },
     "tst-escentric-molecules-escentric-02-edt-100-ml": {
@@ -6042,6 +6030,12 @@
       "nombre": "TST BURBERRY HER EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-burberry-her-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-elizabeth-arden-red-door-edt-100-ml": {
+      "nombre": "TST ELIZABETH ARDEN RED DOOR EDT 100 ML",
+      "precio": "16,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elizabeth-arden-red-door-edt-100-ml.html",
       "en_stock": true
     },
     "tst-tous-tous-edp-90-mll": {
