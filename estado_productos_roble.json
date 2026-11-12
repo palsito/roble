@@ -12,22 +12,10 @@
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-nostos-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-parfums-de-marly-haltane-edp-125-ml": {
-      "nombre": "TST PARFUMS DE MARLY HALTANE EDP 125 ML",
-      "precio": "179,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-parfums-de-marly-haltane-edp-125-ml.html",
-      "en_stock": true
-    },
     "tst-parfums-de-marly-layton-edp-125-ml": {
       "nombre": "TST PARFUMS DE MARLY LAYTON EDP 125 ML",
       "precio": "179,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-parfums-de-marly-layton-edp-125-ml.html",
-      "en_stock": true
-    },
-    "tst-initio-musk-therapy-edp-90-ml": {
-      "nombre": "TST INITIO MUSK THERAPY EDP 90 ML",
-      "precio": "179,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-musk-therapy-edp-90-ml.html",
       "en_stock": true
     },
     "tst-floris-n-89-edt-100-mlss": {
@@ -60,16 +48,28 @@
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-creed-milesime-imperial-edp-100-mlss.html",
       "en_stock": true
     },
-    "tst-creed-absolu-aventus-edp-100-ml": {
-      "nombre": "TST CREED ABSOLU AVENTUS EDP 100 ML",
-      "precio": "229,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-creed-absolu-aventus-edp-100-ml.html",
+    "tst-parfums-de-marly-pegasus-edp-125-ml": {
+      "nombre": "TST PARFUMS DE MARLY PEGASUS EDP 125 ML",
+      "precio": "169,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-parfums-de-marly-pegasus-edp-125-ml.html",
       "en_stock": true
     },
-    "tst-creed-aventus-edp-100-ml": {
-      "nombre": "TST CREED AVENTUS EDP 100 ML",
-      "precio": "199,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-creed-aventus-edp-100-ml.html",
+    "tst-borntostandout-filthy-musk-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT FILTHY MUSK EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-filthy-musk-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-mary-jane-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT MARY JANE EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-mary-jane-edp-50-ml.html",
+      "en_stock": true
+    },
+    "tst-borntostandout-cola-addict-edp-50-ml": {
+      "nombre": "TST BORNTOSTANDOUT COLA ADDICT EDP 50 ML",
+      "precio": "114,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-cola-addict-edp-50-ml.html",
       "en_stock": true
     }
   },
@@ -516,22 +516,10 @@
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-nostos-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-parfums-de-marly-haltane-edp-125-ml": {
-      "nombre": "TST PARFUMS DE MARLY HALTANE EDP 125 ML",
-      "precio": "179,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-parfums-de-marly-haltane-edp-125-ml.html",
-      "en_stock": true
-    },
     "tst-parfums-de-marly-layton-edp-125-ml": {
       "nombre": "TST PARFUMS DE MARLY LAYTON EDP 125 ML",
       "precio": "179,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-parfums-de-marly-layton-edp-125-ml.html",
-      "en_stock": true
-    },
-    "tst-initio-musk-therapy-edp-90-ml": {
-      "nombre": "TST INITIO MUSK THERAPY EDP 90 ML",
-      "precio": "179,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-musk-therapy-edp-90-ml.html",
       "en_stock": true
     },
     "tst-floris-n-89-edt-100-mlss": {
@@ -556,18 +544,6 @@
       "nombre": "TST CREED MILESIME IMPERIAL EDP 100 ML",
       "precio": "179,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-creed-milesime-imperial-edp-100-mlss.html",
-      "en_stock": true
-    },
-    "tst-creed-absolu-aventus-edp-100-ml": {
-      "nombre": "TST CREED ABSOLU AVENTUS EDP 100 ML",
-      "precio": "229,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-creed-absolu-aventus-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-creed-aventus-edp-100-ml": {
-      "nombre": "TST CREED AVENTUS EDP 100 ML",
-      "precio": "199,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-creed-aventus-edp-100-ml.html",
       "en_stock": true
     },
     "tst-parfums-de-marly-pegasus-edp-125-ml": {
@@ -1920,12 +1896,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-earth-elixir-100-ml-tst.html",
       "en_stock": true
     },
-    "tst-ramon-monegal-siesta-edp-50-ml": {
-      "nombre": "TST RAMON MONEGAL SIESTA EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-siesta-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-liquides-imaginaires-blanche-bete-edp-100-ml": {
       "nombre": "TST LIQUIDES IMAGINAIRES BLANCHE BETE EDP 100 ML",
       "precio": "159,00 €",
@@ -2502,12 +2472,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-paris-chocolate-greedy-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-loewe-esencia-pour-homme-edp-100-ml-nuevo-formato": {
-      "nombre": "TST LOEWE ESENCIA POUR HOMME EDP 100 ML NUEVO FORMATO",
-      "precio": "82,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-esencia-pour-homme-edp-100-ml-nuevo-formato.html",
-      "en_stock": true
-    },
     "tst-el-ganso-limoncello-season-edt-125-ml": {
       "nombre": "TST EL GANSO LIMONCELLO SEASON EDT 125 ML",
       "precio": "21,00 €",
@@ -2596,12 +2560,6 @@
       "nombre": "TST GIVENCHY GENTLEMAN EDT INTENSE 100  ML",
       "precio": "44,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-givenchy-gentleman-edt-intense-100-ml.html",
-      "en_stock": true
-    },
-    "tst-perris-montecarlo-santal-du-pacifique-edp-100-ml": {
-      "nombre": "TST PERRIS MONTECARLO SANTAL DU PACIFIQUE EDP 100 ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-perris-montecarlo-santal-du-pacifique-edp-100-ml.html",
       "en_stock": true
     },
     "tst-loewe-pour-homme-edt-100-ml-nuevo-formato": {
@@ -3246,12 +3204,6 @@
       "nombre": "TST ETAT LIBRE DE ORANGE NOSTOS EDP 100 ML",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-etat-libre-de-orange-nostos-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-initio-musk-therapy-edp-90-ml": {
-      "nombre": "TST INITIO MUSK THERAPY EDP 90 ML",
-      "precio": "179,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-initio-musk-therapy-edp-90-ml.html",
       "en_stock": true
     },
     "tst-escentric-molecules-escentric-02-edt-100-ml": {
@@ -4928,12 +4880,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-earth-elixir-100-ml-tst.html",
       "en_stock": true
     },
-    "tst-ramon-monegal-siesta-edp-50-ml": {
-      "nombre": "TST RAMON MONEGAL SIESTA EDP 50 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-ramon-monegal-siesta-edp-50-ml.html",
-      "en_stock": true
-    },
     "tst-chanel-cristalle-edp-100-mls": {
       "nombre": "TST CHANEL CRISTALLE EDP 100 ML",
       "precio": "94,00 €",
@@ -5760,12 +5706,6 @@
       "nombre": "TST MARC JACOBS DAISY EAU SO INTENSE EDP 100 ML",
       "precio": "44,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-daisy-eau-so-intense-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-perris-montecarlo-santal-du-pacifique-edp-100-ml": {
-      "nombre": "TST PERRIS MONTECARLO SANTAL DU PACIFIQUE EDP 100 ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-perris-montecarlo-santal-du-pacifique-edp-100-ml.html",
       "en_stock": true
     },
     "tst-loewe-aire-loewe-sutileza-edt-100-ml-nuevo-formato": {
