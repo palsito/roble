@@ -1428,12 +1428,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-simone-andreoli-fico-nero-edp-intense-100-ml.html",
       "en_stock": true
     },
-    "tst-orto-parisi-stercus-parfum-50-mls": {
-      "nombre": "TST ORTO PARISI STERCUS PARFUM 50 ML",
-      "precio": "119,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-orto-parisi-stercus-parfum-50-mls.html",
-      "en_stock": true
-    },
     "tst-jimmy-choo-man-extreme-edp-100-ml": {
       "nombre": "TST JIMMY CHOO MAN EXTREME EDP 100 ML",
       "precio": "35,00 €",
@@ -1474,6 +1468,12 @@
       "nombre": "TST MANDARINA DUCK MANDARINERS FOR HIM EDT 100 ML",
       "precio": "9,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-mandarina-duck-mandariners-for-him-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-mandarina-duck-for-him-edt-100-ml": {
+      "nombre": "TST MANDARINA DUCK FOR HIM EDT 100 ML",
+      "precio": "9,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-mandarina-duck-for-him-edt-100-ml.html",
       "en_stock": true
     },
     "tst-tom-ford-tuscan-leather-edp-50-ml": {
