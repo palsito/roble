@@ -6,12 +6,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-starry-nights-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-floris-n-89-edt-100-mlss": {
-      "nombre": "TST FLORIS Nº 89 EDT 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-floris-n-89-edt-100-mlss.html",
-      "en_stock": true
-    },
     "tst-escentric-molecules-escentric-02-edt-100-ml": {
       "nombre": "TST ESCENTRIC MOLECULES ESCENTRIC 02 EDT 100 ML",
       "precio": "64,00 €",
@@ -70,6 +64,12 @@
       "nombre": "TST THE MERCHANT OF VENICE BYZANTIUM SAFFRON EDP 100 ML",
       "precio": "79,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-the-merchant-of-venice-byzantium-saffron-edp-100-ml.html",
+      "en_stock": true
+    },
+    "mancera-ombre-tonka-edp-120-ml-regular": {
+      "nombre": "MANCERA OMBRE TONKA EDP 120 ML REGULAR",
+      "precio": "98,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-ombre-tonka-edp-120-ml-regular.html",
       "en_stock": true
     }
   },
@@ -502,12 +502,6 @@
       "nombre": "TST MONTALE STARRY NIGHTS EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-starry-nights-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-floris-n-89-edt-100-mlss": {
-      "nombre": "TST FLORIS Nº 89 EDT 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-floris-n-89-edt-100-mlss.html",
       "en_stock": true
     },
     "tst-escentric-molecules-escentric-02-edt-100-ml": {
@@ -1690,6 +1684,12 @@
       "nombre": "TST ACQUA DI PARMA COLONIA C.L.U.B EDC 180 ML",
       "precio": "82,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-colonia-club-edc-180-ml.html",
+      "en_stock": true
+    },
+    "tst-acqua-di-parma-blu-mediterraneo-mandorlo-di-sicilia-edt-100-ml": {
+      "nombre": "TST ACQUA DI PARMA BLU MEDITERRANEO MANDORLO DI SICILIA EDT...",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-blu-mediterraneo-mandorlo-di-sicilia-edt-100-ml.html",
       "en_stock": true
     },
     "tst-acqua-di-parma-luce-di-rosa-edp-100-ml": {
