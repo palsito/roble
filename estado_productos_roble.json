@@ -564,12 +564,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-superman-x-hugo-edp-125-ml.html",
       "en_stock": true
     },
-    "tst-paco-rabanne-invictus-elixir-parfum-100-ml": {
-      "nombre": "TST PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML",
-      "precio": "65,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-invictus-elixir-parfum-100-ml.html",
-      "en_stock": true
-    },
     "tst-montale-soleil-de-capri-edp-100-ml": {
       "nombre": "TST MONTALE SOLEIL DE CAPRI EDP 100 ML",
       "precio": "62,00 €",
@@ -826,6 +820,12 @@
       "nombre": "TST GUERLAIN L'INSTANT POUR HOMME EDT 100 ML",
       "precio": "48,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-guerlain-l-instant-pour-homme-edt-100-mls.html",
+      "en_stock": true
+    },
+    "tst-ralph-lauren-polo-blue-edp-125-mls": {
+      "nombre": "TST RALPH LAUREN POLO BLUE EDP 125 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-blue-edp-125-mls.html",
       "en_stock": true
     },
     "hermes-terre-d-hermes-eau-intense-vetiver-edp-50-ml-regular": {
