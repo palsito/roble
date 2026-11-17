@@ -2208,12 +2208,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-kenzo-homme-edt-110-ml.html",
       "en_stock": true
     },
-    "tst-loewe-earth-edp-100-ml-tst": {
-      "nombre": "TST LOEWE EARTH EDP 100 ML TST",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-earth-edp-100-ml-tst.html",
-      "en_stock": true
-    },
     "tst-hermes-un-jardin-a-cythere-edt-100-ml": {
       "nombre": "TST HERMES UN JARDIN A CYTHERE EDT 100 ML",
       "precio": "48,00 €",
@@ -5192,12 +5186,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-trussardi-new-feminine-edp-90-ml.html",
       "en_stock": true
     },
-    "tst-loewe-earth-edp-100-ml-tst": {
-      "nombre": "TST LOEWE EARTH EDP 100 ML TST",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-loewe-earth-edp-100-ml-tst.html",
-      "en_stock": true
-    },
     "tst-hermes-un-jardin-a-cythere-edt-100-ml": {
       "nombre": "TST HERMES UN JARDIN A CYTHERE EDT 100 ML",
       "precio": "48,00 €",
@@ -5550,6 +5538,12 @@
       "nombre": "TST GUERLAIN AQUA ALLEGORIA ROSA ROSSA EDT  125 ML",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-rosa-rossa-edt-125-ml.html",
+      "en_stock": true
+    },
+    "tst-kenzo-jungle-l-elephant-edp-100-ml": {
+      "nombre": "TST KENZO JUNGLE L'ELEPHANT EDP 100 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-kenzo-jungle-l-elephant-edp-100-ml.html",
       "en_stock": true
     },
     "tst-tom-ford-neroli-portofino-edp-50-ml": {
