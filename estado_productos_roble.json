@@ -74,6 +74,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-descatalogados": {
+    "tst-moschino-forever-sailing-edt-100-ml": {
+      "nombre": "TST MOSCHINO FOREVER SAILING EDT 100 ML",
+      "precio": "33,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-forever-sailing-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-victorio-y-luchino-viva-edt-100mls": {
+      "nombre": "TST VICTORIO Y LUCHINO VIVA! EDT 100ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-victorio-y-luchino-viva-edt-100mls.html",
+      "en_stock": true
+    },
     "tst-givenchy-very-irresistible-edp-75-ml": {
       "nombre": "TST GIVENCHY VERY IRRESISTIBLE EDP 75 ML",
       "precio": "75,00 €",
@@ -314,6 +326,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-eau-intense-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-lancome-miracle-edp-100-ml": {
+      "nombre": "TST LANCOME MIRACLE EDP 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-miracle-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-cartier-delices-edt-100-ml": {
       "nombre": "TST CARTIER  DELICES EDT 100 ML",
       "precio": "64,00 €",
@@ -468,6 +486,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-moschino-forever-sailing-edt-100-ml": {
+      "nombre": "TST MOSCHINO FOREVER SAILING EDT 100 ML",
+      "precio": "33,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-moschino-forever-sailing-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-trussardi-primo-notte-blu-edp-100-ml": {
       "nombre": "TST TRUSSARDI PRIMO NOTTE BLU EDP 100 ML",
       "precio": "39,00 €",
@@ -894,6 +918,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jacadi-le-bebe-eau-de-senteur-100-ml.html",
       "en_stock": true
     },
+    "tst-azzaro-azzaro-the-most-wanted-parfum-100-ml": {
+      "nombre": "TST AZZARO AZZARO THE MOST WANTED PARFUM 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-the-most-wanted-parfum-100-ml.html",
+      "en_stock": true
+    },
     "tst-electimuss-imperium-edp-100-ml": {
       "nombre": "TST ELECTIMUSS IMPERIUM EDP 100 ML",
       "precio": "125,00 €",
@@ -1068,6 +1098,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-the-one-for-men-parfum-100-ml.html",
       "en_stock": true
     },
+    "tst-giorgio-armani-armani-code-edp-75-ml": {
+      "nombre": "TST GIORGIO ARMANI ARMANI CODE EDP 75 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-armani-code-edp-75-ml.html",
+      "en_stock": true
+    },
     "tst-francesca-bianchi-encounters-extrait-de-parfum-100-ml": {
       "nombre": "TST FRANCESCA BIANCHI ENCOUNTERS EXTRAIT DE PARFUM 100 ML",
       "precio": "119,00 €",
@@ -1138,6 +1174,12 @@
       "nombre": "TST RALPH LAUREN POLO BLUE PARFUM 125 ML",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-blue-parfum-125-ml.html",
+      "en_stock": true
+    },
+    "tst-valentino-uomo-born-in-roma-purple-melancholia-edt-100-ml": {
+      "nombre": "TST VALENTINO UOMO BORN IN ROMA PURPLE MELANCHOLIA EDT 100 ML",
+      "precio": "62,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-valentino-uomo-born-in-roma-purple-melancholia-edt-100-ml.html",
       "en_stock": true
     },
     "pantheon-roma-notte-d-amore-exdp-50-ml-regular": {
@@ -2106,6 +2148,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/thauy-hotep-edp-100-ml-regular.html",
       "en_stock": true
     },
+    "tst-giorgio-armani-armani-code-edt-75-ml": {
+      "nombre": "TST GIORGIO ARMANI ARMANI CODE EDT 75 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-armani-code-edt-75-ml.html",
+      "en_stock": true
+    },
     "tst-sisley-l-eau-revee-d-eliya-edt-100-ml": {
       "nombre": "TST SISLEY L'EAU REVEE D'ELIYA EDT 100 ML",
       "precio": "55,00 €",
@@ -2550,6 +2598,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-angel-schlesser-profound-orange-wood-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-dolce-gabbana-k-by-dolce-gabbana-edp-100-ml": {
+      "nombre": "TST DOLCE & GABBANA K BY DOLCE & GABBANA EDP 100 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-k-by-dolce-gabbana-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-chanel-bleu-parfum-100-ml": {
       "nombre": "TST CHANEL BLEU PARFUM 100 ML",
       "precio": "105,00 €",
@@ -2898,6 +2952,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-mandarine-ambree-edc-100-ml.html",
       "en_stock": true
     },
+    "tst-hermes-eau-de-orange-verte-edc-100-ml-tst": {
+      "nombre": "TST HERMES EAU DE ORANGE VERTE EDC 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-orange-verte-edc-100-ml-tst.html",
+      "en_stock": true
+    },
     "tst-hermes-un-jardin-apress-la-mousson-edt-100-ml-tst": {
       "nombre": "TST HERMES UN JARDIN APRESS LA MOUSSON EDT 100 ML",
       "precio": "53,00 €",
@@ -2987,9 +3047,21 @@
       "precio": "43,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-versace-versace-pour-homme-edt-100-ml-tst.html",
       "en_stock": true
+    },
+    "tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst": {
+      "nombre": "TST ZADIG & VOLTAIRE ZADIG & VOLTAIRE THIS IS HIM EDT 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-zadig-voltaire-zadig-voltaire-this-is-him-edt-100-ml-tst.html",
+      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-victorio-y-luchino-viva-edt-100mls": {
+      "nombre": "TST VICTORIO Y LUCHINO VIVA! EDT 100ML",
+      "precio": "19,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-victorio-y-luchino-viva-edt-100mls.html",
+      "en_stock": true
+    },
     "tst-versace-yellow-diamond-intense-edp-90-ml": {
       "nombre": "TST VERSACE YELLOW DIAMOND INTENSE EDP 90 ML",
       "precio": "54,00 €",
@@ -5534,6 +5606,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-chance-eau-tendre-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-christian-dior-miss-dior-rose-n-roses-edt-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR MISS DIOR ROSE N'ROSES EDT 100 ML",
+      "precio": "79,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-miss-dior-rose-n-roses-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-guerlain-le-petite-robe-noire-ma-robe-velours-edp-100-ml": {
       "nombre": "TST GUERLAIN LE PETITE ROBE NOIRE MA ROBE VELOURS EDP 100 ML",
       "precio": "62,00 €",
@@ -5972,6 +6050,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-dolce-gabbana-light-blue-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-valentino-donna-edp-100-ml": {
+      "nombre": "TST VALENTINO DONNA EDP 100 ML",
+      "precio": "67,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-valentino-donna-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-lancome-tresor-edp-100-ml-": {
       "nombre": "TST LANCOME TRESOR EDP 100 ML",
       "precio": "54,00 €",
@@ -6200,6 +6284,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-chance-edp-100-ml-tst.html",
       "en_stock": true
     },
+    "tst-chanel-coco-edt-100-ml-tst": {
+      "nombre": "TST CHANEL  COCO EDT 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-coco-edt-100-ml-tst.html",
+      "en_stock": true
+    },
     "tst-chanel-cristalle-edt-100-ml-tst": {
       "nombre": "TST CHANEL  CRISTALLE EDT 100 ML",
       "precio": "79,00 €",
@@ -6278,6 +6368,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-mandarine-ambree-edc-100-ml.html",
       "en_stock": true
     },
+    "tst-hermes-eau-de-orange-verte-edc-100-ml-tst": {
+      "nombre": "TST HERMES EAU DE ORANGE VERTE EDC 100 ML",
+      "precio": "44,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-orange-verte-edc-100-ml-tst.html",
+      "en_stock": true
+    },
     "tst-hermes-eau-des-merveilles-edt-100-ml-tst": {
       "nombre": "TST HERMES EAU DES MERVEILLES EDT 100 ML",
       "precio": "64,00 €",
@@ -6306,6 +6402,12 @@
       "nombre": "TST HERMES UN JARDIN EN MEDITERRANEE EDT 100 ML",
       "precio": "56,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-un-jardin-en-mediterranee-edt-100-ml-tst.html",
+      "en_stock": true
+    },
+    "tst-hermes-un-jardin-sur-le-nil-edt-100-ml-tst": {
+      "nombre": "TST HERMES UN JARDIN SUR LE NIL EDT 100 ML",
+      "precio": "56,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-un-jardin-sur-le-nil-edt-100-ml-tst.html",
       "en_stock": true
     },
     "tst-hermes-un-jardin-sur-le-toit-edt-100-ml-tst": {
