@@ -308,6 +308,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-elie-saab-le-parfum-intense-edp-90-ml.html",
       "en_stock": true
     },
+    "tst-jpg-scandal-edp-80-ml": {
+      "nombre": "TST JPG  SCANDAL EDP 80 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-scandal-edp-80-ml.html",
+      "en_stock": true
+    },
     "tst-chanel-gabrielle-edp-100-ml": {
       "nombre": "TST CHANEL GABRIELLE EDP 100 ML",
       "precio": "94,00 €",
@@ -622,6 +628,12 @@
       "nombre": "MANCERA OMBRE TONKA EDP 120 ML REGULAR",
       "precio": "98,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-ombre-tonka-edp-120-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-giorgio-armani-i-will-edp-100-ml": {
+      "nombre": "TST GIORGIO ARMANI I WILL EDP 100 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-giorgio-armani-i-will-edp-100-ml.html",
       "en_stock": true
     },
     "tst-calvin-klein-eternity-for-men-suede-essence-parfum-intense-100-ml": {
@@ -1386,6 +1398,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/dolce-gabbana-the-one-for-men-edp-100-ml-regular.html",
       "en_stock": true
     },
+    "tst-hugo-boss-boss-bottled-beyond-edp-100-ml": {
+      "nombre": "TST HUGO BOSS BOSS BOTTLED BEYOND EDP 100 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hugo-boss-boss-bottled-beyond-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-lorenzo-pazzaglia-carbonara-exdp-50-ml": {
       "nombre": "TST LORENZO PAZZAGLIA CARBONARA ExDP 50 ML",
       "precio": "99,00 €",
@@ -1782,6 +1800,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-xerjoff-erba-gold-edp-100-ml": {
+      "nombre": "TST XERJOFF ERBA GOLD EDP 100 ML",
+      "precio": "179,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-xerjoff-erba-gold-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-adolfo-dominguez-agua-fresca-1993-edt-120-ml": {
       "nombre": "TST ADOLFO DOMINGUEZ AGUA FRESCA 1993 EDT 120 ML",
       "precio": "20,00 €",
@@ -1804,6 +1828,12 @@
       "nombre": "TST MATIERE PREMIERE BOIS D'EBÈNE EDP 100 ML",
       "precio": "129,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-matiere-premiere-bois-d-ebene-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-prada-infusion-d-ylang-edp-100-ml": {
+      "nombre": "TST PRADA INFUSION D'YLANG EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-infusion-d-ylang-edp-100-ml.html",
       "en_stock": true
     },
     "tst-prada-luna-rossa-ocean-le-parfum-100-ml": {
@@ -2670,6 +2700,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-k-by-dolce-gabbana-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-givenchy-gentleman-edp-100-ml": {
+      "nombre": "TST GIVENCHY GENTLEMAN EDP 100  ML",
+      "precio": "45,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-givenchy-gentleman-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-bvlgari-blv-pour-homme-edt-100-ml": {
       "nombre": "TST BVLGARI BLV POUR HOMME EDT 100 ML",
       "precio": "79,00 €",
@@ -2842,6 +2878,12 @@
       "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME EAU INTENSE  EDP 100...",
       "precio": "54,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-light-blue-pour-homme-eau-intense-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-hermes-terre-d-hermes-pure-parfum-75-ml": {
+      "nombre": "TST HERMES TERRE D'HERMES PURE PARFUM 75  ML",
+      "precio": "73,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-hermes-terre-d-hermes-pure-parfum-75-ml.html",
       "en_stock": true
     },
     "tst-ralph-lauren-polo-red-edt-125-ml": {
@@ -3086,6 +3128,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-jpg-scandal-intense-parfum-80-ml": {
+      "nombre": "TST JPG SCANDAL INTENSE PARFUM 80 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-scandal-intense-parfum-80-ml.html",
+      "en_stock": true
+    },
     "tst-bvlgari-rose-goldea-edp-90-ml": {
       "nombre": "TST BVLGARI ROSE GOLDEA BLOSSOM DELIGHT EDP 75 ML",
       "precio": "53,00 €",
@@ -3734,6 +3782,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-edeniste-vetiver-imaginaire-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-jpg-scandal-elixir-parfum-80-ml": {
+      "nombre": "TST JPG SCANDAL ELIXIR PARFUM 80 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-scandal-elixir-parfum-80-ml.html",
+      "en_stock": true
+    },
     "tst-carolina-herrera-very-good-girl-elixir-80-ml": {
       "nombre": "TST CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80 ML",
       "precio": "76,00 €",
@@ -4334,6 +4388,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-escada-bali-paradise-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-marc-jacobs-perfect-elixir-edp-100-ml": {
+      "nombre": "TST MARC JACOBS PERFECT ELIXIR EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-marc-jacobs-perfect-elixir-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-reminiscence-elixir-de-patchouli-edp-100-ml": {
       "nombre": "TST REMINISCENCE ELIXIR DE PATCHOULI EDP 100 ML",
       "precio": "49,00 €",
@@ -4596,6 +4656,12 @@
       "nombre": "TST PACO RABANNE ONE MILLION GOLD FOR HER EDP 90 ML",
       "precio": "55,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-edp-90-ml.html",
+      "en_stock": true
+    },
+    "tst-xerjoff-erba-gold-edp-100-ml": {
+      "nombre": "TST XERJOFF ERBA GOLD EDP 100 ML",
+      "precio": "179,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-xerjoff-erba-gold-edp-100-ml.html",
       "en_stock": true
     },
     "tst-maison-lancome-l-autre-oud-edp-100-ml": {
@@ -4908,6 +4974,12 @@
       "nombre": "TST CAROLINA HERRERA 212 VIP ROSE WOMAN ELIXIR EDP 80 ML",
       "precio": "49,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-212-vip-rose-woman-elixir-edp80-ml.html",
+      "en_stock": true
+    },
+    "tst-jpg-scandal-absolu-parfum-concentree-80-ml": {
+      "nombre": "TST JPG SCANDAL ABSOLU PARFUM CONCENTREE 80 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-scandal-absolu-parfum-concentree-80-ml.html",
       "en_stock": true
     },
     "tst-valentino-donna-born-in-roma-green-stravaganza-edp-100-ml": {
@@ -5268,6 +5340,12 @@
       "nombre": "TST TOUS LOVE ME ONYX PARFUM 90 ML",
       "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tous-love-me-onyx-parfum-90-ml.html",
+      "en_stock": true
+    },
+    "tst-jpg-scandal-le-parfum-edp-intense-80-ml": {
+      "nombre": "TST JPG SCANDAL LE PARFUM EDP INTENSE 80 ML",
+      "precio": "64,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-scandal-le-parfum-edp-intense-80-ml.html",
       "en_stock": true
     },
     "tst-mancera-roses-vanille-edp-120-ml": {
@@ -5762,6 +5840,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-prada-la-femme-l-eau-edt-100-ml.html",
       "en_stock": true
     },
+    "tst-loewe-agua-de-loewe-442-edt-100-ml": {
+      "nombre": "TST LOEWE AGUA DE LOEWE 44.2 EDT 100 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-loewe-agua-de-loewe-442-edt-100-ml.html",
+      "en_stock": true
+    },
     "tst-christian-dior-forever-and-ever-edt-100-ml": {
       "nombre": "TST CHRISTIAN DIOR FOREVER AND EVER EDT 100 ML",
       "precio": "79,00 €",
@@ -6024,6 +6108,12 @@
       "nombre": "TST TOMMY HILGIFIGER TOMMY GIRL EDT 100 ML",
       "precio": "23,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-tommy-hilgifiger-tommy-girl-edt-100-ml.html",
+      "en_stock": true
+    },
+    "tst-jpg-scandal-edp-80-ml": {
+      "nombre": "TST JPG  SCANDAL EDP 80 ML",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-jpg-scandal-edp-80-ml.html",
       "en_stock": true
     },
     "tst-jesus-del-pozo-halloween-woman-edt-100-ml": {
