@@ -1,5 +1,17 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-francesca-bianchi-the-mariner-s-rhyme-extrait-de-parfum-30-ml": {
+      "nombre": "TST FRANCESCA BIANCHI THE MARINER'S RHYME EXTRAIT DE PARFUM 30 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-francesca-bianchi-the-mariner-s-rhyme-extrait-de-parfum-30-ml.html",
+      "en_stock": true
+    },
+    "rosendo-mateu-10-edp-100-ml-regular": {
+      "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "lorenzo-sweet-xplosion-exdp-50-ml-regular": {
       "nombre": "LORENZO SWEET XPLOSION ExDP 50 ML REGULAR",
       "precio": "99,00 €",
@@ -58,18 +70,6 @@
       "nombre": "TST THE MERCHANT OF VENICE ANDALOUSIAN SOUL EDP 100 ML",
       "precio": "84,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-the-merchant-of-venice-andalousian-soul-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-the-merchant-of-venice-byzantium-saffron-edp-100-ml": {
-      "nombre": "TST THE MERCHANT OF VENICE BYZANTIUM SAFFRON EDP 100 ML",
-      "precio": "79,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-the-merchant-of-venice-byzantium-saffron-edp-100-ml.html",
-      "en_stock": true
-    },
-    "mancera-ombre-tonka-edp-120-ml-regular": {
-      "nombre": "MANCERA OMBRE TONKA EDP 120 ML REGULAR",
-      "precio": "98,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-ombre-tonka-edp-120-ml-regular.html",
       "en_stock": true
     }
   },
@@ -424,6 +424,12 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
+    "rosendo-mateu-10-edp-100-ml-regular": {
+      "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "tst-ralph-lauren-polo-green-edt-125-ml": {
       "nombre": "TST RALPH LAUREN POLO EDT 125 ML",
       "precio": "44,00 €",
@@ -472,6 +478,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/cacharel-amor-amor-edt-100-ml-regulars.html",
       "en_stock": true
     },
+    "tst-rosendo-mateu-9-edp-100-ml": {
+      "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-9-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml": {
       "nombre": "TST PACO RABANNE ONE MILLION GOLD FOR HER PARFUM 90 ML",
       "precio": "59,00 €",
@@ -483,21 +495,21 @@
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-valentino-donna-born-in-roma-purple-melancholia-edp-100-ml.html",
       "en_stock": true
-    },
-    "tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml": {
-      "nombre": "TST GUCCI GUILTY ELIXIR DE PARFUM POUR FEMME 60 ML",
-      "precio": "63,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml.html",
-      "en_stock": true
-    },
-    "tst-maison-tahite-velvet-coffee-edp-100-ml": {
-      "nombre": "TST MAISON TAHITE VELVET COFFEE EDP 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-velvet-coffee-edp-100-ml.html",
-      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-francesca-bianchi-the-mariner-s-rhyme-extrait-de-parfum-30-ml": {
+      "nombre": "TST FRANCESCA BIANCHI THE MARINER'S RHYME EXTRAIT DE PARFUM 30 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-francesca-bianchi-the-mariner-s-rhyme-extrait-de-parfum-30-ml.html",
+      "en_stock": true
+    },
+    "rosendo-mateu-10-edp-100-ml-regular": {
+      "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "lorenzo-sweet-xplosion-exdp-50-ml-regular": {
       "nombre": "LORENZO SWEET XPLOSION ExDP 50 ML REGULAR",
       "precio": "99,00 €",
@@ -1024,6 +1036,12 @@
       "nombre": "TST BVLGARI MAN IN BLACK PARFUM 100 ML",
       "precio": "82,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-bvlgari-man-in-black-parfum-100-ml.html",
+      "en_stock": true
+    },
+    "tst-rosendo-mateu-9-edp-100-ml": {
+      "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-9-edp-100-ml.html",
       "en_stock": true
     },
     "eight-bob-memoires-de-mustique-edp-30-ml-regular": {
@@ -2010,6 +2028,12 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-givenchy-gentleman-society-extreme-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-rosendo-mateu-8-edp-100-ml": {
+      "nombre": "TST ROSENDO MATEU 8 EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-8-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-dolce-gabbana-light-blue-pour-homme-summer-vibes-edt-125-ml": {
       "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME SUMMER VIBES EDT 125 ML",
       "precio": "49,00 €",
@@ -2268,6 +2292,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-reflections-edt-100-ml.html",
       "en_stock": true
     },
+    "jul-et-mad-aqua-sextius-edp-50-ml-regular": {
+      "nombre": "JUL ET MAD AQUA SEXTIUS EDP 50 ML REGULAR",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/jul-et-mad-aqua-sextius-edp-50-ml-regular.html",
+      "en_stock": true
+    },
     "tst-carolina-herrera-bad-boy-cobalt-edp-100-ml": {
       "nombre": "TST CAROLINA HERRERA BAD BOY COBALT EDP 100 ML",
       "precio": "52,00 €",
@@ -2302,6 +2332,12 @@
       "nombre": "ELECTIMUSS BLACK CAVIAR EDP 100 ML REGULAR",
       "precio": "169,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/electimuss-black-caviar-edp-100-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-rosendo-mateu-7-edp-100-ml": {
+      "nombre": "TST ROSENDO MATEU 7 EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-7-edp-100-ml.html",
       "en_stock": true
     },
     "tst-azzaro-chrome-edp-100-ml": {
@@ -2404,6 +2440,12 @@
       "nombre": "TST CARTHUSIA CORALLIUM EDP 100 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-corallium-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-nasomatto-absinth-extrait-de-parfum-30-ml": {
+      "nombre": "TST NASOMATTO ABSINTH EXTRAIT DE PARFUM 30 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nasomatto-absinth-extrait-de-parfum-30-ml.html",
       "en_stock": true
     },
     "tst-issey-miyake-l-eau-d-iseey-pour-homme-eaucedre-edt-intense-100-ml": {
@@ -3146,6 +3188,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-francesca-bianchi-the-mariner-s-rhyme-extrait-de-parfum-30-ml": {
+      "nombre": "TST FRANCESCA BIANCHI THE MARINER'S RHYME EXTRAIT DE PARFUM 30 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-francesca-bianchi-the-mariner-s-rhyme-extrait-de-parfum-30-ml.html",
+      "en_stock": true
+    },
+    "rosendo-mateu-10-edp-100-ml-regular": {
+      "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
+      "en_stock": true
+    },
     "lorenzo-sweet-xplosion-exdp-50-ml-regular": {
       "nombre": "LORENZO SWEET XPLOSION ExDP 50 ML REGULAR",
       "precio": "99,00 €",
@@ -3738,6 +3792,12 @@
       "nombre": "TST PEPE JEANS FOR HER LONDON CALLING EDP 80 ML",
       "precio": "15,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-pepe-jeans-for-her-london-calling-edp-80-ml.html",
+      "en_stock": true
+    },
+    "tst-rosendo-mateu-9-edp-100-ml": {
+      "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
+      "precio": "84,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-9-edp-100-ml.html",
       "en_stock": true
     },
     "tst-christian-dior-addict-rosy-glow-edp-50-ml": {
@@ -5324,6 +5384,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-calvin-klein-ck-one-reflections-edt-100-ml.html",
       "en_stock": true
     },
+    "jul-et-mad-aqua-sextius-edp-50-ml-regular": {
+      "nombre": "JUL ET MAD AQUA SEXTIUS EDP 50 ML REGULAR",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/jul-et-mad-aqua-sextius-edp-50-ml-regular.html",
+      "en_stock": true
+    },
     "tst-trussardi-new-feminine-edp-90-ml": {
       "nombre": "TST TRUSSARDI NEW FEMININE EDP 90 ML",
       "precio": "24,00 €",
@@ -5460,6 +5526,12 @@
       "nombre": "TST CARTHUSIA CORALLIUM EDP 100 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carthusia-corallium-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-nasomatto-absinth-extrait-de-parfum-30-ml": {
+      "nombre": "TST NASOMATTO ABSINTH EXTRAIT DE PARFUM 30 ML",
+      "precio": "89,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-nasomatto-absinth-extrait-de-parfum-30-ml.html",
       "en_stock": true
     },
     "tst-tous-love-me-edp-90-ml": {
