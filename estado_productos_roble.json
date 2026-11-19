@@ -1,5 +1,11 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "lorenzo-sweet-xplosion-exdp-50-ml-regular": {
+      "nombre": "LORENZO SWEET XPLOSION ExDP 50 ML REGULAR",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/lorenzo-sweet-xplosion-exdp-50-ml-regular.html",
+      "en_stock": true
+    },
     "tst-escentric-molecules-escentric-02-edt-100-ml": {
       "nombre": "TST ESCENTRIC MOLECULES ESCENTRIC 02 EDT 100 ML",
       "precio": "64,00 €",
@@ -64,12 +70,6 @@
       "nombre": "MANCERA OMBRE TONKA EDP 120 ML REGULAR",
       "precio": "98,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-ombre-tonka-edp-120-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-dirty-rice-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT DIRTY RICE EDP 50 ML",
-      "precio": "114,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-dirty-rice-edp-50-ml.html",
       "en_stock": true
     }
   },
@@ -498,6 +498,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "lorenzo-sweet-xplosion-exdp-50-ml-regular": {
+      "nombre": "LORENZO SWEET XPLOSION ExDP 50 ML REGULAR",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/lorenzo-sweet-xplosion-exdp-50-ml-regular.html",
+      "en_stock": true
+    },
     "tst-moschino-forever-sailing-edt-100-ml": {
       "nombre": "TST MOSCHINO FOREVER SAILING EDT 100 ML",
       "precio": "33,00 €",
@@ -3134,6 +3140,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "lorenzo-sweet-xplosion-exdp-50-ml-regular": {
+      "nombre": "LORENZO SWEET XPLOSION ExDP 50 ML REGULAR",
+      "precio": "99,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/lorenzo-sweet-xplosion-exdp-50-ml-regular.html",
+      "en_stock": true
+    },
     "tst-jpg-scandal-intense-parfum-80-ml": {
       "nombre": "TST JPG SCANDAL INTENSE PARFUM 80 ML",
       "precio": "64,00 €",
