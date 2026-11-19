@@ -1,5 +1,17 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "tst-unique-e-luxury-kutay-exdp-100-ml": {
+      "nombre": "TST UNIQUE'E LUXURY KUTAY ExDP 100 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-unique-e-luxury-kutay-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-unique-e-luxury-chocolate-makes-me-happy-exdp-100-ml": {
+      "nombre": "TST UNIQUE'E LUXURY CHOCOLATE MAKES ME HAPPY ExDP 100 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-unique-e-luxury-chocolate-makes-me-happy-exdp-100-ml.html",
+      "en_stock": true
+    },
     "francesca-bianchi-voluptous-oud-extrait-de-parfum-30-ml-regular": {
       "nombre": "FRANCESCA BIANCHI VOLUPTOUS OUD EXTRAIT DE PARFUM 30 ML REGULAR",
       "precio": "79,00 €",
@@ -58,18 +70,6 @@
       "nombre": "TST BORNTOSTANDOUT MARY JANE EDP 50 ML",
       "precio": "114,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-mary-jane-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-cola-addict-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT COLA ADDICT EDP 50 ML",
-      "precio": "114,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-cola-addict-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-montale-soleil-de-capri-edp-100-ml": {
-      "nombre": "TST MONTALE SOLEIL DE CAPRI EDP 100 ML",
-      "precio": "62,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-montale-soleil-de-capri-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -498,6 +498,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-unique-e-luxury-kutay-exdp-100-ml": {
+      "nombre": "TST UNIQUE'E LUXURY KUTAY ExDP 100 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-unique-e-luxury-kutay-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-unique-e-luxury-chocolate-makes-me-happy-exdp-100-ml": {
+      "nombre": "TST UNIQUE'E LUXURY CHOCOLATE MAKES ME HAPPY ExDP 100 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-unique-e-luxury-chocolate-makes-me-happy-exdp-100-ml.html",
+      "en_stock": true
+    },
     "francesca-bianchi-voluptous-oud-extrait-de-parfum-30-ml-regular": {
       "nombre": "FRANCESCA BIANCHI VOLUPTOUS OUD EXTRAIT DE PARFUM 30 ML REGULAR",
       "precio": "79,00 €",
@@ -3200,6 +3212,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "tst-unique-e-luxury-kutay-exdp-100-ml": {
+      "nombre": "TST UNIQUE'E LUXURY KUTAY ExDP 100 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-unique-e-luxury-kutay-exdp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-unique-e-luxury-chocolate-makes-me-happy-exdp-100-ml": {
+      "nombre": "TST UNIQUE'E LUXURY CHOCOLATE MAKES ME HAPPY ExDP 100 ML",
+      "precio": "149,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-unique-e-luxury-chocolate-makes-me-happy-exdp-100-ml.html",
+      "en_stock": true
+    },
     "francesca-bianchi-voluptous-oud-extrait-de-parfum-30-ml-regular": {
       "nombre": "FRANCESCA BIANCHI VOLUPTOUS OUD EXTRAIT DE PARFUM 30 ML REGULAR",
       "precio": "79,00 €",
