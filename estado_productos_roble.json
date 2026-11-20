@@ -26,7 +26,7 @@
     },
     "rosendo-mateu-10-edp-100-ml-regular": {
       "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
-      "precio": "69,00 €",
+      "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
       "en_stock": true
     },
@@ -344,12 +344,6 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-miracle-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-cartier-delices-edt-100-ml": {
-      "nombre": "TST CARTIER  DELICES EDT 100 ML",
-      "precio": "64,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-cartier-delices-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-paco-rabanne-ultraviolet-man-edt-100-ml": {
       "nombre": "TST PACO RABANNE ULTRAVIOLET MAN EDT 100 ML",
       "precio": "42,00 €",
@@ -424,12 +418,6 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
-    "rosendo-mateu-10-edp-100-ml-regular": {
-      "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
-      "precio": "69,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
-      "en_stock": true
-    },
     "tst-ralph-lauren-polo-green-edt-125-ml": {
       "nombre": "TST RALPH LAUREN POLO EDT 125 ML",
       "precio": "44,00 €",
@@ -495,6 +483,12 @@
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-valentino-donna-born-in-roma-purple-melancholia-edp-100-ml.html",
       "en_stock": true
+    },
+    "tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml": {
+      "nombre": "TST GUCCI GUILTY ELIXIR DE PARFUM POUR FEMME 60 ML",
+      "precio": "63,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml.html",
+      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
@@ -524,7 +518,7 @@
     },
     "rosendo-mateu-10-edp-100-ml-regular": {
       "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
-      "precio": "69,00 €",
+      "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
       "en_stock": true
     },
@@ -3238,7 +3232,7 @@
     },
     "rosendo-mateu-10-edp-100-ml-regular": {
       "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
-      "precio": "69,00 €",
+      "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
       "en_stock": true
     },
