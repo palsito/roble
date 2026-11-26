@@ -1,5 +1,23 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "mancera-vetiver-sensuel-edp-60-ml-regular": {
+      "nombre": "MANCERA VETIVER SENSUEL EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-vetiver-sensuel-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-wild-fruits-edp-60-ml-regular": {
+      "nombre": "MANCERA WILD FRUITS EDP 60 ML REGULAR",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-wild-fruits-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-saharian-wind-edp-60-ml-regular": {
+      "nombre": "MANCERA SAHARIAN WIND EDP 60 ML REGULAR",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-saharian-wind-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "mancera-soleil-d-italie-edp-60-ml-regular": {
       "nombre": "MANCERA SOLEIL D'ITALIE EDP 60 ML REGULAR",
       "precio": "54,00 €",
@@ -52,24 +70,6 @@
       "nombre": "ROSENDO MATEU 10 EDP 100 ML REGULAR",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/rosendo-mateu-10-edp-100-ml-regular.html",
-      "en_stock": true
-    },
-    "lorenzo-sweet-xplosion-exdp-50-ml-regular": {
-      "nombre": "LORENZO SWEET XPLOSION ExDP 50 ML REGULAR",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/lorenzo-sweet-xplosion-exdp-50-ml-regular.html",
-      "en_stock": true
-    },
-    "tst-escentric-molecules-escentric-02-edt-100-ml": {
-      "nombre": "TST ESCENTRIC MOLECULES ESCENTRIC 02 EDT 100 ML",
-      "precio": "64,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-escentric-molecules-escentric-02-edt-100-ml.html",
-      "en_stock": true
-    },
-    "tst-houbigant-patchouli-sauvage-edp-100-ml": {
-      "nombre": "TST HOUBIGANT PATCHOULI SAUVAGE EDP 100 ML",
-      "precio": "99,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-houbigant-patchouli-sauvage-edp-100-ml.html",
       "en_stock": true
     }
   },
@@ -418,6 +418,12 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
+    "mancera-wild-fruits-edp-60-ml-regular": {
+      "nombre": "MANCERA WILD FRUITS EDP 60 ML REGULAR",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-wild-fruits-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "mancera-saharian-wind-edp-60-ml-regular": {
       "nombre": "MANCERA SAHARIAN WIND EDP 60 ML REGULAR",
       "precio": "49,00 €",
@@ -483,15 +489,21 @@
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-lys-toscana-edp-100-ml.html",
       "en_stock": true
-    },
-    "tst-premiere-note-rosa-damas-edp-100-ml": {
-      "nombre": "TST PREMIERE NOTE ROSA DAMAS EDP 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-rosa-damas-edp-100-ml.html",
-      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "mancera-vetiver-sensuel-edp-60-ml-regular": {
+      "nombre": "MANCERA VETIVER SENSUEL EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-vetiver-sensuel-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-wild-fruits-edp-60-ml-regular": {
+      "nombre": "MANCERA WILD FRUITS EDP 60 ML REGULAR",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-wild-fruits-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "mancera-saharian-wind-edp-60-ml-regular": {
       "nombre": "MANCERA SAHARIAN WIND EDP 60 ML REGULAR",
       "precio": "49,00 €",
@@ -3152,6 +3164,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "mancera-vetiver-sensuel-edp-60-ml-regular": {
+      "nombre": "MANCERA VETIVER SENSUEL EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-vetiver-sensuel-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "mancera-wild-fruits-edp-60-ml-regular": {
       "nombre": "MANCERA WILD FRUITS EDP 60 ML REGULAR",
       "precio": "49,00 €",
