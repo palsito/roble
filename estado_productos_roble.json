@@ -486,6 +486,12 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "tst-montblanc-legend-edp-100-ml": {
+      "nombre": "TST MONTBLANC LEGEND EDP 100 ML",
+      "precio": "34,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-montblanc-legend-edp-100-ml.html",
+      "en_stock": true
+    },
     "tst-dolce-gabbana-light-blue-pour-homme-edp-100-ml": {
       "nombre": "TST DOLCE & GABBANA LIGHT BLUE POUR HOMME EDP 100 ML",
       "precio": "52,00 €",
@@ -1948,6 +1954,12 @@
       "nombre": "TST AZZARO AZZARO WANTED EDP 100 ML",
       "precio": "47,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-azzaro-azzaro-wanted-edp-100-ml.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-k-by-dolce-gabbana-intense-edp-100-ml": {
+      "nombre": "TST DOLCE & GABBANA K BY DOLCE & GABBANA INTENSE EDP 100 ML",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-k-by-dolce-gabbana-intense-edp-100-ml.html",
       "en_stock": true
     },
     "tst-loewe-solo-loewe-vulcan-edp-100-ml": {
@@ -5732,6 +5744,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-chanel-chance-eau-tendre-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-yves-saint-laurent-libre-edp-90-ml": {
+      "nombre": "TST YVES SAINT LAURENT LIBRE EDP 90 ML",
+      "precio": "69,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-yves-saint-laurent-libre-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-christian-dior-miss-dior-rose-n-roses-edt-100-ml": {
       "nombre": "TST CHRISTIAN DIOR MISS DIOR ROSE N'ROSES EDT 100 ML",
       "precio": "79,00 €",
@@ -6188,6 +6206,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lancome-miracle-edp-100-ml.html",
       "en_stock": true
     },
+    "tst-guerlain-aqua-allegoria-bergamote-calabria-edt-125-ml": {
+      "nombre": "TST GUERLAIN AQUA ALLEGORIA BERGAMOTE CALABRIA EDT  125 ML",
+      "precio": "53,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-guerlain-aqua-allegoria-bergamote-calabria-edt-125-ml.html",
+      "en_stock": true
+    },
     "tst-dolce-gabbana-pour-femme-edp-100-ml": {
       "nombre": "TST DOLCE & GABBANA POUR FEMME EDP 100 ML",
       "precio": "59,00 €",
@@ -6276,6 +6300,12 @@
       "nombre": "TST CAROLINA HERRERA GOOD GIRL ZAPATO EDP 80 ML",
       "precio": "69,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-carolina-herrera-good-girl-zapato-edp-80-ml.html",
+      "en_stock": true
+    },
+    "tst-christian-dior-dune-edt-100-ml": {
+      "nombre": "TST CHRISTIAN DIOR DUNE  EDT 100 ML",
+      "precio": "78,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-christian-dior-dune-edt-100-ml.html",
       "en_stock": true
     },
     "tst-tommy-hilgifiger-tommy-girl-10-edt-100-ml": {
