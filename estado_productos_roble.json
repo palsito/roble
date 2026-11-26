@@ -1,5 +1,35 @@
 {
   "https://elrobleperfumado.com/perfumes-nicho": {
+    "mancera-soleil-d-italie-edp-60-ml-regular": {
+      "nombre": "MANCERA SOLEIL D'ITALIE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-soleil-d-italie-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-choco-violette-edp-60-ml-regular": {
+      "nombre": "MANCERA CHOCO VIOLETTE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-choco-violette-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-vanille-exclusive-edp-60-ml-regular": {
+      "nombre": "MANCERA VANILLE EXCLUSIVE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-vanille-exclusive-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-jardin-exclusif-edp-60-ml-regular": {
+      "nombre": "MANCERA JARDIN EXCLUSIF EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-jardin-exclusif-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-sicily-edp-60-ml-regular": {
+      "nombre": "MANCERA SICILY EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-sicily-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "tst-unique-e-luxury-chocolate-makes-me-happy-exdp-100-ml": {
       "nombre": "TST UNIQUE'E LUXURY CHOCOLATE MAKES ME HAPPY ExDP 100 ML",
       "precio": "149,00 €",
@@ -40,36 +70,6 @@
       "nombre": "TST HOUBIGANT PATCHOULI SAUVAGE EDP 100 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-houbigant-patchouli-sauvage-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-creed-carmina-edp-75-ml": {
-      "nombre": "TST CREED CARMINA EDP 75 ML",
-      "precio": "169,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-creed-carmina-edp-75-ml.html",
-      "en_stock": true
-    },
-    "tst-creed-milesime-imperial-edp-100-mlss": {
-      "nombre": "TST CREED MILESIME IMPERIAL EDP 100 ML",
-      "precio": "179,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-nicho/tst-creed-milesime-imperial-edp-100-mlss.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-filthy-musk-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT FILTHY MUSK EDP 50 ML",
-      "precio": "114,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-filthy-musk-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-mary-jane-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT MARY JANE EDP 50 ML",
-      "precio": "114,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-mary-jane-edp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-borntostandout-cola-addict-edp-50-ml": {
-      "nombre": "TST BORNTOSTANDOUT COLA ADDICT EDP 50 ML",
-      "precio": "114,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-borntostandout-cola-addict-edp-50-ml.html",
       "en_stock": true
     }
   },
@@ -418,6 +418,30 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
+    "mancera-saharian-wind-edp-60-ml-regular": {
+      "nombre": "MANCERA SAHARIAN WIND EDP 60 ML REGULAR",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-saharian-wind-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-soleil-d-italie-edp-60-ml-regular": {
+      "nombre": "MANCERA SOLEIL D'ITALIE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-soleil-d-italie-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-choco-violette-edp-60-ml-regular": {
+      "nombre": "MANCERA CHOCO VIOLETTE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-choco-violette-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-vanille-exclusive-edp-60-ml-regular": {
+      "nombre": "MANCERA VANILLE EXCLUSIVE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-vanille-exclusive-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "tst-narciso-rodriguez-all-of-me-intense-edp-90-ml": {
       "nombre": "TST NARCISO RODRIGUEZ ALL OF ME INTENSE EDP 90 ML",
       "precio": "49,00 €",
@@ -465,33 +489,39 @@
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-nicho/tst-premiere-note-rosa-damas-edp-100-ml.html",
       "en_stock": true
-    },
-    "cacharel-amor-amor-edt-100-ml-regulars": {
-      "nombre": "CACHAREL  AMOR AMOR EDT 100 ML REGULAR",
-      "precio": "27,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/cacharel-amor-amor-edt-100-ml-regulars.html",
-      "en_stock": true
-    },
-    "tst-rosendo-mateu-9-edp-100-ml": {
-      "nombre": "TST ROSENDO MATEU 9 EDP 100 ML",
-      "precio": "84,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-rosendo-mateu-9-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml": {
-      "nombre": "TST PACO RABANNE ONE MILLION GOLD FOR HER PARFUM 90 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-paco-rabanne-one-million-gold-for-her-parfum-90-ml.html",
-      "en_stock": true
-    },
-    "tst-valentino-donna-born-in-roma-purple-melancholia-edp-100-ml": {
-      "nombre": "TST VALENTINO DONNA BORN IN ROMA PURPLE MELANCHOLIA EDP 100 ML",
-      "precio": "59,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-valentino-donna-born-in-roma-purple-melancholia-edp-100-ml.html",
-      "en_stock": true
     }
   },
   "https://elrobleperfumado.com/perfumes-hombre": {
+    "mancera-saharian-wind-edp-60-ml-regular": {
+      "nombre": "MANCERA SAHARIAN WIND EDP 60 ML REGULAR",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-saharian-wind-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-choco-violette-edp-60-ml-regular": {
+      "nombre": "MANCERA CHOCO VIOLETTE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-choco-violette-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-vanille-exclusive-edp-60-ml-regular": {
+      "nombre": "MANCERA VANILLE EXCLUSIVE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-vanille-exclusive-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-jardin-exclusif-edp-60-ml-regular": {
+      "nombre": "MANCERA JARDIN EXCLUSIF EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-jardin-exclusif-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-sicily-edp-60-ml-regular": {
+      "nombre": "MANCERA SICILY EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-sicily-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "tst-montblanc-legend-edp-100-ml": {
       "nombre": "TST MONTBLANC LEGEND EDP 100 ML",
       "precio": "34,00 €",
@@ -3122,6 +3152,42 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "mancera-wild-fruits-edp-60-ml-regular": {
+      "nombre": "MANCERA WILD FRUITS EDP 60 ML REGULAR",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-wild-fruits-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-saharian-wind-edp-60-ml-regular": {
+      "nombre": "MANCERA SAHARIAN WIND EDP 60 ML REGULAR",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-saharian-wind-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-soleil-d-italie-edp-60-ml-regular": {
+      "nombre": "MANCERA SOLEIL D'ITALIE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-soleil-d-italie-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-choco-violette-edp-60-ml-regular": {
+      "nombre": "MANCERA CHOCO VIOLETTE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-choco-violette-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-vanille-exclusive-edp-60-ml-regular": {
+      "nombre": "MANCERA VANILLE EXCLUSIVE EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-vanille-exclusive-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "mancera-jardin-exclusif-edp-60-ml-regular": {
+      "nombre": "MANCERA JARDIN EXCLUSIF EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-jardin-exclusif-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "mancera-sicily-edp-60-ml-regular": {
       "nombre": "MANCERA SICILY EDP 60 ML REGULAR",
       "precio": "59,00 €",
