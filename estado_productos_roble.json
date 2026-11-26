@@ -418,6 +418,12 @@
     }
   },
   "https://elrobleperfumado.com/ofertones": {
+    "tst-narciso-rodriguez-all-of-me-intense-edp-90-ml": {
+      "nombre": "TST NARCISO RODRIGUEZ ALL OF ME INTENSE EDP 90 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-narciso-rodriguez-all-of-me-intense-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-ralph-lauren-polo-green-edt-125-ml": {
       "nombre": "TST RALPH LAUREN POLO EDT 125 ML",
       "precio": "44,00 €",
@@ -482,12 +488,6 @@
       "nombre": "TST VALENTINO DONNA BORN IN ROMA PURPLE MELANCHOLIA EDP 100 ML",
       "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-valentino-donna-born-in-roma-purple-melancholia-edp-100-ml.html",
-      "en_stock": true
-    },
-    "tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml": {
-      "nombre": "TST GUCCI GUILTY ELIXIR DE PARFUM POUR FEMME 60 ML",
-      "precio": "63,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-gucci-guilty-elixir-de-parfum-pour-femme-60-ml.html",
       "en_stock": true
     }
   },
@@ -1016,13 +1016,13 @@
     },
     "mancera-tonka-cola-edp-60-ml-regular": {
       "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
-      "precio": "64,00 €",
+      "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-tonka-cola-edp-60-ml-regular.html",
       "en_stock": true
     },
     "mancera-cherry-cherry-edp-60-ml-regular": {
       "nombre": "MANCERA CHERRY CHERRY EDP 60 ML REGULAR",
-      "precio": "64,00 €",
+      "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-cherry-cherry-edp-60-ml-regular.html",
       "en_stock": true
     },
@@ -2310,6 +2310,12 @@
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-basilic-pourpre-edc-100-ml.html",
       "en_stock": true
     },
+    "mancera-hindu-kush-edp-60-ml-regular": {
+      "nombre": "MANCERA HINDU KUSH EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-hindu-kush-edp-60-ml-regular.html",
+      "en_stock": true
+    },
     "tst-hermes-terre-d-hermes-eau-givree-edp-100-ml": {
       "nombre": "TST HERMES TERRE D'HERMES EAU GIVREE EDP 100  ML",
       "precio": "66,00 €",
@@ -3116,6 +3122,18 @@
     }
   },
   "https://elrobleperfumado.com/perfumes-mujer": {
+    "mancera-sicily-edp-60-ml-regular": {
+      "nombre": "MANCERA SICILY EDP 60 ML REGULAR",
+      "precio": "59,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-sicily-edp-60-ml-regular.html",
+      "en_stock": true
+    },
+    "tst-narciso-rodriguez-all-of-me-intense-edp-90-ml": {
+      "nombre": "TST NARCISO RODRIGUEZ ALL OF ME INTENSE EDP 90 ML",
+      "precio": "49,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-narciso-rodriguez-all-of-me-intense-edp-90-ml.html",
+      "en_stock": true
+    },
     "tst-tiffany-woman-edp-50-ml": {
       "nombre": "TST TIFFANY WOMAN EDP 50 ML",
       "precio": "39,00 €",
@@ -3706,13 +3724,13 @@
     },
     "mancera-tonka-cola-edp-60-ml-regular": {
       "nombre": "MANCERA TONKA COLA EDP 60 ML REGULAR",
-      "precio": "64,00 €",
+      "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-tonka-cola-edp-60-ml-regular.html",
       "en_stock": true
     },
     "mancera-cherry-cherry-edp-60-ml-regular": {
       "nombre": "MANCERA CHERRY CHERRY EDP 60 ML REGULAR",
-      "precio": "64,00 €",
+      "precio": "59,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-cherry-cherry-edp-60-ml-regular.html",
       "en_stock": true
     },
@@ -5316,6 +5334,12 @@
       "nombre": "TST HERMES EAU DE BASILIC POURPRE EDC 100 ML",
       "precio": "39,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-hermes-eau-de-basilic-pourpre-edc-100-ml.html",
+      "en_stock": true
+    },
+    "mancera-hindu-kush-edp-60-ml-regular": {
+      "nombre": "MANCERA HINDU KUSH EDP 60 ML REGULAR",
+      "precio": "54,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-mujer/mancera-hindu-kush-edp-60-ml-regular.html",
       "en_stock": true
     },
     "tst-calvin-klein-ck-one-edt-100-ml": {
