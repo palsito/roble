@@ -350,12 +350,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-paco-rabanne-ultraviolet-man-edt-100-ml.html",
       "en_stock": true
     },
-    "tst-agua-de-loewe-ella-edt-100-ml": {
-      "nombre": "TST LOEWE  AGUA DE LOEWE ELLA EDT 100 ML",
-      "precio": "48,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-mujer/tst-agua-de-loewe-ella-edt-100-ml.html",
-      "en_stock": true
-    },
     "tst-roberto-verino-gold-bouquet-edp-90-ml": {
       "nombre": "TST ROBERTO VERINO GOLD BOUQUET EDP 90 ML",
       "precio": "24,00 €",
@@ -1314,12 +1308,6 @@
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-vanilla-park-edp-100-ml.html",
       "en_stock": true
     },
-    "tst-maison-tahite-iristretto-edp-100-ml": {
-      "nombre": "TST MAISON TAHITE I_RISTRETTO EDP 100 ML",
-      "precio": "49,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-maison-tahite-iristretto-edp-100-ml.html",
-      "en_stock": true
-    },
     "tst-maison-tahite-floranilla-edp-100-ml": {
       "nombre": "TST MAISON TAHITE FLORANILLA EDP 100 ML",
       "precio": "49,00 €",
@@ -1456,12 +1444,6 @@
       "nombre": "TST LORENZO PAZZAGLIA BLOODY SMOKE ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-tom-ford-noir-extreme-edp-100-ml": {
-      "nombre": "TST TOM FORD NOIR EXTREME EDP 100 ML",
-      "precio": "119,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-noir-extreme-edp-100-ml.html",
       "en_stock": true
     },
     "tst-tom-ford-grey-vetiver-parfum-100-ml": {
@@ -2788,6 +2770,12 @@
       "nombre": "TST RALPH LAUREN POLO ULTRA BLUE  EDT 125 ML",
       "precio": "46,00 €",
       "url": "https://elrobleperfumado.com/perfumes-hombre/tst-ralph-lauren-polo-ultra-blue-edt-125-ml-.html",
+      "en_stock": true
+    },
+    "tst-dolce-gabbana-pour-homme-intenso-edp-125-mll": {
+      "nombre": "TST DOLCE & GABBANA POUR HOMME INTENSO EDP 125 ML",
+      "precio": "52,00 €",
+      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-dolce-gabbana-pour-homme-intenso-edp-125-mll.html",
       "en_stock": true
     },
     "tst-ralph-lauren-polo-sport-edt-125-ml": {
@@ -4218,12 +4206,6 @@
       "nombre": "TST LORENZO PAZZAGLIA BLOODY SMOKE ExDP 50 ML",
       "precio": "99,00 €",
       "url": "https://elrobleperfumado.com/perfumes-mujer/tst-lorenzo-pazzaglia-bloody-smoke-exdp-50-ml.html",
-      "en_stock": true
-    },
-    "tst-tom-ford-noir-extreme-edp-100-ml": {
-      "nombre": "TST TOM FORD NOIR EXTREME EDP 100 ML",
-      "precio": "119,00 €",
-      "url": "https://elrobleperfumado.com/perfumes-hombre/tst-tom-ford-noir-extreme-edp-100-ml.html",
       "en_stock": true
     },
     "tst-tom-ford-grey-vetiver-parfum-100-ml": {
